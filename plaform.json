@@ -1,0 +1,103 @@
+{
+    "kenshi": {
+        "roster": "base"
+    },
+
+    "jade": {
+        "roster": "base"
+    },
+
+    "scorpion": {
+        "roster": "base"
+    },
+
+    "mileena": {
+        "roster": "base"
+    },
+    "baraka": {
+        "roster": "base"
+    },
+    "subzero": {
+        "roster": "base"
+    },
+    "sindel": {
+        "roster": "base"
+    },
+    "havik": {
+        "roster": "base"
+    },
+    "raiden": {
+        "roster": "base"
+    },
+    "limei": {
+        "roster": "base"
+    },
+    "kabal": {
+        "roster": "base"
+    },
+    "ermac": {
+        "roster": "base"
+    },
+    "nightwolf": {
+        "roster": "base"
+    },
+    "boraicho": {
+        "roster": "base"
+    },
+    "noobsmoke": {
+        "roster": "base"
+    },
+    "tanya": {
+        "roster": "base"
+    },
+    "shujinko": {
+        "roster": "base"
+    },
+    "hotaru": {
+        "roster": "base"
+    },
+    "ashrah": {
+        "roster": "base"
+    },
+    "dairou": {
+        "roster": "base"
+    },
+    "kobra": {
+        "roster": "base"
+    },
+    "darrius": {
+        "roster": "base"
+    },
+
+    "kira": {
+        "roster": "base"
+    },
+    "liukang": {
+        "roster": "base"
+    },
+
+    "shaokhan": {
+        "roster": "unchain"
+    },
+    "goro": { "roster": "unchain" },
+
+    "blaze": { "roster": "unchain" },
+    "frost": { "roster": "unchain" },
+    "jax": { "roster": "unchain" },
+    "kitana": { "roster": "unchain" },
+    "sonya": { "roster": "ultimate" },
+
+    "drahmin": { "roster": "ultimate" },
+    "sareena": { "roster": "ultimate" },
+    "quanchi": { "roster": "ultimate" },
+    "shangtsung": { "roster": "ultimate" },
+    "kunglao": { "roster": "ultimate" },
+    "johnnycage": { "roster": "ultimate" },
+    "sektor": { "roster": "ultimate" },
+    "nitara": { "roster": "ultimate" },
+    "rain": { "roster": "ultimate" },
+    "cyrax": { "roster": "ultimate" },
+    "reiko": { "roster": "ultimate" },
+    "tremor": { "roster": "ultimate" },
+    "onaga": { "roster": "ultimate" }
+}
