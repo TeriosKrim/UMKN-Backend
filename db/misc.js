@@ -9,11 +9,15 @@ const Misc = (db) => {
         },
         bio: {
             type: DataTypes.STRING,
-            allowNull: false,
+            allowNull: true,
+        },
+        bio2: {
+            type: DataTypes.STRING,
+            allowNull: true,
         },
         ending: {
             type: DataTypes.STRING,
-            allowNull: false,
+            allowNull: true,
         },
         fighterID: {
             type: DataTypes.INTEGER,

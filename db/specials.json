@@ -1,0 +1,751 @@
+[
+    {
+        "move": "Telekinetic Slam",
+        "button": "B,D,B,1",
+        "link": "",
+        "fighterID": 1
+    },
+    {
+        "move": "Telekinetic Toss",
+        "button": "D,B,4",
+        "link": "",
+        "fighterID": 1
+    },
+    {
+        "move": "Telekinetic Push",
+        "button": "F,F,2",
+        "link": "",
+        "fighterID": 1
+    },
+    {
+        "move": "Tele-Flurry",
+        "button": "B,F,3",
+        "link": "",
+        "fighterID": 1
+    },
+    {
+        "move": "Mind Warp",
+        "button": "D,B,3",
+        "link": "",
+        "fighterID": 1
+    },
+    {
+        "move": "Fatality 1",
+        "button": "F,F,B,B,2(mid)",
+        "link": "",
+        "fighterID": 1
+    },
+
+    {
+        "move": "Fatality 2",
+        "button": "U,F,B,F,2(Mid)",
+        "link": "",
+        "fighterID": 1
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "D,F,B,B,2",
+        "link": "",
+        "fighterID": 1
+    },
+    {
+        "move": "Vanishing Winds",
+        "button": "F,B,1",
+        "link": "",
+        "fighterID": 2
+    },
+    {
+        "move": "Blazing Nitro Kick",
+        "button": "B,F,4",
+        "link": "",
+        "fighterID": 2
+    },
+    {
+        "move": "Razor-Rang",
+        "button": "D,B,3",
+        "link": "",
+        "fighterID": 2
+    },
+    {
+        "move": "Dodging Shadows",
+        "button": "B,F,2",
+        "link": "",
+        "fighterID": 2
+    },
+    {
+        "move": "Fatality 1",
+        "button": "B,F,U,F,1(Mid)",
+        "link": "",
+        "fighterID": 2
+    },
+    {
+        "move": "Fatality 2",
+        "button": "B,F,F,F,2(Close)",
+        "link": "",
+        "fighterID": 2
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "F,F,F,B,2",
+        "link": "",
+        "fighterID": 2
+    },
+
+    {
+        "move": "Bloody spear",
+        "button": "B,F,1",
+        "link": "",
+        "fighterID": 3
+    },
+    {
+        "move": "Hellfire",
+        "button": "D,B,2",
+        "link": "",
+        "fighterID": 3
+    },
+    {
+        "move": "Backflip kick",
+        "button": "F,B,3",
+        "link": "",
+        "fighterID": 3
+    },
+    {
+        "move": "Teleport attack",
+        "button": "D,B,3",
+        "link": "",
+        "fighterID": 3
+    },
+
+    {
+        "move": "Fatality 1",
+        "button": "F,D,F,F,1(Mid)",
+        "link": "",
+        "fighterID": 3
+    },
+    {
+        "move": "Fatality 2",
+        "button": "F,B,F,B,1(Close)",
+        "link": "",
+        "fighterID": 3
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "D,D,U,B,1",
+        "link": "",
+        "fighterID": 3
+    },
+    {
+        "move": "Rolling Thunder",
+        "button": "B,D,4",
+        "link": "",
+        "fighterID": 4
+    },
+    {
+        "move": "Soaring Sai",
+        "button": "D,F,2",
+        "link": "",
+        "fighterID": 4
+    },
+    {
+        "move": "Kick From Above",
+        "button": "F,F,4",
+        "link": "",
+        "fighterID": 4
+    },
+    {
+        "move": "Fatality 1",
+        "button": "F,F,D,D,1(Mid)",
+        "link": "",
+        "fighterID": 4
+    },
+    {
+        "move": "Fatality 2",
+        "button": "U,U,F,F,3(Far)",
+        "link": "",
+        "fighterID": 4
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "B,D,F,B,1",
+        "link": "",
+        "fighterID": 4
+    },
+    {
+        "move": "Flying Shard",
+        "button": "D,B,1",
+        "link": "",
+        "fighterID": 5
+    },
+    {
+        "move": "Mutant Blades",
+        "button": "F,F,3",
+        "link": "",
+        "fighterID": 5
+    },
+    {
+        "move": "Chop Chop Blades",
+        "button": "D,U,3",
+        "link": "",
+        "fighterID": 5
+    },
+    {
+        "move": "Fatality 1",
+        "button": "F,U,D,2(Close)",
+        "link": "",
+        "fighterID": 5
+    },
+    {
+        "move": "Fatality 2",
+        "button": "F,D,B,F,2(Mid)",
+        "link": "",
+        "fighterID": 5
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "D,B,U,B,4",
+        "link": "",
+        "fighterID": 5
+    },
+    {
+        "move": "Ice Clone",
+        "button": "D,B,1",
+        "link": "",
+        "fighterID": 6
+    },
+    {
+        "move": "Freeze Ball",
+        "button": "D,F,3",
+        "link": "",
+        "fighterID": 6
+    },
+    {
+        "move": "Cold Shoulder",
+        "button": "B,F,4",
+        "link": "",
+        "fighterID": 6
+    },
+    {
+        "move": "Fatality 1",
+        "button": "F,B,D,F,2(Close)",
+        "link": "",
+        "fighterID": 6
+    },
+    {
+        "move": "Fatality 2",
+        "button": "B,D,F,D,1(Mid)",
+        "link": "",
+        "fighterID": 6
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "D,U,D,U,2",
+        "link": "",
+        "fighterID": 6
+    },
+    {
+        "move": "Banshee Scream",
+        "button": "F,F,1",
+        "link": "",
+        "fighterID": 7
+    },
+    {
+        "move": "Star Screamer",
+        "button": "F,F,3",
+        "link": "",
+        "fighterID": 7
+    },
+    {
+        "move": "Sliding Foot Grab",
+        "button": "B,F,1",
+        "link": "",
+        "fighterID": 7
+    },
+    {
+        "move": "Fatality 1",
+        "button": "B,F,F,B,1(Mid)",
+        "link": "",
+        "fighterID": 7
+    },
+    {
+        "move": "Fatality 2",
+        "button": "U,U,B,F,3(Mid)",
+        "link": "",
+        "fighterID": 7
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "F,U,U,D,4",
+        "link": "",
+        "fighterID": 7
+    },
+    {
+        "move": "Torso Spin",
+        "button": "D,B,1",
+        "link": "",
+        "fighterID": 8
+    },
+    {
+        "move": "Diving Corpse",
+        "button": "B,D,1",
+        "link": "",
+        "fighterID": 8
+    },
+    {
+        "move": "Cracking Legs Projectile",
+        "button": "B,F,3",
+        "link": "",
+        "fighterID": 8
+    },
+    {
+        "move": "Head Snap",
+        "button": "B,F,2",
+        "link": "",
+        "fighterID": 8
+    },
+    {
+        "move": "Corpse Taunt",
+        "button": "F,B,4",
+        "link": "",
+        "fighterID": 8
+    },
+    {
+        "move": "Fatality 1",
+        "button": "D,F,F,U,4(Close)",
+        "link": "",
+        "fighterID": 8
+    },
+    {
+        "move": "Fatality 2",
+        "button": "F,F,F,B,2(Mid)",
+        "link": "",
+        "fighterID": 8
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "F,U,U,U,2",
+        "link": "",
+        "fighterID": 8
+    },
+    {
+        "move": "Static Teleport",
+        "button": "D,U,3",
+        "link": "",
+        "fighterID": 9
+    },
+    {
+        "move": "Lighting Bolt",
+        "button": "D,B,1",
+        "link": "",
+        "fighterID": 9
+    },
+    {
+        "move": "Shocking Touch",
+        "button": "F,F,2",
+        "link": "",
+        "fighterID": 9
+    },
+    {
+        "move": "Flying Thunder God",
+        "button": "F,F,4",
+        "link": "",
+        "fighterID": 9
+    },
+    {
+        "move": "Fatality 1",
+        "button": "B,D,F,D,1(Mid)",
+        "link": "",
+        "fighterID": 9
+    },
+    {
+        "move": "Fatality 2",
+        "button": "U,D,F,F,1(Far)",
+        "link": "",
+        "fighterID": 9
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "F,U,U,B,1",
+        "link": "",
+        "fighterID": 9
+    },
+    {
+        "move": "Nova Blast",
+        "button": "D,B,1",
+        "link": "",
+        "fighterID": 10
+    },
+    {
+        "move": "Carnival Spin",
+        "button": "F,D,3",
+        "link": "",
+        "fighterID": 10
+    },
+    {
+        "move": "Flying Flurry",
+        "button": "F,F,2",
+        "link": "",
+        "fighterID": 10
+    },
+    {
+        "move": "Fliping Heel Kick",
+        "button": "D,B,4",
+        "link": "",
+        "fighterID": 10
+    },
+    {
+        "move": "Fatality 1",
+        "button": "F,F,F,F,1(Mid)",
+        "link": "",
+        "fighterID": 10
+    },
+    {
+        "move": "Fatality 2",
+        "button": "U,B,F,F,4(Mid)",
+        "link": "",
+        "fighterID": 10
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "U,D,U,D,3",
+        "link": "",
+        "fighterID": 10
+    },
+    {
+        "move": "Fatality 1",
+        "button": "F,U,U,U,3(Close)",
+        "link": "",
+        "fighterID": 11
+    },
+    {
+        "move": "Fatality 2",
+        "button": "U,U,D,D,2(Close)",
+        "link": "",
+        "fighterID": 11
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "F,U,U,D,2",
+        "link": "",
+        "fighterID": 11
+    },
+    {
+        "move": "Fatality 1",
+        "button": "D,B,B,D,3(Mid)",
+        "link": "",
+        "fighterID": 12
+    },
+    {
+        "move": "Fatality 2",
+        "button": "B,D,B,D,4(Mid)",
+        "link": "",
+        "fighterID": 12
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "D,U,U,D,3",
+        "link": "",
+        "fighterID": 12
+    },
+    {
+        "move": "Fatality 1",
+        "button": "B,F,B,F,1(Far)",
+        "link": "",
+        "fighterID": 13
+    },
+    {
+        "move": "Fatality 2",
+        "button": "D,F,D,U,2(Mid)",
+        "link": "",
+        "fighterID": 13
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "U,U,U,U,3",
+        "link": "",
+        "fighterID": 13
+    },
+    {
+        "move": "Fatality 1",
+        "button": "D,U,F,F,2(Sweep)",
+        "link": "",
+        "fighterID": 14
+    },
+    {
+        "move": "Fatality 2",
+        "button": "U,B,F,3(Sweep)",
+        "link": "",
+        "fighterID": 14
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "B,B,F,F,2",
+        "link": "",
+        "fighterID": 14
+    },
+    {
+        "move": "Fatality 1",
+        "button": "B,F,B,F,4(Mid)(Noob only)",
+        "link": "",
+        "fighterID": 15
+    },
+    {
+        "move": "Fatality 2",
+        "button": "U,D,D,F,2(Mid)(Smoke only)",
+        "link": "",
+        "fighterID": 15
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "D,U,U,D,4",
+        "link": "",
+        "fighterID": 15
+    },
+    {
+        "move": "Fatality 1",
+        "button": "F,D,D,D,1(Close)",
+        "link": "",
+        "fighterID": 16
+    },
+    {
+        "move": "Fatality 2",
+        "button": "U,B,F,U,2(Close)",
+        "link": "",
+        "fighterID": 16
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "D,D,F,U,3",
+        "link": "",
+        "fighterID": 16
+    },
+    {
+        "move": "Fatality 1",
+        "button": "U,D,D,F,3",
+        "link": "",
+        "fighterID": 17
+    },
+    {
+        "move": "Fatality 2",
+        "button": "B,U,F,F,1",
+        "link": "",
+        "fighterID": 17
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "D,B,D,B,3",
+        "link": "",
+        "fighterID": 17
+    },
+    {
+        "move": "Fatality 1",
+        "button": "F,U,B,D,1(Mid)",
+        "link": "",
+        "fighterID": 18
+    },
+    {
+        "move": "Fatality 2",
+        "button": "D,F,B,F,2(Close)",
+        "link": "",
+        "fighterID": 18
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "U,B,B,B,2",
+        "link": "",
+        "fighterID": 18
+    },
+    {
+        "move": "Fatality 1",
+        "button": "D,D,U,U,2(Close)",
+        "link": "",
+        "fighterID": 19
+    },
+    {
+        "move": "Fatality 2",
+        "button": "F,D,F,D,2(Mid)",
+        "link": "",
+        "fighterID": 19
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "U,D,U,U,2",
+        "link": "",
+        "fighterID": 19
+    },
+    {
+        "move": "Fatality 1",
+        "button": "D,U,B,B,1(Mid)",
+        "link": "",
+        "fighterID": 20
+    },
+    {
+        "move": "Fatality 2",
+        "button": "D,D,B,3(Close)",
+        "link": "",
+        "fighterID": 20
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "B,B,B,D,1",
+        "link": "",
+        "fighterID": 20
+    },
+    {
+        "move": "Fatality 1",
+        "button": "D,B,F,D,4(Close)",
+        "link": "",
+        "fighterID": 21
+    },
+    {
+        "move": "Fatality 2",
+        "button": "F,B,F,F,2(Close)",
+        "link": "",
+        "fighterID": 21
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "U,U,B,B,2",
+        "link": "",
+        "fighterID": 21
+    },
+    {
+        "move": "Fatality 1",
+        "button": "U,D,B,F,3(Mid)",
+        "link": "",
+        "fighterID": 22
+    },
+    {
+        "move": "Fatality 2",
+        "button": "D,F,F,U,1(Close)",
+        "link": "",
+        "fighterID": 22
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "B,F,F,2",
+        "link": "",
+        "fighterID": 22
+    },
+    {
+        "move": "Fatality 1",
+        "button": "B,F,,F,B,4(Far)",
+        "link": "",
+        "fighterID": 23
+    },
+    {
+        "move": "Fatality 2",
+        "button": "U,F,D,B,3(Mid)",
+        "link": "",
+        "fighterID": 23
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "F,B,U,B,3",
+        "link": "",
+        "fighterID": 23
+    },
+    {
+        "move": "Fatality 1",
+        "button": "B,B,F,F,2(Mid)",
+        "link": "",
+        "fighterID": 24
+    },
+    {
+        "move": "Fatality 2",
+        "button": "F,F,U,U,3(Mid)",
+        "link": "",
+        "fighterID": 24
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "D,D,D,U,3",
+        "link": "",
+        "fighterID": 24
+    },
+    {
+        "move": "Fatality 1",
+        "button": "D,U,U,F,2(Mid)",
+        "link": "",
+        "fighterID": 25
+    },
+    {
+        "move": "Fatality 2",
+        "button": "B,F,D,F,2(Close)",
+        "link": "",
+        "fighterID": 25
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "D,U,U,D,1",
+        "link": "",
+        "fighterID": 25
+    },
+    {
+        "move": "Fatality 1",
+        "button": "B,B,F,F,3(Mid)",
+        "link": "",
+        "fighterID": 26
+    },
+    {
+        "move": "Fatality 2",
+        "button": "F,B,F,B,1(Close)",
+        "link": "",
+        "fighterID": 26
+    },
+    {
+        "move": "Hara Kiri",
+        "button": "U,F,F,B,4",
+        "link": "",
+        "fighterID": 26
+    },
+    {
+        "move": "Fatality 1",
+        "button": "D,U,F,F,2(Mid)",
+        "link": "",
+        "fighterID": 27
+    },
+
+    {
+        "move": "Fatality 1",
+        "button": "D,F,F,D,2(Mid)",
+        "link": "",
+        "fighterID": 28
+    },
+    {
+        "move": "Fatality 1",
+        "button": "F,B,U,D,1(Mid)",
+        "link": "",
+        "fighterID": 29
+    },
+
+    {
+        "move": "Dragon's fire",
+        "button": "F,B,1",
+        "link": "https://youtu.be/Tko4hxsVGjw",
+        "fighterID": 44
+    },
+    {
+        "move": "Flame breath",
+        "button": "F,D,1",
+        "link": "https://youtu.be/Oy6yubHWtYA",
+        "fighterID": 44
+    },
+    {
+        "move": "Jumping stomp",
+        "button": "F,F,1",
+        "link": "https://youtu.be/ZQxYMzRSkn8",
+        "fighterID": 44
+    },
+    {
+        "move": "Forceful doom",
+        "button": "F,F,2(or grab)",
+        "link": "https://youtu.be/ZcLACWV-7KE",
+        "fighterID": 44
+    },
+    {
+        "move": "Dirty face",
+        "button": "F,F,3",
+        "link": "https://youtu.be/itlW16It-KM",
+        "fighterID": 44
+    }
+]

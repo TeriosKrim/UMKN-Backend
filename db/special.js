@@ -7,17 +7,17 @@ const Special = (db) => {
             primaryKey: true,
             autoIncrement: true,
         },
-        name: {
+        move: {
             type: DataTypes.STRING,
             allowNull: false,
         },
-        input: {
+        button: {
             type: DataTypes.STRING,
             allowNull: false,
         },
         link: {
             type: DataTypes.STRING,
-            allowNull: false,
+            allowNull: true,
         },
         fighterID: {
             type: DataTypes.INTEGER,

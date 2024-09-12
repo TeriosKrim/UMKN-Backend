@@ -1,11 +1,6 @@
 import express from "express";
 import cors from "cors";
-import {
-    db,
-    comment,
-    fighter,
-    // moves
-} from "./db/db.js";
+import { db, comment, fighter, moves } from "./db/db.js";
 import { Sequelize } from "sequelize";
 import { createClerkClient } from "@clerk/backend";
 // import { Clerk } from "@clerk/backend";
@@ -17,7 +12,6 @@ const server = express();
 server.use(cors());
 
 server.use(express.json());
-console.log(process.env.CLERK_SECRET_KEY);
 const clerkClient = createClerkClient({
     // secretKey: process.env.CLERK_SECRET_KEY,
     secretKey: "sk_test_n61uD5dtM2vM9Qa0GwUhU7AyVAevx0qnoQ6NVEtR1V",
@@ -118,7 +112,7 @@ server.post("/comment", validateUserTokenMiddleware, async (req, res) => {
 // Example route to create a move
 server.post("/moves", async (req, res) => {
     try {
-        const newMove = await Moves(db).create(req.body);
+        const newMove = await moves(db).create(req.body);
         res.status(201).json(newMove);
     } catch (error) {
         res.status(500).json({ error: error.message });
