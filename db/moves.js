@@ -19,22 +19,14 @@ const Moves = (db) => {
             type: DataTypes.STRING,
             allowNull: true,
         },
-        fighterID: {
+        stanceID: {
             type: DataTypes.INTEGER,
-            allowNull: false,
+            allowNull: true,
             references: {
-                model: "fighters",
+                model: "stances",
                 key: "id",
             },
         },
-        // stanceID: {
-        //     type: DataTypes.INTEGER,
-        //     allowNull: false,
-        //     references: {
-        //         model: "stance",
-        //         key: "id",
-        //     },
-        // },
     });
 };
 

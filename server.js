@@ -1,6 +1,6 @@
 import express from "express";
 import cors from "cors";
-import { db, comment, fighter, moves } from "./db/db.js";
+import { db, comment, fighter, moves, misc, stance, special } from "./db/db.js";
 import { Sequelize } from "sequelize";
 import { createClerkClient } from "@clerk/backend";
 // import { Clerk } from "@clerk/backend";
@@ -128,16 +128,6 @@ server.post("/moves", async (req, res) => {
 //         res.status(500).json({ error: error.message });
 //     }
 // });
-// POST route to add data to the login table
-server.post("/login", async (req, res) => {
-    try {
-        const newLogin = await Login(db).create(req.body); // Assuming req.body has userName and userPassword
-        res.status(201).send(newLogin);
-    } catch (error) {
-        console.error("Error creating login:", error);
-        res.status(500).send({ error: "Error creating login" });
-    }
-});
 
 // POST route to add data to the misc table
 server.post("/misc", async (req, res) => {
@@ -147,28 +137,6 @@ server.post("/misc", async (req, res) => {
     } catch (error) {
         console.error("Error creating misc data:", error);
         res.status(500).send({ error: "Error creating misc data" });
-    }
-});
-
-// POST route to add data to the platform table
-server.post("/platform", async (req, res) => {
-    try {
-        const newPlatform = await Platform(db).create(req.body); // Assuming req.body has name
-        res.status(201).send(newPlatform);
-    } catch (error) {
-        console.error("Error creating platform:", error);
-        res.status(500).send({ error: "Error creating platform" });
-    }
-});
-
-// POST route to add data to the tier table
-server.post("/tier", async (req, res) => {
-    try {
-        const newTier = await Tier(db).create(req.body); // Assuming req.body has fighterID, platformID, and tierLetter
-        res.status(201).send(newTier);
-    } catch (error) {
-        console.error("Error creating tier:", error);
-        res.status(500).send({ error: "Error creating tier" });
     }
 });
 
@@ -197,7 +165,20 @@ server.get("/kombatants", async (req, res) => {
 });
 
 server.get("/kombatant/:id", async (req, res) => {
-    res.send({ kombatant: await fighter.findByPk(req.params.id) });
+    res.send({
+        kombatant: await fighter.findByPk(req.params.id, {
+            include: [
+                { model: misc },
+                {
+                    model: stance,
+                    include: moves,
+                },
+                {
+                    model: special,
+                },
+            ],
+        }),
+    });
 });
 
 server.listen(3001, () => console.log("Listening on port 3001"));

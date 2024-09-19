@@ -2,9 +2,6 @@ import { Sequelize } from "sequelize";
 import commentModel from "./comment.js";
 import fighterModel from "./fighter.js";
 import movesModel from "./moves.js";
-import loginModel from "./login.js";
-import tierModel from "./tier.js";
-import platformModel from "./platform.js";
 import miscModel from "./misc.js";
 import stanceModel from "./stance.js";
 import SpecialModel from "./special.js";
@@ -14,20 +11,25 @@ import style from "./style.json" with {type:"json"};
 import specials from "./specials.json" with {type:"json"};
 import extra from "./extra.json" with {type:"json"};
 
+
 const db = new Sequelize("postgres://localhost:5432/umkd", { logging: false });
 
 // Initialize models
 const comment = commentModel(db);
 const fighter = fighterModel(db);
-const login = loginModel(db);
-const tier = tierModel(db);
-const platform = platformModel(db);
+
+
+
 const misc = miscModel(db);
 const stance = stanceModel(db);
 const moves = movesModel(db);
 const special = SpecialModel(db);
 
 // Establish relationships (associations)
+stance.hasMany(moves, {foreignKey: "stanceID"})
+fighter.hasMany(stance, {foreignKey: "fighterID"})
+fighter.hasOne(misc, {foreignKey: "fighterID"})
+fighter.hasMany(special,{foreignKey: "fighterID"})
 
 const connectToDB = async () => {
     try {
@@ -103,9 +105,6 @@ export {
     comment,
     fighter,
     moves,
-    login,
-    platform,
-    tier,
     misc,
     special,
     stance,
