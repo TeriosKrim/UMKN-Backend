@@ -1,751 +1,4713 @@
 [
     {
-        "move": "Telekinetic Slam",
-        "button": "B,D,B,1",
+        "move": "Empty And Full",
+        "button": "1,1",
         "link": "",
-        "fighterID": 1
+        "stanceID": 1
     },
     {
-        "move": "Telekinetic Toss",
-        "button": "D,B,4",
+        "move": "Blind Justice",
+        "button": "B2,3",
         "link": "",
-        "fighterID": 1
+        "stanceID": 1
     },
     {
-        "move": "Telekinetic Push",
-        "button": "F,F,2",
+        "move": "Play By Ear",
+        "button": "2,2,2,3",
         "link": "",
-        "fighterID": 1
+        "stanceID": 1
     },
     {
-        "move": "Tele-Flurry",
-        "button": "B,F,3",
+        "move": "Dark Fists",
+        "button": "2,2,2,1,1",
         "link": "",
-        "fighterID": 1
+        "stanceID": 1
     },
     {
-        "move": "Mind Warp",
-        "button": "D,B,3",
+        "move": "Fading Light",
+        "button": "2,2,2,B1",
         "link": "",
-        "fighterID": 1
+        "stanceID": 1
     },
     {
-        "move": "Fatality 1",
-        "button": "F,F,B,B,2(Mid)",
-        "link": "https://youtube.com/embed/6bnZHtcW4PY",
-        "fighterID": 1
+        "move": "Blind Man Owning",
+        "button": "2,2,2,CS,4,B2",
+        "link": "",
+        "stanceID": 1
+    },
+    {
+        "move": "I Can Hear You",
+        "button": "2,2,2,CS,4,3",
+        "link": "",
+        "stanceID": 1
+    },
+    {
+        "move": "Yeah!",
+        "button": "2,2,2,CS,4,CS,2,3,3",
+        "link": "",
+        "stanceID": 1
+    },
+    {
+        "move": "Groundwork",
+        "button": "4,4,3",
+        "link": "",
+        "stanceID": 2
+    },
+    {
+        "move": "Shinny Kicks",
+        "button": "4,4",
+        "link": "",
+        "stanceID": 2
+    },
+    {
+        "move": "Metal Fury",
+        "button": "4,4,B2",
+        "link": "",
+        "stanceID": 2
+    },
+    {
+        "move": "Bloody Blade",
+        "button": "4,4,CS,2,1",
+        "link": "",
+        "stanceID": 2
+    },
+    {
+        "move": "Turning Death",
+        "button": "4,4,CS,2,4",
+        "link": "",
+        "stanceID": 2
+    },
+    {
+        "move": "Blind Swordsman",
+        "button": "4,4,CS,2,3,3",
+        "link": "",
+        "stanceID": 2
+    },
+    {
+        "move": "Day Break",
+        "button": "2,2",
+        "link": "",
+        "stanceID": 3
+    },
+    {
+        "move": "Legacy Of Steel",
+        "button": "2,2,1",
+        "link": "",
+        "stanceID": 3
+    },
+    {
+        "move": "Mad Dog",
+        "button": "2,2,3",
+        "link": "",
+        "stanceID": 3
+    },
+    {
+        "move": "Silent Slice",
+        "button": "3,3",
+        "link": "",
+        "stanceID": 3
+    },
+    {
+        "move": "War Path",
+        "button": "2,2,3,3",
+        "link": "",
+        "stanceID": 3
+    },
+    {
+        "move": "Feel The Steel",
+        "button": "2,2,4",
+        "link": "",
+        "stanceID": 3
+    },
+    {
+        "move": "Fan Zi Quan Fists",
+        "button": "2,2",
+        "link": "",
+        "stanceID": 4
+    },
+    {
+        "move": "Havik Attack",
+        "button": "2,2,B1",
+        "link": "",
+        "stanceID": 4
+    },
+    {
+        "move": "You Can't Escape",
+        "button": "2,2,4",
+        "link": "",
+        "stanceID": 4
+    },
+    {
+        "move": "Hard Hands",
+        "button": "2,2,1",
+        "link": "",
+        "stanceID": 4
+    },
+    {
+        "move": "Stir It Up",
+        "button": "2,2,CS",
+        "link": "",
+        "stanceID": 4
+    },
+    {
+        "move": "Edenia Sister",
+        "button": "2,2,1,CS",
+        "link": "",
+        "stanceID": 4
+    },
+    {
+        "move": "Evolution",
+        "button": "2,2,1,CS,4,CS,B2",
+        "link": "",
+        "stanceID": 4
+    },
+    {
+        "move": "Staff Of 8",
+        "button": "2,2,1,CS,4,CS,1,U3",
+        "link": "",
+        "stanceID": 4
+    },
+    {
+        "move": "Champion",
+        "button": "2,2,1,CS,4,CS,1,U4",
+        "link": "",
+        "stanceID": 4
+    },
+    {
+        "move": "Turning Heels",
+        "button": "4,4",
+        "link": "",
+        "stanceID": 5
+    },
+    {
+        "move": "Blazing Staff",
+        "button": "4,4,CS",
+        "link": "",
+        "stanceID": 5
+    },
+    {
+        "move": "Loud Bang",
+        "button": "4,4,CS,B2",
+        "link": "",
+        "stanceID": 5
+    },
+    {
+        "move": "Krispy End",
+        "button": "4,4,CS,3",
+        "link": "",
+        "stanceID": 5
+    },
+    {
+        "move": "Anger",
+        "button": "4,4,CS,1,3",
+        "link": "",
+        "stanceID": 5
+    },
+    {
+        "move": "Ouch",
+        "button": "4,4,CS,1,U3",
+        "link": "",
+        "stanceID": 5
+    },
+    {
+        "move": "Chin Poker",
+        "button": "4,4,CS,1,U4",
+        "link": "",
+        "stanceID": 5
+    },
+    {
+        "move": "Over The Top Head Hits",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 6
+    },
+    {
+        "move": "Feel The Wind",
+        "button": "2,1",
+        "link": "",
+        "stanceID": 6
+    },
+    {
+        "move": "Rising Staff",
+        "button": "2,1,3",
+        "link": "",
+        "stanceID": 6
+    },
+    {
+        "move": "Raging Demon",
+        "button": "2,1,3",
+        "link": "",
+        "stanceID": 6
+    },
+    {
+        "move": "Green Warrior",
+        "button": "2,1,U3",
+        "link": "",
+        "stanceID": 6
+    },
+    {
+        "move": "The Hunted",
+        "button": "2,1,U4",
+        "link": "",
+        "stanceID": 6
+    },
+    {
+        "move": "Chin Chopper",
+        "button": "2,3",
+        "link": "",
+        "stanceID": 6
+    },
+    {
+        "move": "Flowing Water",
+        "button": "2,2,1",
+        "link": "https://youtu.be/h1t7jyGZycs",
+        "stanceID": 7
+    },
+    {
+        "move": "Inner Power",
+        "button": "2,2,4",
+        "link": "https://youtu.be/g5Ee_DOjPTo",
+        "stanceID": 7
+    },
+    {
+        "move": "Spectre Blast",
+        "button": "3,B1",
+        "link": "https://youtu.be/CDwD95qEpL8",
+        "stanceID": 7
+    },
+    {
+        "move": "Lethal Legs",
+        "button": "4,B4",
+        "link": "",
+        "stanceID": 7
+    },
+    {
+        "move": "Liftoff",
+        "button": "4,U4",
+        "link": "",
+        "stanceID": 7
+    },
+    {
+        "move": "Burning Soul",
+        "button": "2,3,U4",
+        "link": "",
+        "stanceID": 7
+    },
+    {
+        "move": "Sinking Leaf",
+        "button": "F3,B3",
+        "link": "",
+        "stanceID": 7
+    },
+    {
+        "move": "Doombringer",
+        "button": "2,3,B1",
+        "link": "",
+        "stanceID": 7
+    },
+    {
+        "move": "Painless",
+        "button": "2,2,CS,1,B1",
+        "link": "",
+        "stanceID": 7
+    },
+    {
+        "move": "Death Fingers",
+        "button": "2,2,CS,1,1",
+        "link": "",
+        "stanceID": 7
+    },
+    {
+        "move": "Kruncher",
+        "button": "2,2,CS,1,4",
+        "link": "",
+        "stanceID": 7
+    },
+    {
+        "move": "Flurry Kicks",
+        "button": "2,2,CS,1,3,3,3",
+        "link": "",
+        "stanceID": 7
+    },
+    {
+        "move": "Hell On Earth",
+        "button": "2,2,CS,1,3,3,CS",
+        "link": "",
+        "stanceID": 7
+    },
+    {
+        "move": "Hidden String 1",
+        "button": "2,2,3",
+        "link": "",
+        "stanceID": 7
+    },
+    {
+        "move": "Hidden String 2",
+        "button": "2,2,3,CS,3,CS",
+        "link": "",
+        "stanceID": 7
+    },
+    {
+        "move": "Hidden String 3",
+        "button": "2,2,3,CS,3,3",
+        "link": "",
+        "stanceID": 7
+    },
+    {
+        "move": "Low Fury",
+        "button": "F3,3",
+        "link": "https://youtu.be/4p6BPoIedSU",
+        "stanceID": 8
+    },
+    {
+        "move": "Fingers Of Death",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 8
+    },
+    {
+        "move": "Double Tap Kick",
+        "button": "3,3",
+        "link": "",
+        "stanceID": 8
+    },
+    {
+        "move": "Pain Taps",
+        "button": "3,3,3",
+        "link": "",
+        "stanceID": 8
+    },
+    {
+        "move": "Chain Kombo",
+        "button": "1,1,3,3,3",
+        "link": "",
+        "stanceID": 8
+    },
+    {
+        "move": "Sharp As Hell",
+        "button": "1,1,B1",
+        "link": "",
+        "stanceID": 8
+    },
+    {
+        "move": "Krazy Rush",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 8
+    },
+    {
+        "move": "Bloodfire",
+        "button": "2,2",
+        "link": "",
+        "stanceID": 9
+    },
+    {
+        "move": "Bloodbath",
+        "button": "2,2,1",
+        "link": "",
+        "stanceID": 9
+    },
+    {
+        "move": "Swift Fire",
+        "button": "2,2,4",
+        "link": "",
+        "stanceID": 9
+    },
+    {
+        "move": "Fingers To The Eyes",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 10
+    },
+    {
+        "move": "Heaven And Hell",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 10
     },
 
     {
-        "move": "Fatality 2",
-        "button": "U,F,B,F,2(Mid)",
-        "link": "https://youtube.com/embed/ooP3k3NwLSw",
-        "fighterID": 1
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "D,F,B,B,2",
-        "link": "https://youtube.com/embed/YM2c3h8ZYpE",
-        "fighterID": 1
-    },
-    {
-        "move": "Vanishing Winds",
-        "button": "F,B,1",
+        "move": "Serpent Takes Prey",
+        "button": "1,1,2",
         "link": "",
-        "fighterID": 2
-    },
-    {
-        "move": "Blazing Nitro Kick",
-        "button": "B,F,4",
-        "link": "",
-        "fighterID": 2
-    },
-    {
-        "move": "Razor-Rang",
-        "button": "D,B,3",
-        "link": "",
-        "fighterID": 2
-    },
-    {
-        "move": "Dodging Shadows",
-        "button": "B,F,2",
-        "link": "",
-        "fighterID": 2
-    },
-    {
-        "move": "Fatality 1",
-        "button": "B,F,U,F,1(Mid)",
-        "link": "https://youtube.com/embed/_gcsFMVDG_Y",
-        "fighterID": 2
-    },
-    {
-        "move": "Fatality 2",
-        "button": "B,F,F,F,2(Close)",
-        "link": "https://youtube.com/embed/XjAuPhQZeuk",
-        "fighterID": 2
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "F,F,F,B,2",
-        "link": "https://youtube.com/embed/mhEy_LuJkRM",
-        "fighterID": 2
+        "stanceID": 10
     },
 
     {
-        "move": "Bloody spear",
-        "button": "B,F,1",
+        "move": "Good And Evil",
+        "button": "1,1,4",
         "link": "",
-        "fighterID": 3
-    },
-    {
-        "move": "Hellfire",
-        "button": "D,B,2",
-        "link": "",
-        "fighterID": 3
-    },
-    {
-        "move": "Backflip kick",
-        "button": "F,B,3",
-        "link": "",
-        "fighterID": 3
-    },
-    {
-        "move": "Teleport attack",
-        "button": "D,B,3",
-        "link": "",
-        "fighterID": 3
+        "stanceID": 10
     },
 
     {
-        "move": "Fatality 1",
-        "button": "F,D,F,F,1(Mid)",
-        "link": "https://youtube.com/embed/YnVZeoH1S_g",
-        "fighterID": 3
-    },
-    {
-        "move": "Fatality 2",
-        "button": "F,B,F,B,1(Close)",
-        "link": "https://youtube.com/embed/4eIf5-qTZ0M",
-        "fighterID": 3
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "D,D,U,B,1",
-        "link": "https://youtube.com/embed/9l0BhYqOYIo",
-        "fighterID": 3
-    },
-    {
-        "move": "Rolling Thunder",
-        "button": "B,D,4",
+        "move": "Khan's Commander",
+        "button": "1,1,3,CS",
         "link": "",
-        "fighterID": 4
-    },
-    {
-        "move": "Soaring Sai",
-        "button": "D,F,2",
-        "link": "",
-        "fighterID": 4
-    },
-    {
-        "move": "Kick From Above",
-        "button": "F,F,4",
-        "link": "",
-        "fighterID": 4
-    },
-    {
-        "move": "Fatality 1",
-        "button": "F,F,D,D,1(Mid)",
-        "link": "https://youtube.com/embed/VRTmNB1avFU",
-        "fighterID": 4
-    },
-    {
-        "move": "Fatality 2",
-        "button": "U,U,F,F,3(Far)",
-        "link": "https://youtube.com/embed/SY5JdVhIy9Y",
-        "fighterID": 4
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "B,D,F,B,1",
-        "link": "https://youtube.com/embed/Bbqa_NIMoQE",
-        "fighterID": 4
-    },
-    {
-        "move": "Flying Shard",
-        "button": "D,B,1",
-        "link": "",
-        "fighterID": 5
-    },
-    {
-        "move": "Mutant Blades",
-        "button": "F,F,3",
-        "link": "",
-        "fighterID": 5
-    },
-    {
-        "move": "Chop Chop Blades",
-        "button": "D,U,3",
-        "link": "",
-        "fighterID": 5
-    },
-    {
-        "move": "Fatality 1",
-        "button": "F,U,D,2(Close)",
-        "link": "https://youtube.com/embed/i5bVk56DFOs",
-        "fighterID": 5
-    },
-    {
-        "move": "Fatality 2",
-        "button": "F,D,B,F,2(Mid)",
-        "link": "https://youtube.com/embed/jNW7klvGamw",
-        "fighterID": 5
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "D,B,U,B,4",
-        "link": "https://youtube.com/embed/b9-XjowiDqo",
-        "fighterID": 5
-    },
-    {
-        "move": "Ice Clone",
-        "button": "D,B,1",
-        "link": "",
-        "fighterID": 6
-    },
-    {
-        "move": "Freeze Ball",
-        "button": "D,F,3",
-        "link": "",
-        "fighterID": 6
-    },
-    {
-        "move": "Cold Shoulder",
-        "button": "B,F,4",
-        "link": "",
-        "fighterID": 6
-    },
-    {
-        "move": "Fatality 1",
-        "button": "F,B,D,F,2(Close)",
-        "link": "https://youtube.com/embed/AeWLuGssKe0",
-        "fighterID": 6
-    },
-    {
-        "move": "Fatality 2",
-        "button": "B,D,F,D,1(Mid)",
-        "link": "https://youtube.com/embed/P7ej7pm_jCM",
-        "fighterID": 6
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "D,U,D,U,2",
-        "link": "https://youtube.com/embed/j9elGmAsQAo",
-        "fighterID": 6
-    },
-    {
-        "move": "Banshee Scream",
-        "button": "F,F,1",
-        "link": "",
-        "fighterID": 7
-    },
-    {
-        "move": "Star Screamer",
-        "button": "F,F,3",
-        "link": "",
-        "fighterID": 7
-    },
-    {
-        "move": "Sliding Foot Grab",
-        "button": "B,F,1",
-        "link": "",
-        "fighterID": 7
-    },
-    {
-        "move": "Fatality 1",
-        "button": "B,F,F,B,1(Mid)",
-        "link": "https://youtube.com/embed/4S-W-rdZ38c",
-        "fighterID": 7
-    },
-    {
-        "move": "Fatality 2",
-        "button": "U,U,B,F,3(Mid)",
-        "link": "https://youtube.com/embed/26Vs7WWeDgA",
-        "fighterID": 7
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "F,U,U,D,4",
-        "link": "https://youtube.com/embed/yHWUOKqKVuc",
-        "fighterID": 7
-    },
-    {
-        "move": "Torso Spin",
-        "button": "D,B,1",
-        "link": "",
-        "fighterID": 8
-    },
-    {
-        "move": "Diving Corpse",
-        "button": "B,D,1",
-        "link": "",
-        "fighterID": 8
-    },
-    {
-        "move": "Cracking Legs Projectile",
-        "button": "B,F,3",
-        "link": "",
-        "fighterID": 8
-    },
-    {
-        "move": "Head Snap",
-        "button": "B,F,2",
-        "link": "",
-        "fighterID": 8
-    },
-    {
-        "move": "Corpse Taunt",
-        "button": "F,B,4",
-        "link": "",
-        "fighterID": 8
-    },
-    {
-        "move": "Fatality 1",
-        "button": "D,F,F,U,4(Close)",
-        "link": "https://youtube.com/embed/CJf6Bs3Rgnc",
-        "fighterID": 8
-    },
-    {
-        "move": "Fatality 2",
-        "button": "F,F,F,B,2(Mid)",
-        "link": "https://youtube.com/embed/RGcA5FJtoR4",
-        "fighterID": 8
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "F,U,U,U,2",
-        "link": "https://youtube.com/embed/rrBrmffC1HI",
-        "fighterID": 8
-    },
-    {
-        "move": "Static Teleport",
-        "button": "D,U,3",
-        "link": "",
-        "fighterID": 9
-    },
-    {
-        "move": "Lighting Bolt",
-        "button": "D,B,1",
-        "link": "",
-        "fighterID": 9
-    },
-    {
-        "move": "Shocking Touch",
-        "button": "F,F,2",
-        "link": "",
-        "fighterID": 9
-    },
-    {
-        "move": "Flying Thunder God",
-        "button": "F,F,4",
-        "link": "",
-        "fighterID": 9
-    },
-    {
-        "move": "Fatality 1",
-        "button": "B,D,F,D,1(Mid)",
-        "link": "https://youtube.com/embed/xfj30TAPAdQ",
-        "fighterID": 9
-    },
-    {
-        "move": "Fatality 2",
-        "button": "U,D,F,F,1(Far)",
-        "link": "https://youtube.com/embed/hlfZruD1_hk",
-        "fighterID": 9
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "F,U,U,B,1",
-        "link": "https://youtube.com/embed/Ql2RfzHKKCc",
-        "fighterID": 9
-    },
-    {
-        "move": "Nova Blast",
-        "button": "D,B,1",
-        "link": "",
-        "fighterID": 10
-    },
-    {
-        "move": "Carnival Spin",
-        "button": "F,D,3",
-        "link": "",
-        "fighterID": 10
-    },
-    {
-        "move": "Flying Flurry",
-        "button": "F,F,2",
-        "link": "",
-        "fighterID": 10
-    },
-    {
-        "move": "Fliping Heel Kick",
-        "button": "D,B,4",
-        "link": "",
-        "fighterID": 10
-    },
-    {
-        "move": "Fatality 1",
-        "button": "F,F,F,F,1(Mid)",
-        "link": "https://youtube.com/embed/xPmabmFFLIw",
-        "fighterID": 10
-    },
-    {
-        "move": "Fatality 2",
-        "button": "U,B,F,F,4(Mid)",
-        "link": "https://youtube.com/embed/yU4TKIHwhjU",
-        "fighterID": 10
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "U,D,U,D,3",
-        "link": "https://youtube.com/embed/dTfoh6m3gag",
-        "fighterID": 10
-    },
-    {
-        "move": "Fatality 1",
-        "button": "F,U,U,U,3(Close)",
-        "link": "https://youtube.com/embed/EMYdSoYZy0c",
-        "fighterID": 11
-    },
-    {
-        "move": "Fatality 2",
-        "button": "U,U,D,D,2(Close)",
-        "link": "https://youtube.com/embed/sYcRAWPNXcU",
-        "fighterID": 11
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "F,U,U,D,2",
-        "link": "https://youtube.com/embed/HkTZ6ZAQgbI",
-        "fighterID": 11
-    },
-    {
-        "move": "Fatality 1",
-        "button": "D,B,B,D,3(Mid)",
-        "link": "https://youtube.com/embed/Lvx1dOjmdMU",
-        "fighterID": 12
-    },
-    {
-        "move": "Fatality 2",
-        "button": "B,D,B,D,4(Mid)",
-        "link": "https://youtube.com/embed/oYYwpMLFYNw",
-        "fighterID": 12
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "D,U,U,D,3",
-        "link": "https://youtube.com/embed/B3TFK9MdYC8",
-        "fighterID": 12
-    },
-    {
-        "move": "Fatality 1",
-        "button": "B,F,B,F,1(Far)",
-        "link": "https://youtube.com/embed/5c3y_4PiDgI",
-        "fighterID": 13
-    },
-    {
-        "move": "Fatality 2",
-        "button": "D,F,D,U,2(Mid)",
-        "link": "https://youtube.com/embed/Jx8o176PJls",
-        "fighterID": 13
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "U,U,U,U,3",
-        "link": "https://youtube.com/embed/pdfVVjDjsPE",
-        "fighterID": 13
-    },
-    {
-        "move": "Fatality 1",
-        "button": "D,U,F,F,2(Sweep)",
-        "link": "https://youtube.com/embed/bhoYOk7SI30",
-        "fighterID": 14
-    },
-    {
-        "move": "Fatality 2",
-        "button": "U,B,F,3(Sweep)",
-        "link": "https://youtube.com/embed/bbrjC1XlvAA",
-        "fighterID": 14
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "B,B,F,F,2",
-        "link": "https://youtube.com/embed/tho2fUIdWQY",
-        "fighterID": 14
-    },
-    {
-        "move": "Fatality 1",
-        "button": "B,F,B,F,4(Mid)(Noob only)",
-        "link": "https://youtube.com/embed/uS0HLTDlA6Q",
-        "fighterID": 15
-    },
-    {
-        "move": "Fatality 2",
-        "button": "U,D,D,F,2(Mid)(Smoke only)",
-        "link": "https://youtube.com/embed/zHEcA_nfkzg",
-        "fighterID": 15
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "D,U,U,D,4(Also works with Smoke)",
-        "link": "https://youtube.com/embed/zvK1pf60WK0",
-        "fighterID": 15
-    },
-    {
-        "move": "Fatality 1",
-        "button": "F,D,D,D,1(Close)",
-        "link": "https://youtube.com/embed/ZuhXKG5_yUI",
-        "fighterID": 16
-    },
-    {
-        "move": "Fatality 2",
-        "button": "U,B,F,U,2(Close)",
-        "link": "https://youtube.com/embed/nkMX7Ea99FQ",
-        "fighterID": 16
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "D,D,F,U,3",
-        "link": "https://youtube.com/embed/3RNXxRwOAsQ",
-        "fighterID": 16
-    },
-    {
-        "move": "Fatality 1",
-        "button": "U,D,D,F,3",
-        "link": "https://youtube.com/embed/pQsUxFZpO3k",
-        "fighterID": 17
-    },
-    {
-        "move": "Fatality 2",
-        "button": "B,U,F,F,1",
-        "link": "https://youtube.com/embed/QJ0aDQJLyWs",
-        "fighterID": 17
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "D,B,D,B,3",
-        "link": "https://youtube.com/embed/ILxhe7BZbfc",
-        "fighterID": 17
-    },
-    {
-        "move": "Fatality 1",
-        "button": "F,U,B,D,1(Mid)",
-        "link": "https://youtube.com/embed/8lshNq2qFFM",
-        "fighterID": 18
-    },
-    {
-        "move": "Fatality 2",
-        "button": "D,F,B,F,2(Close)",
-        "link": "https://youtube.com/embed/MtXZn5kp_E8",
-        "fighterID": 18
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "U,B,B,B,2",
-        "link": "https://youtube.com/embed/xPkJrVsVOIk",
-        "fighterID": 18
-    },
-    {
-        "move": "Fatality 1",
-        "button": "D,D,U,U,2(Close)",
-        "link": "https://youtube.com/embed/zTJxB8FNAZ0",
-        "fighterID": 19
-    },
-    {
-        "move": "Fatality 2",
-        "button": "F,D,F,D,2(Mid)",
-        "link": "https://youtube.com/embed/hJ5BIZ-fwSs",
-        "fighterID": 19
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "U,D,U,U,2",
-        "link": "https://youtube.com/embed/WANlBTazi6M",
-        "fighterID": 19
-    },
-    {
-        "move": "Fatality 1",
-        "button": "D,U,B,B,1(Mid)",
-        "link": "https://youtube.com/embed/og0cfqRCNd4",
-        "fighterID": 20
-    },
-    {
-        "move": "Fatality 2",
-        "button": "D,D,B,3(Close)",
-        "link": "https://youtube.com/embed/DOiyWThYYzg",
-        "fighterID": 20
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "B,B,B,D,1",
-        "link": "https://youtube.com/embed/TqN9zylJc5k",
-        "fighterID": 20
-    },
-    {
-        "move": "Fatality 1",
-        "button": "D,B,F,D,4(Close)",
-        "link": "https://youtube.com/embed/J15Xt3IfoDE",
-        "fighterID": 21
-    },
-    {
-        "move": "Fatality 2",
-        "button": "F,B,F,F,2(Close)",
-        "link": "https://youtube.com/embed/nZLF4ZZCad4",
-        "fighterID": 21
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "U,U,B,B,2",
-        "link": "https://youtube.com/embed/TMaeh1W_ymg",
-        "fighterID": 21
-    },
-    {
-        "move": "Fatality 1",
-        "button": "U,D,B,F,3(Mid)",
-        "link": "https://youtube.com/embed/Z5lsXmmLgKs",
-        "fighterID": 22
-    },
-    {
-        "move": "Fatality 2",
-        "button": "D,F,F,U,1(Close)",
-        "link": "https://youtube.com/embed/4HDRu094Cl0",
-        "fighterID": 22
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "B,F,F,2",
-        "link": "https://youtube.com/embed/_OpMi9nUJrI",
-        "fighterID": 22
-    },
-    {
-        "move": "Fatality 1",
-        "button": "B,F,,F,B,4(Far)",
-        "link": "https://youtube.com/embed/Y_gNfKaqFOo",
-        "fighterID": 23
-    },
-    {
-        "move": "Fatality 2",
-        "button": "U,F,D,B,3(Mid)",
-        "link": "https://youtube.com/embed/e286lYamIKg",
-        "fighterID": 23
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "F,B,U,B,3",
-        "link": "https://youtube.com/embed/SjEO6NbapJM",
-        "fighterID": 23
-    },
-    {
-        "move": "Fatality 1",
-        "button": "B,B,F,F,2(Mid)",
-        "link": "https://youtube.com/embed/dKJsm17wyvw",
-        "fighterID": 24
-    },
-    {
-        "move": "Fatality 2",
-        "button": "F,F,U,U,3(Mid)",
-        "link": "https://youtube.com/embed/8VJo2mOX0w0",
-        "fighterID": 24
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "D,D,D,U,3",
-        "link": "https://youtube.com/embed/S6AhAtkmmeo",
-        "fighterID": 24
-    },
-    {
-        "move": "Fatality 1",
-        "button": "D,U,U,F,2(Mid)",
-        "link": "https://youtube.com/embed/A0xW_Ssq6HQ",
-        "fighterID": 25
-    },
-    {
-        "move": "Fatality 2",
-        "button": "B,F,D,F,2(Close)",
-        "link": "https://youtube.com/embed/_nj7CwepM6o",
-        "fighterID": 25
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "D,U,U,D,1",
-        "link": "https://youtube.com/embed/Amd4I-AYoRw",
-        "fighterID": 25
-    },
-    {
-        "move": "Fatality 1",
-        "button": "B,B,F,F,3(Mid)",
-        "link": "https://youtube.com/embed/65IoVRmrtjI",
-        "fighterID": 26
-    },
-    {
-        "move": "Fatality 2",
-        "button": "F,B,F,B,1(Close)",
-        "link": "https://youtube.com/embed/ao-c44wcuAU",
-        "fighterID": 26
-    },
-    {
-        "move": "Hara Kiri",
-        "button": "U,F,F,B,4",
-        "link": "https://youtube.com/embed/9YFnOWNRgcY",
-        "fighterID": 26
-    },
-    {
-        "move": "Fatality 1",
-        "button": "D,U,F,F,2(Mid)",
-        "link": "https://youtube.com/embed/dO1fnhqOcCo",
-        "fighterID": 27
+        "stanceID": 10
     },
 
     {
-        "move": "Fatality 1",
-        "button": "D,F,F,D,2(Mid)",
-        "link": "https://youtube.com/embed/a1ic0p8F0_o",
-        "fighterID": 28
-    },
-    {
-        "move": "Fatality 1",
-        "button": "F,B,U,D,1(Mid)",
-        "link": "https://youtube.com/embed/YWgw6YrzlUU",
-        "fighterID": 29
+        "move": "Cold Fists",
+        "button": "2,2",
+        "link": "",
+        "stanceID": 11
     },
 
     {
-        "move": "Dragon's fire",
-        "button": "F,B,1",
-        "link": "https://youtube.com/embed/Tko4hxsVGjw",
-        "fighterID": 44
+        "move": "Cold Fist Gets Icy",
+        "button": "2,2,U1",
+        "link": "",
+        "stanceID": 11
+    },
+
+    {
+        "move": "Cotton Rage",
+        "button": "B2,2,2",
+        "link": "",
+        "stanceID": 11
+    },
+
+    {
+        "move": "Krazy Legs",
+        "button": "4,1",
+        "link": "",
+        "stanceID": 11
     },
     {
-        "move": "Flame breath",
-        "button": "F,D,1",
-        "link": "https://youtube.com/embed/Oy6yubHWtYA",
-        "fighterID": 44
+        "move": "Keeping Kontrol",
+        "button": "4,1",
+        "link": "",
+        "stanceID": 11
+    },
+
+    {
+        "move": "Outworld Wonder",
+        "button": "4,3,CS",
+        "link": "",
+        "stanceID": 11
+    },
+
+    {
+        "move": "Quickness",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 12
+    },
+
+    {
+        "move": "Lighting Stabs",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 12
+    },
+
+    {
+        "move": "Anarchy",
+        "button": "1,1,b1",
+        "link": "",
+        "stanceID": 12
+    },
+
+    {
+        "move": "Whirling Demon",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 12
+    },
+
+    {
+        "move": "Rising Dragon",
+        "button": "1,1,U2",
+        "link": "",
+        "stanceID": 12
+    },
+
+    {
+        "move": "Sabertooth",
+        "button": "2,f2",
+        "link": "",
+        "stanceID": 12
     },
     {
-        "move": "Jumping stomp",
-        "button": "F,F,1",
-        "link": "https://youtube.com/embed/ZQxYMzRSkn8",
-        "fighterID": 44
+        "move": "Steel Punches",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 13
+    },
+
+    {
+        "move": "Triple Takeout",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 13
+    },
+
+    {
+        "move": "Head Spinner",
+        "button": "B1,2",
+        "link": "",
+        "stanceID": 13
+    },
+
+    {
+        "move": "Speedy Elbow",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 13
+    },
+
+    {
+        "move": "Silat Salute",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 13
+    },
+
+    {
+        "move": "Rocky Road",
+        "button": "B1,3",
+        "link": "",
+        "stanceID": 13
+    },
+
+    {
+        "move": "Chest Damager",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 13
+    },
+
+    {
+        "move": "Scratch Fever",
+        "button": "1,1,3,CS",
+        "link": "",
+        "stanceID": 13
+    },
+
+    {
+        "move": "Clearing Space",
+        "button": "1,2",
+        "link": "",
+        "stanceID": 14
+    },
+
+    {
+        "move": "Sharp Things",
+        "button": "1,2,CS",
+        "link": "",
+        "stanceID": 14
+    },
+
+    {
+        "move": "Sneaky",
+        "button": "3,CS",
+        "link": "",
+        "stanceID": 14
+    },
+
+    {
+        "move": "Hot Palms",
+        "button": "1,B1",
+        "link": "",
+        "stanceID": 14
+    },
+
+    {
+        "move": "Taking Out Your Eyes",
+        "button": "1,B2",
+        "link": "",
+        "stanceID": 14
+    },
+
+    {
+        "move": "Priceless",
+        "button": "1,2,CS,3,2,2",
+        "link": "",
+        "stanceID": 14
+    },
+
+    {
+        "move": "Suffering Blades",
+        "button": "1,2,CS,3,2,1,1",
+        "link": "",
+        "stanceID": 14
+    },
+
+    {
+        "move": "Slashing Wind",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 15
+    },
+
+    {
+        "move": "Mithril Metal",
+        "button": "2,2",
+        "link": "",
+        "stanceID": 15
+    },
+
+    {
+        "move": "Long Tips",
+        "button": "2,1",
+        "link": "",
+        "stanceID": 15
+    },
+
+    {
+        "move": "Frenzy Slashes",
+        "button": "2,1,1",
+        "link": "",
+        "stanceID": 15
+    },
+
+    {
+        "move": "Cyclone",
+        "button": "3,3",
+        "link": "",
+        "stanceID": 15
+    },
+
+    {
+        "move": "Khan's Warrior",
+        "button": "3,3,2",
+        "link": "",
+        "stanceID": 15
+    },
+
+    {
+        "move": "Outworld Walker",
+        "button": "3,3,2,2",
+        "link": "",
+        "stanceID": 15
+    },
+
+    {
+        "move": "Baraka's Special",
+        "button": "3,3,4",
+        "link": "",
+        "stanceID": 15
+    },
+
+    {
+        "move": "Dark Void",
+        "button": "3,3,2,1",
+        "link": "",
+        "stanceID": 15
+    },
+
+    {
+        "move": "Heavy Damage",
+        "button": "3,3,2,1,1",
+        "link": "",
+        "stanceID": 15
     },
     {
-        "move": "Forceful doom",
-        "button": "F,F,2(or grab)",
-        "link": "https://youtube.com/embed/ZcLACWV-7KE",
-        "fighterID": 44
+        "move": "Cold As Ice",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 16
+    },
+
+    {
+        "move": "Triple Threat",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 16
+    },
+
+    {
+        "move": "Cold Feet",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 16
+    },
+
+    {
+        "move": "Cheap Cold Shot",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 16
+    },
+
+    {
+        "move": "Frigid Touch",
+        "button": "1,1,3,2",
+        "link": "",
+        "stanceID": 16
+    },
+
+    {
+        "move": "Lin Kuei's Secret",
+        "button": "1,1,3,F3",
+        "link": "",
+        "stanceID": 16
+    },
+
+    {
+        "move": "Ultimate Shogun",
+        "button": "1,1,3,B2",
+        "link": "",
+        "stanceID": 16
+    },
+
+    {
+        "move": "King's Crown",
+        "button": "3,F3",
+        "link": "",
+        "stanceID": 16
+    },
+
+    {
+        "move": "Peaceful Mind",
+        "button": "3,B2",
+        "link": "",
+        "stanceID": 16
+    },
+
+    {
+        "move": "Icy Pain",
+        "button": "1,2,4",
+        "link": "",
+        "stanceID": 16
+    },
+
+    {
+        "move": "Cloud Hands",
+        "button": "1,2,B1",
+        "link": "",
+        "stanceID": 16
+    },
+
+    {
+        "move": "Iron Horse",
+        "button": "1,2,B2",
+        "link": "",
+        "stanceID": 16
+    },
+
+    {
+        "move": "Rock Solid",
+        "button": "1,2,4,CS,3",
+        "link": "",
+        "stanceID": 16
+    },
+
+    {
+        "move": "Lin Kuei Storm",
+        "button": "1,2,4,CS,2,3",
+        "link": "",
+        "stanceID": 16
+    },
+
+    {
+        "move": "Zero Below",
+        "button": "1,2,4,CS,2,4",
+        "link": "",
+        "stanceID": 16
+    },
+
+    {
+        "move": "Frosty",
+        "button": "1,2,4,CS,2,CS",
+        "link": "",
+        "stanceID": 16
+    },
+
+    {
+        "move": "Thin Ice",
+        "button": "1,2,4,CS,2,B2",
+        "link": "",
+        "stanceID": 16
+    },
+
+    {
+        "move": "Dark Fists",
+        "button": "1,1,3,CS",
+        "link": "",
+        "stanceID": 16
+    },
+
+    {
+        "move": "Cold Blade",
+        "button": "1,2,4,CS,1,2,CS",
+        "link": "",
+        "stanceID": 16
+    },
+
+    {
+        "move": "Yielding Fire",
+        "button": "1,3",
+        "link": "",
+        "stanceID": 17
+    },
+
+    {
+        "move": "Ice Pop",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 17
+    },
+
+    {
+        "move": "Tiger In Cave",
+        "button": "4,B2",
+        "link": "",
+        "stanceID": 17
+    },
+
+    {
+        "move": "Dragon Dance",
+        "button": "1,B1",
+        "link": "",
+        "stanceID": 17
+    },
+
+    {
+        "move": "Silent Dragon",
+        "button": "1,2,3",
+        "link": "",
+        "stanceID": 17
+    },
+
+    {
+        "move": "Dragon Plays With 7 Stars",
+        "button": "1,2,4",
+        "link": "",
+        "stanceID": 17
+    },
+
+    {
+        "move": "Ice Maker",
+        "button": "1,2,CS",
+        "link": "",
+        "stanceID": 17
+    },
+
+    {
+        "move": "3-Hit Claws",
+        "button": "1,2,B2",
+        "link": "",
+        "stanceID": 17
+    },
+
+    {
+        "move": "Twist Of The Tiger",
+        "button": "1,2,U4",
+        "link": "",
+        "stanceID": 17
+    },
+
+    {
+        "move": "Chill Out",
+        "button": "1,1,2,CS",
+        "link": "",
+        "stanceID": 17
+    },
+
+    {
+        "move": "Bitter Blade",
+        "button": "1,B1",
+        "link": "",
+        "stanceID": 18
+    },
+
+    {
+        "move": "Moslim Fists",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 19
     },
     {
-        "move": "Dirty face",
-        "button": "F,F,3",
-        "link": "https://youtube.com/embed/itlW16It-KM",
-        "fighterID": 44
+        "move": "Justice",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 19
+    },
+
+    {
+        "move": "Burning Fist",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 19
+    },
+
+    {
+        "move": "Spider Legs",
+        "button": "4,4",
+        "link": "",
+        "stanceID": 19
+    },
+
+    {
+        "move": "Revenge",
+        "button": "4,4,4",
+        "link": "",
+        "stanceID": 19
+    },
+
+    {
+        "move": "Cunning Killer",
+        "button": "4,4,4,4",
+        "link": "",
+        "stanceID": 19
+    },
+
+    {
+        "move": "Killer Kick",
+        "button": "1,1,CS",
+        "link": "",
+        "stanceID": 19
+    },
+
+    {
+        "move": "Sneaky Fist",
+        "button": "4,4,4,CS",
+        "link": "",
+        "stanceID": 19
+    },
+
+    {
+        "move": "Bloodshed",
+        "button": "3,3",
+        "link": "",
+        "stanceID": 20
+    },
+
+    {
+        "move": "The Queen",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 20
+    },
+
+    {
+        "move": "Wandering Claws",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 20
+    },
+
+    {
+        "move": "Black Tiger",
+        "button": "1,1,1,3,3",
+        "link": "",
+        "stanceID": 20
+    },
+
+    {
+        "move": "Black Widow",
+        "button": "1,1,1,3,CS",
+        "link": "",
+        "stanceID": 20
+    },
+
+    {
+        "move": "Khan's Kontrol",
+        "button": "1,1,2,CS",
+        "link": "",
+        "stanceID": 20
+    },
+
+    {
+        "move": "Darkness",
+        "button": "1,1,1,3,CS,4,1",
+        "link": "",
+        "stanceID": 20
+    },
+
+    {
+        "move": "Burning Rage",
+        "button": "1,1,1,3,CS,4,3",
+        "link": "",
+        "stanceID": 20
+    },
+
+    {
+        "move": "Ancient Secret",
+        "button": "1,U3",
+        "link": "",
+        "stanceID": 21
+    },
+
+    {
+        "move": "Sindel's Edge",
+        "button": "1,B3",
+        "link": "",
+        "stanceID": 21
+    },
+
+    {
+        "move": "Cutting You Up",
+        "button": "4,4",
+        "link": "",
+        "stanceID": 21
+    },
+
+    {
+        "move": "Slashing Queen",
+        "button": "4,4,1",
+        "link": "",
+        "stanceID": 21
+    },
+
+    {
+        "move": "Keeping Distance",
+        "button": "4,4,3",
+        "link": "",
+        "stanceID": 21
+    },
+
+    {
+        "move": "Twisting Python",
+        "button": "2,2",
+        "link": "",
+        "stanceID": 22
+    },
+    {
+        "move": "Spiritual Snake Tail",
+        "button": "2,3",
+        "link": "",
+        "stanceID": 22
+    },
+
+    {
+        "move": "Blinding Strike",
+        "button": "2,B1",
+        "link": "",
+        "stanceID": 22
+    },
+
+    {
+        "move": "Soul Catcher",
+        "button": "2,B4",
+        "link": "",
+        "stanceID": 22
+    },
+
+    {
+        "move": "Serpent Touch",
+        "button": "4,B2",
+        "link": "",
+        "stanceID": 22
+    },
+
+    {
+        "move": "Thrusting Fang",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 22
+    },
+
+    {
+        "move": "Rattlesnake",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 22
+    },
+
+    {
+        "move": "Hissing Strike",
+        "button": "1,1,2,3",
+        "link": "",
+        "stanceID": 22
+    },
+
+    {
+        "move": "Poisonous Snake",
+        "button": "1,1,2,2",
+        "link": "",
+        "stanceID": 22
+    },
+
+    {
+        "move": "Poisonous Palm",
+        "button": "1,1,2,2,B2",
+        "link": "",
+        "stanceID": 22
+    },
+
+    {
+        "move": "Lethal Venom",
+        "button": "1,1,2,B4",
+        "link": "",
+        "stanceID": 22
+    },
+
+    {
+        "move": "Snake Eyes",
+        "button": "1,1,2,B1",
+        "link": "",
+        "stanceID": 22
+    },
+
+    {
+        "move": "Cobra Revenge",
+        "button": "1,1,4,B2",
+        "link": "",
+        "stanceID": 22
+    },
+
+    {
+        "move": "Hissing Fang",
+        "button": "2,2,CS",
+        "link": "2,2,CS",
+        "stanceID": 22
+    },
+
+    {
+        "move": "Snake Tang",
+        "button": "1,1,2,CS",
+        "link": "",
+        "stanceID": 22
+    },
+
+    {
+        "move": "Overrun",
+        "button": "1,1,2,2,CS",
+        "link": "",
+        "stanceID": 22
+    },
+
+    {
+        "move": "Face Breaker",
+        "button": "2,2",
+        "link": "",
+        "stanceID": 23
+    },
+
+    {
+        "move": "Path Maker",
+        "button": "3,3",
+        "link": "",
+        "stanceID": 23
+    },
+
+    {
+        "move": "Nightfall",
+        "button": "B1,4",
+        "link": "",
+        "stanceID": 23
+    },
+
+    {
+        "move": "Rushing Palm",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 23
+    },
+
+    {
+        "move": "Rotting Stench",
+        "button": "2,3,4",
+        "link": "",
+        "stanceID": 23
+    },
+
+    {
+        "move": "Walking Dead",
+        "button": "B1,3,3",
+        "link": "",
+        "stanceID": 23
+    },
+    {
+        "move": "Death Wind",
+        "button": "1,1,2,2",
+        "link": "",
+        "stanceID": 23
+    },
+
+    {
+        "move": "Hell Bringer",
+        "button": "1,1,2,F2",
+        "link": "",
+        "stanceID": 23
+    },
+
+    {
+        "move": "Internal Power",
+        "button": "1,1,3,3",
+        "link": "",
+        "stanceID": 23
+    },
+
+    {
+        "move": "Decaying Guard",
+        "button": "1,1,2,3,4",
+        "link": "",
+        "stanceID": 23
+    },
+
+    {
+        "move": "Chaos Master",
+        "button": "1,1,2,CS",
+        "link": "",
+        "stanceID": 23
+    },
+
+    {
+        "move": "Basic Steps",
+        "button": "2,2",
+        "link": "",
+        "stanceID": 24
+    },
+
+    {
+        "move": "Face Fists",
+        "button": "2,2,2",
+        "link": "",
+        "stanceID": 24
+    },
+
+    {
+        "move": "Thunder Clap",
+        "button": "2,3",
+        "link": "",
+        "stanceID": 25
+    },
+
+    {
+        "move": "Trickster",
+        "button": "1,1,B1",
+        "link": "",
+        "stanceID": 25
+    },
+
+    {
+        "move": "Electric Strike",
+        "button": "2,B1",
+        "link": "",
+        "stanceID": 25
+    },
+
+    {
+        "move": "The Middle Way",
+        "button": "2,B2",
+        "link": "",
+        "stanceID": 25
+    },
+
+    {
+        "move": "Knowledge And Skill",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 25
+    },
+
+    {
+        "move": "Finishing Touch",
+        "button": "1,1,2,3",
+        "link": "",
+        "stanceID": 25
+    },
+
+    {
+        "move": "Natural Way",
+        "button": "1,1,2,B2",
+        "link": "",
+        "stanceID": 25
+    },
+
+    {
+        "move": "Wake The Dead",
+        "button": "1,1,2,B1",
+        "link": "",
+        "stanceID": 25
+    },
+
+    {
+        "move": "Power Bolts",
+        "button": "1,1,2,CS,1,B1",
+        "link": "",
+        "stanceID": 25
+    },
+
+    {
+        "move": "Out Of Order",
+        "button": "1,1,2,CS,1,3,4",
+        "link": "",
+        "stanceID": 25
+    },
+
+    {
+        "move": "Blackout",
+        "button": "1,1,2,CS,13,CS,4,4",
+        "link": "",
+        "stanceID": 25
+    },
+
+    {
+        "move": "Rend",
+        "button": "1,1,2,CS,1,3,CS,4,3",
+        "link": "",
+        "stanceID": 25
+    },
+
+    {
+        "move": "Sparky",
+        "button": "1,1,2,CS,1,3,CS,4,B2",
+        "link": "",
+        "stanceID": 25
+    },
+
+    {
+        "move": "Heavenly Strike",
+        "button": "3,4",
+        "link": "",
+        "stanceID": 26
+    },
+
+    {
+        "move": "Long Arm Pokes",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 26
+    },
+
+    {
+        "move": "Essence Of Strength",
+        "button": "1,1,3,4",
+        "link": "",
+        "stanceID": 26
+    },
+
+    {
+        "move": "Reigning God",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 26
+    },
+
+    {
+        "move": "Thunder God Fist",
+        "button": "1,1,B1",
+        "link": "",
+        "stanceID": 26
+    },
+    {
+        "move": "Fireworks",
+        "button": "1,1,3,CS,4,4",
+        "link": "",
+        "stanceID": 26
+    },
+    {
+        "move": "Dark Thunder",
+        "button": "1,1,3,CS,4,3",
+        "link": "",
+        "stanceID": 26
+    },
+    {
+        "move": "Chain Lighting",
+        "button": "1,1,3,CS,4,B2",
+        "link": "",
+        "stanceID": 26
+    },
+    {
+        "move": "Slap Down",
+        "button": "4,4",
+        "link": "",
+        "stanceID": 27
+    },
+    {
+        "move": "Great Lighting God",
+        "button": "4,4,4",
+        "link": "",
+        "stanceID": 27
+    },
+    {
+        "move": "Pain From Above",
+        "button": "4,4,3",
+        "link": "",
+        "stanceID": 27
+    },
+
+    {
+        "move": "Static Stick",
+        "button": "4,4,B2",
+        "link": "",
+        "stanceID": 27
+    },
+    {
+        "move": "Pink Dragon",
+        "button": "3,3",
+        "link": "",
+        "stanceID": 28
+    },
+    {
+        "move": "Extreme Fist",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 28
+    },
+    {
+        "move": "Unleashed",
+        "button": "2,B1",
+        "link": "",
+        "stanceID": 28
+    },
+    {
+        "move": "Explosive Strength",
+        "button": "1,1,B4",
+        "link": "",
+        "stanceID": 28
+    },
+
+    {
+        "move": "Rejuvenation",
+        "button": "1,1,2,4",
+        "link": "",
+        "stanceID": 28
+    },
+    {
+        "move": "Coiled Dragon",
+        "button": "1,1,3,3",
+        "link": "",
+        "stanceID": 28
+    },
+    {
+        "move": "Golden Path",
+        "button": "1,1,2,B4",
+        "link": "",
+        "stanceID": 28
+    },
+    {
+        "move": "Twister Spin",
+        "button": "2,4,CS",
+        "link": "",
+        "stanceID": 28
+    },
+    {
+        "move": "Typhoon Hands",
+        "button": "1,1,2,4,CS",
+        "link": "",
+        "stanceID": 28
+    },
+    {
+        "move": "Good Old 1-2",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 29
+    },
+    {
+        "move": "Triplets",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 29
+    },
+    {
+        "move": "Zong Rage",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 29
+    },
+    {
+        "move": "Angry Ape",
+        "button": "1,1,F1",
+        "link": "",
+        "stanceID": 29
+    },
+    {
+        "move": "Lost Track",
+        "button": "2,2,U4",
+        "link": "",
+        "stanceID": 29
+    },
+    {
+        "move": "Iron Broom",
+        "button": "2,2,B4",
+        "link": "",
+        "stanceID": 29
+    },
+    {
+        "move": "Crossing Paths",
+        "button": "1,2,2,CS",
+        "link": "",
+        "stanceID": 29
+    },
+    {
+        "move": "Basic Slashes",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 30
+    },
+    {
+        "move": "Wind Kontrol",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 30
+    },
+    {
+        "move": "Kunlun's Best",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 30
+    },
+    {
+        "move": "Unmatched",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 30
+    },
+    {
+        "move": "Blood Thirsty Blade",
+        "button": "2,B3",
+        "link": "",
+        "stanceID": 30
+    },
+    {
+        "move": "Hidden Hands",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 31
+    },
+    {
+        "move": "Road To Victory",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 31
+    },
+    {
+        "move": "Hidden Fists",
+        "button": "1,B1",
+        "link": "",
+        "stanceID": 31
+    },
+    {
+        "move": "Linked Thrust Kick",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 31
+    },
+    {
+        "move": "Gathered Strength",
+        "button": "1,B3",
+        "link": "",
+        "stanceID": 31
+    },
+    {
+        "move": "Overhead Pain",
+        "button": "3,3,3",
+        "link": "",
+        "stanceID": 31
+    },
+    {
+        "move": "The Art Of War",
+        "button": "1,3",
+        "link": "",
+        "stanceID": 31
+    },
+    {
+        "move": "Masked Psycho",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 31
+    },
+    {
+        "move": "The Beast",
+        "button": "1,1,U3",
+        "link": "",
+        "stanceID": 31
+    },
+    {
+        "move": "Psycho Machine",
+        "button": "1,1,2,CS",
+        "link": "",
+        "stanceID": 31
+    },
+    {
+        "move": "Dual Shotei",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 32
+    },
+    {
+        "move": "No Escape",
+        "button": "1,2",
+        "link": "",
+        "stanceID": 32
+    },
+    {
+        "move": "Head Twister",
+        "button": "1,4",
+        "link": "",
+        "stanceID": 32
+    },
+    {
+        "move": "Speed Monster",
+        "button": "1,1,CS",
+        "link": "",
+        "stanceID": 32
+    },
+    {
+        "move": "Razor Moon",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 33
+    },
+    {
+        "move": "Strength And Balance",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 33
+    },
+
+    {
+        "move": "Furious Edges",
+        "button": "2,1",
+        "link": "",
+        "stanceID": 33
+    },
+
+    {
+        "move": "Blazing Fury",
+        "button": "2,1,4",
+        "link": "",
+        "stanceID": 33
+    },
+
+    {
+        "move": "Unholy Strength",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 33
+    },
+
+    {
+        "move": "Hooksword Pain",
+        "button": "1,1,4,CS",
+        "link": "",
+        "stanceID": 33
+    },
+
+    {
+        "move": "Shady Blows",
+        "button": "1,1,B1",
+        "link": "",
+        "stanceID": 33
+    },
+    {
+        "move": "Chop Shop",
+        "button": "2,2",
+        "link": "",
+        "stanceID": 34
+    },
+    {
+        "move": "Blender Fists",
+        "button": "2,2,2",
+        "link": "",
+        "stanceID": 34
+    },
+
+    {
+        "move": "Face Chop",
+        "button": "B1,3",
+        "link": "",
+        "stanceID": 34
+    },
+
+    {
+        "move": "Chop Em Up",
+        "button": "2,2,1",
+        "link": "",
+        "stanceID": 34
+    },
+
+    {
+        "move": "Face Plant",
+        "button": "2,B1",
+        "link": "",
+        "stanceID": 34
+    },
+    {
+        "move": "Swift Like The Wind",
+        "button": "2,2,CS",
+        "link": "",
+        "stanceID": 34
+    },
+    {
+        "move": "Nitro Strikes",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 35
+    },
+    {
+        "move": "Strong Ox",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 35
+    },
+    {
+        "move": "Strong Mule",
+        "button": "1,U1",
+        "link": "",
+        "stanceID": 35
+    },
+    {
+        "move": "Bloody Master",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 35
+    },
+    {
+        "move": "Grasping Fingers",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 35
+    },
+    {
+        "move": "Carving The Way",
+        "button": "1,1,B2",
+        "link": "",
+        "stanceID": 35
+    },
+    {
+        "move": "Choy Lay Power",
+        "button": "1,1,2,CS",
+        "link": "",
+        "stanceID": 35
+    },
+    {
+        "move": "Slice And Attack",
+        "button": "1,3",
+        "link": "",
+        "stanceID": 36
+    },
+    {
+        "move": "Mystic Rush",
+        "button": "1,3,4",
+        "link": "",
+        "stanceID": 36
+    },
+    {
+        "move": "Beat Down",
+        "button": "1,3,4,4",
+        "link": "",
+        "stanceID": 36
+    },
+    {
+        "move": "Into The Shadows",
+        "button": "1,3,4,4,4",
+        "link": "",
+        "stanceID": 36
+    },
+    {
+        "move": "Rush Punches",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 37
+    },
+    {
+        "move": "Beat Down",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 37
+    },
+    {
+        "move": "Rapid Chain Punches",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 37
+    },
+    {
+        "move": "Red Sky",
+        "button": "1,1,1,CS,4",
+        "link": "",
+        "stanceID": 37
+    },
+    {
+        "move": "Dirty Trick",
+        "button": "1,1,1,CS,B3,3",
+        "link": "",
+        "stanceID": 37
+    },
+    {
+        "move": "Clearness Of Mind",
+        "button": "4,4",
+        "link": "",
+        "stanceID": 38
+    },
+    {
+        "move": "Take Out",
+        "button": "B3,3",
+        "link": "",
+        "stanceID": 38
+    },
+    {
+        "move": "Peaceful World",
+        "button": "1,1,B2",
+        "link": "",
+        "stanceID": 38
+    },
+    {
+        "move": "Wild Things",
+        "button": "4,B3,3",
+        "link": "",
+        "stanceID": 38
+    },
+    {
+        "move": "Warpath",
+        "button": "1,1,CS",
+        "link": "",
+        "stanceID": 38
+    },
+    {
+        "move": "Stone Hammer",
+        "button": "1,2",
+        "link": "",
+        "stanceID": 39
+    },
+    {
+        "move": "Swift Wind",
+        "button": "1,3,4",
+        "link": "",
+        "stanceID": 39
+    },
+    {
+        "move": "Savage Edge",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 39
+    },
+    {
+        "move": "Revenge",
+        "button": "1,2,F2",
+        "link": "",
+        "stanceID": 39
+    },
+    {
+        "move": "Head Hunter",
+        "button": "1,2,3",
+        "link": "",
+        "stanceID": 39
+    },
+    {
+        "move": "Scalping Time",
+        "button": "1,2,3,4",
+        "link": "",
+        "stanceID": 39
+    },
+
+    {
+        "move": "Ring Out",
+        "button": "1,2",
+        "link": "",
+        "stanceID": 40
+    },
+    {
+        "move": "Phat hands",
+        "button": "B4,2",
+        "link": "",
+        "stanceID": 40
+    },
+    {
+        "move": "Champion Sumo",
+        "button": "1,2,3",
+        "link": "",
+        "stanceID": 40
+    },
+    {
+        "move": "Frenzy Legs",
+        "button": "1,2,CS,3,3",
+        "link": "",
+        "stanceID": 40
+    },
+    {
+        "move": "Sleepwalker",
+        "button": "1,2,CS,3,2,2",
+        "link": "",
+        "stanceID": 40
+    },
+    {
+        "move": "Drunken Sumo",
+        "button": "1,2,3,CS",
+        "link": "",
+        "stanceID": 40
+    },
+
+    {
+        "move": "Krazy Monkey",
+        "button": "3,2",
+        "link": "",
+        "stanceID": 41
+    },
+    {
+        "move": "Twist Of Lime",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 41
+    },
+    {
+        "move": "Crushing Grapes",
+        "button": "3,3,3",
+        "link": "",
+        "stanceID": 41
+    },
+    {
+        "move": "Staggering Steps",
+        "button": "2,3,2,2",
+        "link": "",
+        "stanceID": 41
+    },
+    {
+        "move": "Zero Tolerance",
+        "button": "3,3,2,2",
+        "link": "",
+        "stanceID": 41
+    },
+    {
+        "move": "On The Rock",
+        "button": "2,2,1,1,1",
+        "link": "",
+        "stanceID": 41
+    },
+    {
+        "move": "City Protector",
+        "button": "3,3,CS",
+        "link": "",
+        "stanceID": 41
+    },
+
+    {
+        "move": "Homerun",
+        "button": "2,3",
+        "link": "",
+        "stanceID": 42
+    },
+    {
+        "move": "Cheap Stick",
+        "button": "2,4",
+        "link": "",
+        "stanceID": 42
+    },
+    {
+        "move": "Dancing Stick",
+        "button": "2,4,1",
+        "link": "",
+        "stanceID": 42
+    },
+    {
+        "move": "Crusty Branch",
+        "button": "2,4,4",
+        "link": "",
+        "stanceID": 42
+    },
+    {
+        "move": "Splitting Bamboo",
+        "button": "2,4,B1",
+        "link": "",
+        "stanceID": 42
+    },
+    {
+        "move": "Rolling Wind",
+        "button": "2,4,4,U3",
+        "link": "",
+        "stanceID": 42
+    },
+
+    {
+        "move": "Tree Monkey",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 43
+    },
+    {
+        "move": "Going Ape",
+        "button": "2,1",
+        "link": "",
+        "stanceID": 43
+    },
+    {
+        "move": "Krazy Apes",
+        "button": "2,4",
+        "link": "",
+        "stanceID": 43
+    },
+    {
+        "move": "Monkey Rage",
+        "button": "2,1,1",
+        "link": "",
+        "stanceID": 43
+    },
+    {
+        "move": "Monkey Trouble",
+        "button": "2,1,3",
+        "link": "",
+        "stanceID": 43
+    },
+    {
+        "move": "Double Trouble",
+        "button": "1,1,CS",
+        "link": "",
+        "stanceID": 43
+    },
+    {
+        "move": "Flowing Wing",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 44
+    },
+    {
+        "move": "Lunge Strikes",
+        "button": "1,2",
+        "link": "",
+        "stanceID": 44
+    },
+    {
+        "move": "King Palms",
+        "button": "1,2,B2",
+        "link": "",
+        "stanceID": 44
+    },
+    {
+        "move": "Long Ranged Strikes",
+        "button": "1,2,4",
+        "link": "",
+        "stanceID": 44
+    },
+    {
+        "move": "Deadly Foes",
+        "button": "1,2,4,CS,1",
+        "link": "",
+        "stanceID": 44
+    },
+
+    {
+        "move": "Perfect Form",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 45
+    },
+    {
+        "move": "Good Seasons",
+        "button": "2,F2",
+        "link": "",
+        "stanceID": 45
+    },
+    {
+        "move": "Bloody Boots",
+        "button": "4,4",
+        "link": "",
+        "stanceID": 45
+    },
+    {
+        "move": "Sneaky Heels",
+        "button": "B3,F3",
+        "link": "",
+        "stanceID": 45
+    },
+    {
+        "move": "Mind And Body As One",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 45
+    },
+    {
+        "move": "My Lucky Feet",
+        "button": "4,4,CS,4",
+        "link": "",
+        "stanceID": 45
+    },
+    {
+        "move": "Knuckle Punches",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 46
+    },
+    {
+        "move": "Knuckle Master",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 46
+    },
+    {
+        "move": "Pelvis Ripper",
+        "button": "3,3",
+        "link": "",
+        "stanceID": 46
+    },
+    {
+        "move": "Finishing Touch",
+        "button": "2,B1",
+        "link": "",
+        "stanceID": 46
+    },
+    {
+        "move": "Let's Dance",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 46
+    },
+    {
+        "move": "Power Heels",
+        "button": "4,4",
+        "link": "",
+        "stanceID": 46
+    },
+    {
+        "move": "All Skill",
+        "button": "3,2,B1",
+        "link": "",
+        "stanceID": 46
+    },
+    {
+        "move": "Toad Style",
+        "button": "2,CS,B1",
+        "link": "",
+        "stanceID": 46
+    },
+    {
+        "move": "All For You",
+        "button": "2,CS,4,4",
+        "link": "",
+        "stanceID": 46
+    },
+    {
+        "move": "Do You Feel It",
+        "button": "2,CS,2",
+        "link": "",
+        "stanceID": 46
+    },
+    {
+        "move": "Twisty Edges",
+        "button": "2,CS,1,1",
+        "link": "",
+        "stanceID": 46
+    },
+    {
+        "move": "Kobu Jutsu X-Fer",
+        "button": "2,CS,1,1,U1",
+        "link": "",
+        "stanceID": 46
+    },
+
+    {
+        "move": "Underarm Slap",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 47
+    },
+    {
+        "move": "Dual Tonfa Snuff",
+        "button": "1,1,U1",
+        "link": "",
+        "stanceID": 47
+    },
+    {
+        "move": "Wonder Twirls",
+        "button": "B2,1",
+        "link": "",
+        "stanceID": 47
+    },
+    {
+        "move": "Slicing Wind",
+        "button": "B2,B1",
+        "link": "",
+        "stanceID": 47
+    },
+    {
+        "move": "Razor Wands",
+        "button": "B2,1,1",
+        "link": "",
+        "stanceID": 47
+    },
+    {
+        "move": "Head Knocker",
+        "button": "B2,2",
+        "link": "",
+        "stanceID": 47
+    },
+    {
+        "move": "Tonfa Steel End",
+        "button": "B2,4",
+        "link": "",
+        "stanceID": 47
+    },
+    {
+        "move": "Billy Club Pain",
+        "button": "B2,4,4",
+        "link": "",
+        "stanceID": 47
+    },
+    {
+        "move": "Striker Sticks",
+        "button": "4,4",
+        "link": "",
+        "stanceID": 47
+    },
+    {
+        "move": "Spinner",
+        "button": "B2,1,1,U1",
+        "link": "",
+        "stanceID": 47
+    },
+
+    {
+        "move": "Deadly Bent Wrists",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 48
+    },
+    {
+        "move": "Looking For Prey",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 48
+    },
+    {
+        "move": "Time To Hunt",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 48
+    },
+    {
+        "move": "Stunning Prey",
+        "button": "1,1,U3",
+        "link": "",
+        "stanceID": 48
+    },
+    {
+        "move": "Metal Mantis",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 48
+    },
+    {
+        "move": "Scratch It Up",
+        "button": "1,1,2,4",
+        "link": "",
+        "stanceID": 48
+    },
+    {
+        "move": "Old Timer",
+        "button": "1,1,2,B2",
+        "link": "",
+        "stanceID": 48
+    },
+    {
+        "move": "Stone Mountains",
+        "button": "F,4,1",
+        "link": "",
+        "stanceID": 48
+    },
+    {
+        "move": "Time And Space",
+        "button": "F4,1,3",
+        "link": "",
+        "stanceID": 48
+    },
+    {
+        "move": "Secret Hands",
+        "button": "F,1,U3",
+        "link": "",
+        "stanceID": 48
+    },
+    {
+        "move": "Take Kontrol",
+        "button": "F4,1,2,B2",
+        "link": "",
+        "stanceID": 48
+    },
+    {
+        "move": "Perfection",
+        "button": "1,1,2,CS",
+        "link": "",
+        "stanceID": 48
+    },
+    {
+        "move": "Big Slice",
+        "button": "F,1,1,CS,4,4,CS",
+        "link": "",
+        "stanceID": 48
+    },
+    {
+        "move": "Zero",
+        "button": "F,1,1,CS,2,4,CS,1",
+        "link": "",
+        "stanceID": 48
+    },
+    {
+        "move": "Mighty Jinko",
+        "button": "1,1,1,CS,2,4,F2",
+        "link": "",
+        "stanceID": 48
+    },
+    {
+        "move": "Sifu Shujinko",
+        "button": "1,1,1,CS,2,4,3",
+        "link": "",
+        "stanceID": 48
+    },
+    {
+        "move": "World Ruler",
+        "button": "F4,1,1,CS,2,4,3",
+        "link": "",
+        "stanceID": 48
+    },
+    {
+        "move": "Hardcore",
+        "button": "F4,1,1,CS,4,4,F2",
+        "link": "",
+        "stanceID": 48
+    },
+
+    {
+        "move": "Fist Of Pain",
+        "button": "1,2",
+        "link": "",
+        "stanceID": 49
+    },
+    {
+        "move": "Monk Legion",
+        "button": "1,2,4",
+        "link": "",
+        "stanceID": 49
+    },
+    {
+        "move": "Strength And Honor",
+        "button": "2,4",
+        "link": "",
+        "stanceID": 49
+    },
+    {
+        "move": "White Tiger",
+        "button": "2,4,3",
+        "link": "",
+        "stanceID": 49
+    },
+    {
+        "move": "Graceful Speed",
+        "button": "1,2,4,3",
+        "link": "",
+        "stanceID": 49
+    },
+    {
+        "move": "Stealth Monk",
+        "button": "1,4",
+        "link": "",
+        "stanceID": 49
+    },
+    {
+        "move": "Bludgon Fist",
+        "button": "1,4,4,F2",
+        "link": "",
+        "stanceID": 49
+    },
+    {
+        "move": "Precise Killing",
+        "button": "1,4,4,3",
+        "link": "",
+        "stanceID": 49
+    },
+    {
+        "move": "Sneaky Legs",
+        "button": "4,3",
+        "link": "",
+        "stanceID": 49
+    },
+    {
+        "move": "Poor Soul",
+        "button": "1,2,4,CS",
+        "link": "",
+        "stanceID": 49
+    },
+    {
+        "move": "Explorer",
+        "button": "1,2,4,CS,1",
+        "link": "",
+        "stanceID": 49
+    },
+    {
+        "move": "Plane Searcher",
+        "button": "1,4,4,CS",
+        "link": "",
+        "stanceID": 49
+    },
+
+    {
+        "move": "Double Throat Cuts",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 50
+    },
+
+    {
+        "move": "Double Backfist",
+        "button": "2,1",
+        "link": "",
+        "stanceID": 51
+    },
+    {
+        "move": "Bashing Skulls",
+        "button": "2,B1",
+        "link": "",
+        "stanceID": 51
+    },
+    {
+        "move": "Cruncher",
+        "button": "1,3",
+        "link": "",
+        "stanceID": 51
+    },
+    {
+        "move": "Leg Bash",
+        "button": "1,B3",
+        "link": "",
+        "stanceID": 51
+    },
+    {
+        "move": "Launching Bash",
+        "button": "2,1,CS",
+        "link": "",
+        "stanceID": 51
+    },
+    {
+        "move": "Falling Tree",
+        "button": "2,2,3",
+        "link": "",
+        "stanceID": 52
+    },
+    {
+        "move": "Rushing Ridgehand",
+        "button": "2,2,1",
+        "link": "",
+        "stanceID": 52
+    },
+    {
+        "move": "Good Order",
+        "button": "2,2,4",
+        "link": "",
+        "stanceID": 52
+    },
+    {
+        "move": "Slicing Hands",
+        "button": "2,B1",
+        "link": "",
+        "stanceID": 52
+    },
+    {
+        "move": "Rain From Above",
+        "button": "2,2,U1",
+        "link": "",
+        "stanceID": 52
+    },
+    {
+        "move": "Spinning Out Of Kontrol",
+        "button": "2,2,CS",
+        "link": "",
+        "stanceID": 52
+    },
+    {
+        "move": "Royal Guard",
+        "button": "1,B1",
+        "link": "",
+        "stanceID": 53
+    },
+    {
+        "move": "Samurai Spirit",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 53
+    },
+    {
+        "move": "7th Death Dealer",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 53
+    },
+    {
+        "move": "Honor Guard",
+        "button": "1,1,U2",
+        "link": "",
+        "stanceID": 53
+    },
+    {
+        "move": "Demonic Warrior",
+        "button": "1,1,B4",
+        "link": "",
+        "stanceID": 53
+    },
+
+    {
+        "move": "Twin Eye Poke",
+        "button": "2,2",
+        "link": "",
+        "stanceID": 54
+    },
+    {
+        "move": "Downfall",
+        "button": "2,2",
+        "link": "",
+        "stanceID": 54
+    },
+    {
+        "move": "Stone Wrists",
+        "button": "2,1",
+        "link": "",
+        "stanceID": 54
+    },
+    {
+        "move": "Leg Chopper",
+        "button": "F,4,1",
+        "link": "",
+        "stanceID": 54
+    },
+    {
+        "move": "Demon Slayer",
+        "button": "2,2,1",
+        "link": "",
+        "stanceID": 54
+    },
+    {
+        "move": "Faithful Mind",
+        "button": "2,2,1,CS",
+        "link": "",
+        "stanceID": 54
+    },
+    {
+        "move": "Feeling Lucky",
+        "button": "2,2,3",
+        "link": "",
+        "stanceID": 54
+    },
+    {
+        "move": "Furious Wrath",
+        "button": "2,2,1,CS,2,2,CS",
+        "link": "",
+        "stanceID": 54
+    },
+    {
+        "move": "Killer In White",
+        "button": "2,2,1,CS,3,F3",
+        "link": "",
+        "stanceID": 54
+    },
+    {
+        "move": "Stomach Pain",
+        "button": "1,3",
+        "link": "",
+        "stanceID": 55
+    },
+    {
+        "move": "Fancy Hands",
+        "button": "1,2",
+        "link": "",
+        "stanceID": 55
+    },
+    {
+        "move": "Chin Strikes",
+        "button": "2,2",
+        "link": "",
+        "stanceID": 55
+    },
+    {
+        "move": "Rusty Blade",
+        "button": "1,3,CS",
+        "link": "",
+        "stanceID": 55
+    },
+    {
+        "move": "Painful Palms",
+        "button": "1,2,2",
+        "link": "",
+        "stanceID": 55
+    },
+    {
+        "move": "Dancing Hands",
+        "button": "1,2,2,3",
+        "link": "",
+        "stanceID": 55
+    },
+    {
+        "move": "Face Scrape",
+        "button": "2,2,3",
+        "link": "",
+        "stanceID": 55
+    },
+    {
+        "move": "Face Poker",
+        "button": "2,2,CS",
+        "link": "",
+        "stanceID": 55
+    },
+    {
+        "move": "Art Of Overkill",
+        "button": "1,3,F3",
+        "link": "",
+        "stanceID": 55
+    },
+    {
+        "move": "Kriss Kross",
+        "button": "2,2",
+        "link": "",
+        "stanceID": 56
+    },
+    {
+        "move": "Twin Swipes",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 56
+    },
+    {
+        "move": "Fast Enough",
+        "button": "F1,1",
+        "link": "",
+        "stanceID": 56
+    },
+    {
+        "move": "Fast Hands",
+        "button": "F1,1,1",
+        "link": "",
+        "stanceID": 56
+    },
+    {
+        "move": "Extreme Fists",
+        "button": "F1,1,1,1",
+        "link": "",
+        "stanceID": 56
+    },
+    {
+        "move": "Goddess Blade",
+        "button": "3,4",
+        "link": "",
+        "stanceID": 56
+    },
+    {
+        "move": "King Thunder",
+        "button": "3,4,2",
+        "link": "",
+        "stanceID": 56
+    },
+    {
+        "move": "Killer Bride",
+        "button": "3,4,2,2",
+        "link": "",
+        "stanceID": 56
+    },
+
+    {
+        "move": "Trapping Hands",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 57
+    },
+    {
+        "move": "Lock Down",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 57
+    },
+    {
+        "move": "Stick Fists",
+        "button": "1,1,U1",
+        "link": "",
+        "stanceID": 57
+    },
+    {
+        "move": "Reaver Strikes",
+        "button": "1,2",
+        "link": "",
+        "stanceID": 57
+    },
+    {
+        "move": "Junk",
+        "button": "1,2,4",
+        "link": "",
+        "stanceID": 57
+    },
+    {
+        "move": "Long Legs",
+        "button": "2,4,3",
+        "link": "",
+        "stanceID": 57
+    },
+    {
+        "move": "Iron Horse Legs",
+        "button": "2,4,4,3",
+        "link": "",
+        "stanceID": 57
+    },
+    {
+        "move": "Razor Legs",
+        "button": "1,2,4,4",
+        "link": "",
+        "stanceID": 57
+    },
+    {
+        "move": "Whispering Tail",
+        "button": "4,4,3",
+        "link": "",
+        "stanceID": 57
+    },
+    {
+        "move": "Doom Attack",
+        "button": "1,2,4,3",
+        "link": "",
+        "stanceID": 57
+    },
+    {
+        "move": "Wonder Thunder",
+        "button": "1,2,4,4,3",
+        "link": "",
+        "stanceID": 57
+    },
+    {
+        "move": "Changing Winds",
+        "button": "1,2,4,CS",
+        "link": "",
+        "stanceID": 57
+    },
+    {
+        "move": "Double Trouble",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 58
+    },
+    {
+        "move": "Trap Those Hands",
+        "button": "2,3",
+        "link": "",
+        "stanceID": 58
+    },
+    {
+        "move": "Hand Lock",
+        "button": "2,3,4",
+        "link": "",
+        "stanceID": 58
+    },
+    {
+        "move": "Secret Knees",
+        "button": "2,3,4,4",
+        "link": "",
+        "stanceID": 58
+    },
+    {
+        "move": "Chaos Strikes",
+        "button": "3,4,4",
+        "link": "",
+        "stanceID": 58
+    },
+    {
+        "move": "Deadly Fu",
+        "button": "4,4",
+        "link": "",
+        "stanceID": 58
+    },
+    {
+        "move": "Path Walker",
+        "button": "3,1,1",
+        "link": "",
+        "stanceID": 58
+    },
+    {
+        "move": "Open Passage",
+        "button": "3,1",
+        "link": "",
+        "stanceID": 58
+    },
+    {
+        "move": "Warrior Of Chaos",
+        "button": "2,3,1,U2",
+        "link": "",
+        "stanceID": 58
+    },
+    {
+        "move": "Hidden Evil",
+        "button": "3,1,U2",
+        "link": "",
+        "stanceID": 58
+    },
+    {
+        "move": "Sharp Spin Action",
+        "button": "2,3,CS",
+        "link": "",
+        "stanceID": 58
+    },
+    {
+        "move": "Sonic Air Wave",
+        "button": "2,3,4,CS",
+        "link": "",
+        "stanceID": 58
+    },
+
+    {
+        "move": "Tiger Slashes",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 59
+    },
+    {
+        "move": "Beast Power",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 59
+    },
+    {
+        "move": "Blood Letter",
+        "button": "1,1,F3",
+        "link": "",
+        "stanceID": 59
+    },
+
+    {
+        "move": "Kobra Strikes",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 60
+    },
+    {
+        "move": "Bone Breaker",
+        "button": "1,2",
+        "link": "",
+        "stanceID": 60
+    },
+    {
+        "move": "Peace Out",
+        "button": "1,2,U4",
+        "link": "",
+        "stanceID": 60
+    },
+    {
+        "move": "Strong Uppercut",
+        "button": "2,CS",
+        "link": "",
+        "stanceID": 60
+    },
+    {
+        "move": "Cutting Hands",
+        "button": "2,1",
+        "link": "",
+        "stanceID": 60
+    },
+    {
+        "move": "Big Blast",
+        "button": "2,4",
+        "link": "",
+        "stanceID": 60
+    },
+    {
+        "move": "Renegade",
+        "button": "2,1,2",
+        "link": "",
+        "stanceID": 60
+    },
+    {
+        "move": "The Foot Sword",
+        "button": "3,3",
+        "link": "",
+        "stanceID": 60
+    },
+    {
+        "move": "Deadly Venom",
+        "button": "2,3",
+        "link": "",
+        "stanceID": 60
+    },
+    {
+        "move": "Phantom Feet",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 60
+    },
+    {
+        "move": "Phantom Legs",
+        "button": "1,1,3,3",
+        "link": "",
+        "stanceID": 60
+    },
+    {
+        "move": "Tricky Trip",
+        "button": "1,1,3,CS",
+        "link": "",
+        "stanceID": 60
+    },
+    {
+        "move": "I'm The Best",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 60
+    },
+    {
+        "move": "Kobra Kai",
+        "button": "2,3,3",
+        "link": "",
+        "stanceID": 60
+    },
+    {
+        "move": "Hidden String 1",
+        "button": "2,1,1,3,3",
+        "link": "",
+        "stanceID": 60
+    },
+
+    {
+        "move": "Ring Out",
+        "button": "1,2",
+        "link": "",
+        "stanceID": 61
+    },
+    {
+        "move": "Powerman",
+        "button": "1,3",
+        "link": "",
+        "stanceID": 61
+    },
+    {
+        "move": "Face Smacker",
+        "button": "1,3,CS",
+        "link": "",
+        "stanceID": 61
+    },
+    {
+        "move": "The Champ",
+        "button": "1,U2",
+        "link": "",
+        "stanceID": 61
+    },
+    {
+        "move": "Killer Legs",
+        "button": "1,4",
+        "link": "",
+        "stanceID": 61
+    },
+    {
+        "move": "Krazy Hands",
+        "button": "1,2,2",
+        "link": "",
+        "stanceID": 61
+    },
+    {
+        "move": "Krazy 8's",
+        "button": "1,2,2,CS",
+        "link": "",
+        "stanceID": 61
+    },
+    {
+        "move": "Left Right Hook",
+        "button": "1,B2",
+        "link": "",
+        "stanceID": 61
+    },
+    {
+        "move": "Lighting Fast",
+        "button": "2,2,3",
+        "link": "",
+        "stanceID": 61
+    },
+    {
+        "move": "Flurry Punches",
+        "button": "2,2,B2",
+        "link": "",
+        "stanceID": 61
+    },
+    {
+        "move": "Low High Thai Kicks",
+        "button": "B3,3",
+        "link": "",
+        "stanceID": 61
+    },
+    {
+        "move": "Blurry Sticks",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 62
+    },
+    {
+        "move": "Kobra Fangs",
+        "button": "2,4",
+        "link": "",
+        "stanceID": 62
+    },
+    {
+        "move": "Take Out",
+        "button": "2,4,3",
+        "link": "",
+        "stanceID": 62
+    },
+    {
+        "move": "Channeling Power",
+        "button": "1,1,U3",
+        "link": "",
+        "stanceID": 62
+    },
+    {
+        "move": "Windy Pain",
+        "button": "2,4,B3",
+        "link": "",
+        "stanceID": 62
+    },
+    {
+        "move": "Hard Hitting",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 62
+    },
+    {
+        "move": "Bruising Pain",
+        "button": "1,1,2,4",
+        "link": "",
+        "stanceID": 62
+    },
+    {
+        "move": "Black And Blue",
+        "button": "1,1,2,4,B3",
+        "link": "",
+        "stanceID": 62
+    },
+    {
+        "move": "Chopping Wind",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 63
+    },
+    {
+        "move": "Heavy Damage",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 63
+    },
+    {
+        "move": "Fierce One",
+        "button": "1,1,B1",
+        "link": "",
+        "stanceID": 63
+    },
+    {
+        "move": "Swift Chops",
+        "button": "1,2,F2",
+        "link": "",
+        "stanceID": 63
+    },
+    {
+        "move": "Hazy",
+        "button": "1,2,3",
+        "link": "",
+        "stanceID": 63
+    },
+    {
+        "move": "Triple Speed",
+        "button": "2,3,4",
+        "link": "",
+        "stanceID": 63
+    },
+    {
+        "move": "Shinto Stealth",
+        "button": "1,1,U4,U4",
+        "link": "",
+        "stanceID": 63
+    },
+    {
+        "move": "Blending Feet",
+        "button": "3,3,3",
+        "link": "",
+        "stanceID": 63
+    },
+    {
+        "move": "X-Feet",
+        "button": "2,3,3,3",
+        "link": "",
+        "stanceID": 63
+    },
+    {
+        "move": "Knock You Out",
+        "button": "1,2,4",
+        "link": "",
+        "stanceID": 63
+    },
+    {
+        "move": "Wake Up",
+        "button": "1,2,3,3",
+        "link": "",
+        "stanceID": 63
+    },
+    {
+        "move": "Krazy Styles",
+        "button": "1,2,3,3,3",
+        "link": "",
+        "stanceID": 63
+    },
+    {
+        "move": "I Have The Power",
+        "button": "1,2,3,4",
+        "link": "",
+        "stanceID": 63
+    },
+    {
+        "move": "Shinto Claws",
+        "button": "1,2,3,CS",
+        "link": "",
+        "stanceID": 63
+    },
+    {
+        "move": "Blurry Punches",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 64
+    },
+    {
+        "move": "Knuckle Pain",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 64
+    },
+    {
+        "move": "Sneaky Leopard",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 64
+    },
+    {
+        "move": "Face Splat",
+        "button": "1,1,1,2",
+        "link": "",
+        "stanceID": 64
+    },
+    {
+        "move": "Stalking Eyes",
+        "button": "1,1,U1",
+        "link": "",
+        "stanceID": 64
+    },
+    {
+        "move": "Pouncing Paws",
+        "button": "1,1,B1",
+        "link": "",
+        "stanceID": 64
+    },
+    {
+        "move": "Outstanding Result",
+        "button": "1,1,2,4",
+        "link": "",
+        "stanceID": 64
+    },
+    {
+        "move": "Keep It Cool",
+        "button": "1,1,4,CS",
+        "link": "",
+        "stanceID": 64
+    },
+
+    {
+        "move": "Power Glove",
+        "button": "1,2",
+        "link": "",
+        "stanceID": 65
+    },
+    {
+        "move": "Total Destruction",
+        "button": "1,2,4",
+        "link": "",
+        "stanceID": 65
+    },
+    {
+        "move": "Letting Loose",
+        "button": "1,2,4,4",
+        "link": "",
+        "stanceID": 65
+    },
+    {
+        "move": "Enraged",
+        "button": "1,2,4,4,4",
+        "link": "",
+        "stanceID": 65
+    },
+    {
+        "move": "Kombat Control",
+        "button": "4,4",
+        "link": "",
+        "stanceID": 65
+    },
+    {
+        "move": "Sharp Feet",
+        "button": "4,4,4",
+        "link": "",
+        "stanceID": 65
+    },
+
+    {
+        "move": "Redzone",
+        "button": "4,2",
+        "link": "",
+        "stanceID": 66
+    },
+    {
+        "move": "Casualty",
+        "button": "4,3",
+        "link": "",
+        "stanceID": 66
+    },
+    {
+        "move": "Seek And Destroy",
+        "button": "1,1,4,3",
+        "link": "",
+        "stanceID": 66
+    },
+    {
+        "move": "Twlight",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 66
+    },
+    {
+        "move": "Dangerous",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 66
+    },
+    {
+        "move": "Firey Hands",
+        "button": "1,1,U4",
+        "link": "",
+        "stanceID": 66
+    },
+    {
+        "move": "Wrath Of Kira",
+        "button": "1,1,B4",
+        "link": "",
+        "stanceID": 66
+    },
+    {
+        "move": "Rebel Chick",
+        "button": "2,B1",
+        "link": "",
+        "stanceID": 66
+    },
+    {
+        "move": "Suffering",
+        "button": "1,1,2,B1",
+        "link": "",
+        "stanceID": 66
+    },
+    {
+        "move": "Assault And Battery",
+        "button": "1,1,4,2",
+        "link": "",
+        "stanceID": 66
+    },
+    {
+        "move": "Rebel Queen",
+        "button": "1,1,4,CS",
+        "link": "",
+        "stanceID": 66
+    },
+
+    {
+        "move": "Black Tiger",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 67
+    },
+    {
+        "move": "Leopard Paws",
+        "button": "1,3",
+        "link": "",
+        "stanceID": 67
+    },
+    {
+        "move": "Bad Girl",
+        "button": "1,3,3",
+        "link": "",
+        "stanceID": 67
+    },
+    {
+        "move": "Tiger Strikes",
+        "button": "1,1,U1",
+        "link": "",
+        "stanceID": 67
+    },
+    {
+        "move": "Black Dragon Special",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 67
+    },
+    {
+        "move": "Red Beauty",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 67
+    },
+    {
+        "move": "Leopard Legs",
+        "button": "3,3",
+        "link": "",
+        "stanceID": 67
+    },
+    {
+        "move": "Into The Nite",
+        "button": "1,1,CS,B2",
+        "link": "",
+        "stanceID": 67
+    },
+    {
+        "move": "Dragon Tooth",
+        "button": "1,3",
+        "link": "",
+        "stanceID": 68
+    },
+    {
+        "move": "Sharp Girl",
+        "button": "1,F3",
+        "link": "",
+        "stanceID": 68
+    },
+    {
+        "move": "Snap Dragon Kicks",
+        "button": "4,4",
+        "link": "",
+        "stanceID": 68
+    },
+    {
+        "move": "Black Dragon",
+        "button": "4,4,4",
+        "link": "",
+        "stanceID": 68
+    },
+    {
+        "move": "Hi-Octane",
+        "button": "B1,B2",
+        "link": "",
+        "stanceID": 68
+    },
+
+    {
+        "move": "Gun Punches",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 69
+    },
+    {
+        "move": "Blurry Vision",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 69
+    },
+    {
+        "move": "Kang Bang",
+        "button": "1,1,3,4",
+        "link": "",
+        "stanceID": 69
+    },
+    {
+        "move": "Lightning Legs",
+        "button": "3,4",
+        "link": "",
+        "stanceID": 69
+    },
+    {
+        "move": "Berserker Rage",
+        "button": "1,1,F2",
+        "link": "",
+        "stanceID": 69
+    },
+    {
+        "move": "Revenge Of Kang",
+        "button": "2,4",
+        "link": "",
+        "stanceID": 69
+    },
+    {
+        "move": "Spiritual Warrior",
+        "button": "2,3",
+        "link": "",
+        "stanceID": 69
+    },
+    {
+        "move": "Ghostly Strikes",
+        "button": "2,B1",
+        "link": "",
+        "stanceID": 69
+    },
+    {
+        "move": "Extreme Fists",
+        "button": "1,1,3,CS,1,B1",
+        "link": "",
+        "stanceID": 69
+    },
+    {
+        "move": "Blurry Flurry",
+        "button": "1,1,3,CS,1,U2",
+        "link": "",
+        "stanceID": 69
+    },
+
+    {
+        "move": "Sunshine",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 70
+    },
+    {
+        "move": "Sunset",
+        "button": "1,1,U2",
+        "link": "",
+        "stanceID": 70
+    },
+    {
+        "move": "Rising Cannon Legs",
+        "button": "4,U4",
+        "link": "",
+        "stanceID": 70
+    },
+    {
+        "move": "Q-Fists",
+        "button": "1,1,B1",
+        "link": "",
+        "stanceID": 70
+    },
+    {
+        "move": "Bullet Kicks",
+        "button": "3,3",
+        "link": "",
+        "stanceID": 70
+    },
+    {
+        "move": "Triple Kicks",
+        "button": "3,3,3",
+        "link": "",
+        "stanceID": 70
+    },
+    {
+        "move": "Dummy Attack",
+        "button": "4,1",
+        "link": "",
+        "stanceID": 70
+    },
+    {
+        "move": "Open Wound",
+        "button": "4,1,1",
+        "link": "",
+        "stanceID": 70
+    },
+    {
+        "move": "Forceful",
+        "button": "4,1,1,B1",
+        "link": "",
+        "stanceID": 70
+    },
+    {
+        "move": "Death Fists",
+        "button": "4,1,1,U2",
+        "link": "",
+        "stanceID": 70
+    },
+    {
+        "move": "Monster Kicks",
+        "button": "4,3,3,3",
+        "link": "",
+        "stanceID": 70
+    },
+    {
+        "move": "Ripple Lifter",
+        "button": "4,3,CS",
+        "link": "",
+        "stanceID": 70
+    },
+
+    {
+        "move": "Spinster",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 71
+    },
+    {
+        "move": "Cyclone Twister",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 71
+    },
+    {
+        "move": "Nitro Blister",
+        "button": "1,1,1,1",
+        "link": "",
+        "stanceID": 71
+    },
+    {
+        "move": "Chako Frenzy",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 71
+    },
+    {
+        "move": "Frenzy And Kick",
+        "button": "1,1,3,4",
+        "link": "",
+        "stanceID": 71
+    },
+    {
+        "move": "4th Blaster",
+        "button": "1,1,2,B2",
+        "link": "",
+        "stanceID": 71
+    },
+
+    {
+        "move": "Crushing Fists",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 72
+    },
+    {
+        "move": "Power Strikes",
+        "button": "1,1,CS",
+        "link": "",
+        "stanceID": 72
+    },
+    {
+        "move": "Blows Of Doom",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 72
+    },
+    {
+        "move": "Twisting Knocker",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 72
+    },
+    {
+        "move": "Hellfire Doom",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 72
+    },
+    {
+        "move": "Angry Ruler",
+        "button": "3,CS",
+        "link": "",
+        "stanceID": 72
+    },
+    {
+        "move": "Blackout",
+        "button": "3,CS,3",
+        "link": "",
+        "stanceID": 72
+    },
+    {
+        "move": "Rushing Fists",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 73
+    },
+    {
+        "move": "Destructive Hands",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 73
+    },
+    {
+        "move": "Ruler Of Outworld",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 73
+    },
+    {
+        "move": "Face Scraper",
+        "button": "3,3",
+        "link": "",
+        "stanceID": 73
+    },
+    {
+        "move": "Invader",
+        "button": "1,1,B3",
+        "link": "",
+        "stanceID": 73
+    },
+    {
+        "move": "Double Tap Kick",
+        "button": "4,4",
+        "link": "",
+        "stanceID": 73
+    },
+    {
+        "move": "Smackdown",
+        "button": "3,CS",
+        "link": "",
+        "stanceID": 73
+    },
+    {
+        "move": "Bodydrop",
+        "button": "1,1,CS",
+        "link": "",
+        "stanceID": 73
+    },
+    {
+        "move": "I Win",
+        "button": "1,1,3,3",
+        "link": "",
+        "stanceID": 73
+    },
+    {
+        "move": "HAS NO COMBOS IN THIS STANCE",
+        "button": "N/A",
+        "link": "N/A",
+        "stanceID": 74
+    },
+
+    {
+        "move": "Quick Death",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 75
+    },
+    {
+        "move": "Killer Slap",
+        "button": "1,2",
+        "link": "",
+        "stanceID": 75
+    },
+    {
+        "move": "Goro's Pain",
+        "button": "1,4",
+        "link": "",
+        "stanceID": 75
+    },
+    {
+        "move": "Foot Planter",
+        "button": "2,3",
+        "link": "",
+        "stanceID": 75
+    },
+    {
+        "move": "Gripping Death",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 75
+    },
+    {
+        "move": "Swift Like The Wind",
+        "button": "2,2",
+        "link": "",
+        "stanceID": 76
+    },
+    {
+        "move": "Rushing Madman",
+        "button": "2,1",
+        "link": "",
+        "stanceID": 76
+    },
+    {
+        "move": "Rawr",
+        "button": "2,2,3",
+        "link": "",
+        "stanceID": 76
+    },
+    {
+        "move": "Stomach Punches",
+        "button": "2,2",
+        "link": "",
+        "stanceID": 77
+    },
+    {
+        "move": "Face Crusher",
+        "button": "4,3",
+        "link": "",
+        "stanceID": 77
+    },
+    {
+        "move": "Flurry Claws",
+        "button": "2,2,1",
+        "link": "",
+        "stanceID": 77
+    },
+    {
+        "move": "Hands Of Fury",
+        "button": "2,2,4",
+        "link": "",
+        "stanceID": 77
+    },
+
+    {
+        "move": "Shooting star",
+        "button": "4,3",
+        "link": "",
+        "stanceID": 78
+    },
+    {
+        "move": "Walking Fists",
+        "button": "2,1",
+        "link": "",
+        "stanceID": 78
+    },
+    {
+        "move": "Grounded",
+        "button": "4,B4",
+        "link": "",
+        "stanceID": 78
+    },
+    {
+        "move": "Lipstick",
+        "button": "4,B1",
+        "link": "",
+        "stanceID": 78
+    },
+    {
+        "move": "Pucker Up",
+        "button": "4,U4",
+        "link": "",
+        "stanceID": 78
+    },
+    {
+        "move": "Broken Talon",
+        "button": "1,4,3",
+        "link": "",
+        "stanceID": 78
+    },
+    {
+        "move": "Tiny Bubbles",
+        "button": "4,4,3",
+        "link": "",
+        "stanceID": 78
+    },
+    {
+        "move": "Spitting Bone",
+        "button": "4,3,B3",
+        "link": "",
+        "stanceID": 78
+    },
+    {
+        "move": "Up And Away",
+        "button": "1,4,U4",
+        "link": "",
+        "stanceID": 78
+    },
+    {
+        "move": "Down Boy",
+        "button": "1,4,B4",
+        "link": "",
+        "stanceID": 78
+    },
+    {
+        "move": "Faceplant",
+        "button": "1,4,B1",
+        "link": "",
+        "stanceID": 78
+    },
+    {
+        "move": "Back Off",
+        "button": "4,4,F4",
+        "link": "",
+        "stanceID": 78
+    },
+    {
+        "move": "Ill Eagle",
+        "button": "1,4,4,F4",
+        "link": "",
+        "stanceID": 78
+    },
+    {
+        "move": "Lost Love",
+        "button": "4,4,CS,3,F3",
+        "link": "",
+        "stanceID": 78
+    },
+    {
+        "move": "Baguash",
+        "button": "1,4,4,CS,3,CS",
+        "link": "",
+        "stanceID": 78
+    },
+
+    {
+        "move": "Duo Twins",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 79
+    },
+    {
+        "move": "Fly Girl",
+        "button": "1,2",
+        "link": "",
+        "stanceID": 79
+    },
+    {
+        "move": "Stomach Pain",
+        "button": "1,3",
+        "link": "",
+        "stanceID": 79
+    },
+    {
+        "move": "Plaster",
+        "button": "1,2,2",
+        "link": "",
+        "stanceID": 79
+    },
+    {
+        "move": "Chin Strikes",
+        "button": "2,2",
+        "link": "",
+        "stanceID": 79
+    },
+    {
+        "move": "Face Scrape",
+        "button": "2,2,3",
+        "link": "",
+        "stanceID": 79
+    },
+    {
+        "move": "Art Of Overkill",
+        "button": "1,3,F3",
+        "link": "",
+        "stanceID": 79
+    },
+    {
+        "move": "Forceful Palms",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 79
+    },
+    {
+        "move": "Bagua Blast",
+        "button": "2,2,4",
+        "link": "",
+        "stanceID": 79
+    },
+    {
+        "move": "Busted Nails",
+        "button": "1,2,2,3",
+        "link": "",
+        "stanceID": 79
+    },
+    {
+        "move": "Dark Vengeance",
+        "button": "1,2,2,4",
+        "link": "",
+        "stanceID": 79
+    },
+    {
+        "move": "Savage Sun",
+        "button": "1,3,CS",
+        "link": "",
+        "stanceID": 79
+    },
+    {
+        "move": "Swooshing Air",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 80
+    },
+    {
+        "move": "Fan Frenzy",
+        "button": "2,2",
+        "link": "",
+        "stanceID": 80
+    },
+    {
+        "move": "Princess Blast",
+        "button": "3,3",
+        "link": "",
+        "stanceID": 80
+    },
+    {
+        "move": "Kirin Smash",
+        "button": "3,F1",
+        "link": "",
+        "stanceID": 80
+    },
+    {
+        "move": "Bootlicker",
+        "button": "2,2,2",
+        "link": "",
+        "stanceID": 80
+    },
+    {
+        "move": "Sky High Left",
+        "button": "1,1,B2",
+        "link": "",
+        "stanceID": 80
+    },
+    {
+        "move": "Stabby Fans",
+        "button": "2,2,F1",
+        "link": "",
+        "stanceID": 80
+    },
+    {
+        "move": "Psycho Fans",
+        "button": "2,2,2,F2",
+        "link": "",
+        "stanceID": 80
+    },
+    {
+        "move": "Low Poke",
+        "button": "2,2,2,B4",
+        "link": "",
+        "stanceID": 80
+    },
+
+    {
+        "move": "Ring King",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 81
+    },
+    {
+        "move": "Teeth Smasher",
+        "button": "2,2",
+        "link": "",
+        "stanceID": 81
+    },
+    {
+        "move": "Kick Boxing Combo",
+        "button": "1,3",
+        "link": "",
+        "stanceID": 81
+    },
+    {
+        "move": "Blurry Boot",
+        "button": "2,4",
+        "link": "",
+        "stanceID": 81
+    },
+    {
+        "move": "Fury Elbows",
+        "button": "D1,D1",
+        "link": "",
+        "stanceID": 81
+    },
+    {
+        "move": "3-Hit Shocker",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 81
+    },
+    {
+        "move": "Spin Fists",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 81
+    },
+    {
+        "move": "Hard Power",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 81
+    },
+    {
+        "move": "Heavy Kombat",
+        "button": "1,1,2,2",
+        "link": "",
+        "stanceID": 81
+    },
+    {
+        "move": "Unleashed Pain",
+        "button": "1,1,2,4",
+        "link": "",
+        "stanceID": 81
+    },
+    {
+        "move": "Sneak Attack",
+        "button": "1,1,CS",
+        "link": "",
+        "stanceID": 81
+    },
+
+    {
+        "move": "Shinny Kicks",
+        "button": "4,4",
+        "link": "",
+        "stanceID": 82
+    },
+    {
+        "move": "Groundwork",
+        "button": "4,4,3",
+        "link": "",
+        "stanceID": 82
+    },
+    {
+        "move": "Metal Fury",
+        "button": "4,4,B2",
+        "link": "",
+        "stanceID": 82
+    },
+    {
+        "move": "No-Mans Land",
+        "button": "4,4,CS,4",
+        "link": "",
+        "stanceID": 82
+    },
+    {
+        "move": "Turning It Up",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 83
+    },
+    {
+        "move": "Watchmen",
+        "button": "B2,1",
+        "link": "",
+        "stanceID": 83
+    },
+    {
+        "move": "Watching You",
+        "button": "B2,B1",
+        "link": "",
+        "stanceID": 83
+    },
+    {
+        "move": "Pain With Sticks",
+        "button": "B2,2",
+        "link": "",
+        "stanceID": 83
+    },
+    {
+        "move": "Beat Em Up",
+        "button": "B2,4",
+        "link": "",
+        "stanceID": 83
+    },
+    {
+        "move": "Darkness Legs",
+        "button": "B2,4,4",
+        "link": "",
+        "stanceID": 83
+    },
+    {
+        "move": "Krowd Kontrol",
+        "button": "B2,1,1",
+        "link": "",
+        "stanceID": 83
+    },
+    {
+        "move": "Spinner",
+        "button": "1,1,U1",
+        "link": "",
+        "stanceID": 83
+    },
+    {
+        "move": "Red Lights",
+        "button": "B2,1,1,U1",
+        "link": "",
+        "stanceID": 83
+    },
+
+    {
+        "move": "Fast Leo Paws",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 84
+    },
+    {
+        "move": "Falling Strike",
+        "button": "1,2",
+        "link": "",
+        "stanceID": 84
+    },
+    {
+        "move": "Icy Snap",
+        "button": "2,3",
+        "link": "",
+        "stanceID": 84
+    },
+    {
+        "move": "Ice Pick",
+        "button": "2,4",
+        "link": "",
+        "stanceID": 84
+    },
+    {
+        "move": "Face Strikers",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 84
+    },
+    {
+        "move": "Corkscrew Blow",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 84
+    },
+    {
+        "move": "Ice Crusher",
+        "button": "1,1,B2",
+        "link": "",
+        "stanceID": 84
+    },
+    {
+        "move": "Icy Maul",
+        "button": "1,1,2,2",
+        "link": "",
+        "stanceID": 84
+    },
+    {
+        "move": "Northren Lights",
+        "button": "1,1,2,U4",
+        "link": "",
+        "stanceID": 84
+    },
+    {
+        "move": "Freezer Burn",
+        "button": "1,1,2,2,CS,4,3",
+        "link": "",
+        "stanceID": 84
+    },
+    {
+        "move": "Blizzard",
+        "button": "1,1,2,2,CS,4,1,2",
+        "link": "",
+        "stanceID": 84
+    },
+    {
+        "move": "Iceberg",
+        "button": "1,1,2,2,CS,4,U3",
+        "link": "",
+        "stanceID": 84
+    },
+    {
+        "move": "Ice Fall",
+        "button": "1,1,2,2,CS,4,F1",
+        "link": "",
+        "stanceID": 84
+    },
+
+    {
+        "move": "Mandarin Duck Fists",
+        "button": "1,2",
+        "link": "",
+        "stanceID": 85
+    },
+    {
+        "move": "Deadly Decoy",
+        "button": "4,4,3",
+        "link": "",
+        "stanceID": 85
+    },
+    {
+        "move": "Ice Cold",
+        "button": "4,4,1,2",
+        "link": "",
+        "stanceID": 85
+    },
+    {
+        "move": "Mandarin Duck Legs",
+        "button": "4,4,U3",
+        "link": "",
+        "stanceID": 85
+    },
+    {
+        "move": "Waterfall",
+        "button": "4,4,F1",
+        "link": "",
+        "stanceID": 85
+    },
+    {
+        "move": "Deceptive Step",
+        "button": "1,1,U3",
+        "link": "",
+        "stanceID": 85
+    },
+    {
+        "move": "Frigid Frenzy",
+        "button": "1,1,CS,1,1,1",
+        "link": "",
+        "stanceID": 85
+    },
+    {
+        "move": "Shards Of Pain",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 86
+    },
+    {
+        "move": "Spinning Hilt",
+        "button": "2,B2",
+        "link": "",
+        "stanceID": 86
+    },
+    {
+        "move": "Up And Down",
+        "button": "2,3",
+        "link": "",
+        "stanceID": 86
+    },
+    {
+        "move": "Frozen Tips",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 86
+    },
+    {
+        "move": "Vertical Slice",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 86
+    },
+
+    {
+        "move": "Flowing Water",
+        "button": "2,2,1",
+        "link": "",
+        "stanceID": 87
+    },
+    {
+        "move": "Inner Power",
+        "button": "2,2,4",
+        "link": "",
+        "stanceID": 87
+    },
+    {
+        "move": "Spectre Blast",
+        "button": "3,B1",
+        "link": "",
+        "stanceID": 87
+    },
+    {
+        "move": "Lethal Legs",
+        "button": "4,B4",
+        "link": "",
+        "stanceID": 87
+    },
+    {
+        "move": "Liftoff",
+        "button": "4,U4",
+        "link": "",
+        "stanceID": 87
+    },
+    {
+        "move": "Burning Soul",
+        "button": "2,3,U4",
+        "link": "",
+        "stanceID": 87
+    },
+    {
+        "move": "Sinking Leaf",
+        "button": "F3,B3",
+        "link": "",
+        "stanceID": 87
+    },
+    {
+        "move": "Doombringer",
+        "button": "2,3,B1",
+        "link": "",
+        "stanceID": 87
+    },
+    {
+        "move": "Firefly",
+        "button": "2,3,CS,24",
+        "link": "",
+        "stanceID": 87
+    },
+    {
+        "move": "Fever",
+        "button": "2,3,CS,2,3,3,4",
+        "link": "",
+        "stanceID": 87
+    },
+    {
+        "move": "Heat Stroke",
+        "button": "2,3,CS,2,3,3,B4",
+        "link": "",
+        "stanceID": 87
+    },
+
+    {
+        "move": "Straight Blast",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 88
+    },
+    {
+        "move": "Heatwave",
+        "button": "1,1,F4",
+        "link": "",
+        "stanceID": 88
+    },
+    {
+        "move": "Low Blast",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 88
+    },
+    {
+        "move": "Lava Flow",
+        "button": "1,1,3,4",
+        "link": "",
+        "stanceID": 88
+    },
+    {
+        "move": "Spotlight",
+        "button": "2,2,4",
+        "link": "",
+        "stanceID": 88
+    },
+    {
+        "move": "Sticky Legs",
+        "button": "2,2,3",
+        "link": "",
+        "stanceID": 88
+    },
+    {
+        "move": "Outer Gate",
+        "button": "2,2,3,3",
+        "link": "",
+        "stanceID": 88
+    },
+    {
+        "move": "Eruption",
+        "button": "2,2,3,3,4",
+        "link": "",
+        "stanceID": 88
+    },
+    {
+        "move": "Arson",
+        "button": "2,2,3,3,B4",
+        "link": "",
+        "stanceID": 88
+    },
+    {
+        "move": "Burnout",
+        "button": "2,2,3,3,CS",
+        "link": "",
+        "stanceID": 88
+    },
+    {
+        "move": "Redzone",
+        "button": "4,2",
+        "link": "",
+        "stanceID": 89
+    },
+    {
+        "move": "Casualty",
+        "button": "4,3",
+        "link": "",
+        "stanceID": 89
+    },
+    {
+        "move": "Seek And Destroy",
+        "button": "1,1,4,3",
+        "link": "",
+        "stanceID": 89
+    },
+    {
+        "move": "Twlight",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 89
+    },
+    {
+        "move": "Dangerous",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 89
+    },
+    {
+        "move": "Fiery Hands",
+        "button": "1,1,U4",
+        "link": "",
+        "stanceID": 89
+    },
+    {
+        "move": "Wrath Of Blaze",
+        "button": "1,1,B4",
+        "link": "",
+        "stanceID": 89
+    },
+    {
+        "move": "Honor And Disgrace",
+        "button": "2,B1",
+        "link": "",
+        "stanceID": 89
+    },
+    {
+        "move": "Three Powers",
+        "button": "1,1,2,B1",
+        "link": "",
+        "stanceID": 89
+    },
+    {
+        "move": "Assault And Battery",
+        "button": "1,1,4,2",
+        "link": "",
+        "stanceID": 89
+    },
+
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 90
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 91
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 92
+    },
+
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 93
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 94
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 95
+    },
+
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 96
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 97
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 98
+    },
+
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 99
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 100
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 101
+    },
+
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 102
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 103
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 104
+    },
+
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 105
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 106
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 107
+    },
+
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 108
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 109
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 110
+    },
+
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 111
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 112
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 113
+    },
+
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 114
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 115
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 116
+    },
+
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 117
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 118
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 119
+    },
+
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 120
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 121
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 122
+    },
+
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 123
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 124
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 125
+    },
+
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 126
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 127
+    },
+    {
+        "move": "",
+        "button": "",
+        "link": "",
+        "stanceID": 128
+    },
+
+    {
+        "move": "Dragon reach",
+        "button": "1",
+        "link": "https://youtu.be/1pE4OazVXLQ",
+        "stanceID": 129
+    },
+    {
+        "move": "Triple dragon hit",
+        "button": "2",
+        "link": "https://youtu.be/_O7CdeaEqmQ",
+        "stanceID": 129
+    },
+    {
+        "move": "Forceful hand",
+        "button": "3",
+        "link": "https://youtu.be/4s8hfDdJwpM",
+        "stanceID": 129
+    },
+    {
+        "move": "Collar bone buster",
+        "button": "4",
+        "link": "https://youtu.be/ZgD9L7V9r-c",
+        "stanceID": 129
+    },
+    {
+        "move": "Crunch kick",
+        "button": "D1",
+        "link": "https://youtu.be/MII6zDJhX48",
+        "stanceID": 129
+    },
+    {
+        "move": "Groin kick",
+        "button": "D2",
+        "link": "https://youtu.be/6XZyvrfNPeo",
+        "stanceID": 129
+    },
+    {
+        "move": "Crouching dragon",
+        "button": "D3",
+        "link": "https://youtu.be/-ve1MpMT1qA",
+        "stanceID": 129
     }
 ]
