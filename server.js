@@ -181,7 +181,7 @@ server.get("/kombatant/:id", async (req, res) => {
     });
 });
 
-server.listen(3001, () => console.log("Listening on port 3001"));
+server.listen(3001, "0.0.0.0", () => console.log("Listening on port 3001"));
 
 // const existingFighter = await fighter.findOne();
 // if (!existingFighter) {

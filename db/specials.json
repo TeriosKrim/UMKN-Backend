@@ -31,21 +31,21 @@
     },
     {
         "move": "Fatality 1",
-        "button": "F,F,B,B,2(mid)",
-        "link": "https://youtu.be/6bnZHtcW4PY",
+        "button": "F,F,B,B,2(Mid)",
+        "link": "https://youtube.com/embed/6bnZHtcW4PY",
         "fighterID": 1
     },
 
     {
         "move": "Fatality 2",
         "button": "U,F,B,F,2(Mid)",
-        "link": "https://youtu.be/ooP3k3NwLSw",
+        "link": "https://youtube.com/embed/ooP3k3NwLSw",
         "fighterID": 1
     },
     {
         "move": "Hara Kiri",
         "button": "D,F,B,B,2",
-        "link": "https://youtu.be/YM2c3h8ZYpE",
+        "link": "https://youtube.com/embed/YM2c3h8ZYpE",
         "fighterID": 1
     },
     {
@@ -75,19 +75,19 @@
     {
         "move": "Fatality 1",
         "button": "B,F,U,F,1(Mid)",
-        "link": "https://youtu.be/_gcsFMVDG_Y",
+        "link": "https://youtube.com/embed/_gcsFMVDG_Y",
         "fighterID": 2
     },
     {
         "move": "Fatality 2",
         "button": "B,F,F,F,2(Close)",
-        "link": "https://youtu.be/XjAuPhQZeuk",
+        "link": "https://youtube.com/embed/XjAuPhQZeuk",
         "fighterID": 2
     },
     {
         "move": "Hara Kiri",
         "button": "F,F,F,B,2",
-        "link": "https://youtu.be/mhEy_LuJkRM",
+        "link": "https://youtube.com/embed/mhEy_LuJkRM",
         "fighterID": 2
     },
 
@@ -119,19 +119,19 @@
     {
         "move": "Fatality 1",
         "button": "F,D,F,F,1(Mid)",
-        "link": "https://youtu.be/YnVZeoH1S_g",
+        "link": "https://youtube.com/embed/YnVZeoH1S_g",
         "fighterID": 3
     },
     {
         "move": "Fatality 2",
         "button": "F,B,F,B,1(Close)",
-        "link": "https://youtu.be/4eIf5-qTZ0M",
+        "link": "https://youtube.com/embed/4eIf5-qTZ0M",
         "fighterID": 3
     },
     {
         "move": "Hara Kiri",
         "button": "D,D,U,B,1",
-        "link": "https://youtu.be/9l0BhYqOYIo",
+        "link": "https://youtube.com/embed/9l0BhYqOYIo",
         "fighterID": 3
     },
     {
@@ -155,19 +155,19 @@
     {
         "move": "Fatality 1",
         "button": "F,F,D,D,1(Mid)",
-        "link": "https://youtu.be/VRTmNB1avFU",
+        "link": "https://youtube.com/embed/VRTmNB1avFU",
         "fighterID": 4
     },
     {
         "move": "Fatality 2",
         "button": "U,U,F,F,3(Far)",
-        "link": "https://youtu.be/SY5JdVhIy9Y",
+        "link": "https://youtube.com/embed/SY5JdVhIy9Y",
         "fighterID": 4
     },
     {
         "move": "Hara Kiri",
         "button": "B,D,F,B,1",
-        "link": "https://youtu.be/Bbqa_NIMoQE",
+        "link": "https://youtube.com/embed/Bbqa_NIMoQE",
         "fighterID": 4
     },
     {
@@ -191,19 +191,19 @@
     {
         "move": "Fatality 1",
         "button": "F,U,D,2(Close)",
-        "link": "https://youtu.be/i5bVk56DFOs",
+        "link": "https://youtube.com/embed/i5bVk56DFOs",
         "fighterID": 5
     },
     {
         "move": "Fatality 2",
         "button": "F,D,B,F,2(Mid)",
-        "link": "https://youtu.be/jNW7klvGamw",
+        "link": "https://youtube.com/embed/jNW7klvGamw",
         "fighterID": 5
     },
     {
         "move": "Hara Kiri",
         "button": "D,B,U,B,4",
-        "link": "https://youtu.be/b9-XjowiDqo",
+        "link": "https://youtube.com/embed/b9-XjowiDqo",
         "fighterID": 5
     },
     {
@@ -227,19 +227,19 @@
     {
         "move": "Fatality 1",
         "button": "F,B,D,F,2(Close)",
-        "link": "https://youtu.be/AeWLuGssKe0",
+        "link": "https://youtube.com/embed/AeWLuGssKe0",
         "fighterID": 6
     },
     {
         "move": "Fatality 2",
         "button": "B,D,F,D,1(Mid)",
-        "link": "https://youtu.be/P7ej7pm_jCM",
+        "link": "https://youtube.com/embed/P7ej7pm_jCM",
         "fighterID": 6
     },
     {
         "move": "Hara Kiri",
         "button": "D,U,D,U,2",
-        "link": "https://youtu.be/j9elGmAsQAo",
+        "link": "https://youtube.com/embed/j9elGmAsQAo",
         "fighterID": 6
     },
     {
@@ -263,19 +263,19 @@
     {
         "move": "Fatality 1",
         "button": "B,F,F,B,1(Mid)",
-        "link": "https://youtu.be/4S-W-rdZ38c",
+        "link": "https://youtube.com/embed/4S-W-rdZ38c",
         "fighterID": 7
     },
     {
         "move": "Fatality 2",
         "button": "U,U,B,F,3(Mid)",
-        "link": "https://youtu.be/26Vs7WWeDgA",
+        "link": "https://youtube.com/embed/26Vs7WWeDgA",
         "fighterID": 7
     },
     {
         "move": "Hara Kiri",
         "button": "F,U,U,D,4",
-        "link": "https://youtu.be/yHWUOKqKVuc",
+        "link": "https://youtube.com/embed/yHWUOKqKVuc",
         "fighterID": 7
     },
     {
@@ -311,19 +311,19 @@
     {
         "move": "Fatality 1",
         "button": "D,F,F,U,4(Close)",
-        "link": "https://youtu.be/CJf6Bs3Rgnc",
+        "link": "https://youtube.com/embed/CJf6Bs3Rgnc",
         "fighterID": 8
     },
     {
         "move": "Fatality 2",
         "button": "F,F,F,B,2(Mid)",
-        "link": "https://youtu.be/RGcA5FJtoR4",
+        "link": "https://youtube.com/embed/RGcA5FJtoR4",
         "fighterID": 8
     },
     {
         "move": "Hara Kiri",
         "button": "F,U,U,U,2",
-        "link": "https://youtu.be/rrBrmffC1HI",
+        "link": "https://youtube.com/embed/rrBrmffC1HI",
         "fighterID": 8
     },
     {
@@ -353,19 +353,19 @@
     {
         "move": "Fatality 1",
         "button": "B,D,F,D,1(Mid)",
-        "link": "https://youtu.be/xfj30TAPAdQ",
+        "link": "https://youtube.com/embed/xfj30TAPAdQ",
         "fighterID": 9
     },
     {
         "move": "Fatality 2",
         "button": "U,D,F,F,1(Far)",
-        "link": "https://youtu.be/hlfZruD1_hk",
+        "link": "https://youtube.com/embed/hlfZruD1_hk",
         "fighterID": 9
     },
     {
         "move": "Hara Kiri",
         "button": "F,U,U,B,1",
-        "link": "https://youtu.be/Ql2RfzHKKCc",
+        "link": "https://youtube.com/embed/Ql2RfzHKKCc",
         "fighterID": 9
     },
     {
@@ -395,357 +395,357 @@
     {
         "move": "Fatality 1",
         "button": "F,F,F,F,1(Mid)",
-        "link": "",
+        "link": "https://youtube.com/embed/xPmabmFFLIw",
         "fighterID": 10
     },
     {
         "move": "Fatality 2",
         "button": "U,B,F,F,4(Mid)",
-        "link": "",
+        "link": "https://youtube.com/embed/yU4TKIHwhjU",
         "fighterID": 10
     },
     {
         "move": "Hara Kiri",
         "button": "U,D,U,D,3",
-        "link": "https://youtu.be/dTfoh6m3gag",
+        "link": "https://youtube.com/embed/dTfoh6m3gag",
         "fighterID": 10
     },
     {
         "move": "Fatality 1",
         "button": "F,U,U,U,3(Close)",
-        "link": "https://youtu.be/xPmabmFFLIw",
+        "link": "https://youtube.com/embed/EMYdSoYZy0c",
         "fighterID": 11
     },
     {
         "move": "Fatality 2",
         "button": "U,U,D,D,2(Close)",
-        "link": "https://youtu.be/yU4TKIHwhjU",
+        "link": "https://youtube.com/embed/sYcRAWPNXcU",
         "fighterID": 11
     },
     {
         "move": "Hara Kiri",
         "button": "F,U,U,D,2",
-        "link": "https://youtu.be/HkTZ6ZAQgbI",
+        "link": "https://youtube.com/embed/HkTZ6ZAQgbI",
         "fighterID": 11
     },
     {
         "move": "Fatality 1",
         "button": "D,B,B,D,3(Mid)",
-        "link": "https://youtu.be/EMYdSoYZy0c",
+        "link": "https://youtube.com/embed/Lvx1dOjmdMU",
         "fighterID": 12
     },
     {
         "move": "Fatality 2",
         "button": "B,D,B,D,4(Mid)",
-        "link": "https://youtu.be/sYcRAWPNXcU",
+        "link": "https://youtube.com/embed/oYYwpMLFYNw",
         "fighterID": 12
     },
     {
         "move": "Hara Kiri",
         "button": "D,U,U,D,3",
-        "link": "https://youtu.be/B3TFK9MdYC8",
+        "link": "https://youtube.com/embed/B3TFK9MdYC8",
         "fighterID": 12
     },
     {
         "move": "Fatality 1",
         "button": "B,F,B,F,1(Far)",
-        "link": "",
+        "link": "https://youtube.com/embed/5c3y_4PiDgI",
         "fighterID": 13
     },
     {
         "move": "Fatality 2",
         "button": "D,F,D,U,2(Mid)",
-        "link": "",
+        "link": "https://youtube.com/embed/Jx8o176PJls",
         "fighterID": 13
     },
     {
         "move": "Hara Kiri",
         "button": "U,U,U,U,3",
-        "link": "https://youtu.be/pdfVVjDjsPE",
+        "link": "https://youtube.com/embed/pdfVVjDjsPE",
         "fighterID": 13
     },
     {
         "move": "Fatality 1",
         "button": "D,U,F,F,2(Sweep)",
-        "link": "https://youtu.be/Lvx1dOjmdMU",
+        "link": "https://youtube.com/embed/bhoYOk7SI30",
         "fighterID": 14
     },
     {
         "move": "Fatality 2",
         "button": "U,B,F,3(Sweep)",
-        "link": "https://youtu.be/oYYwpMLFYNw",
+        "link": "https://youtube.com/embed/bbrjC1XlvAA",
         "fighterID": 14
     },
     {
         "move": "Hara Kiri",
         "button": "B,B,F,F,2",
-        "link": "https://youtu.be/tho2fUIdWQY",
+        "link": "https://youtube.com/embed/tho2fUIdWQY",
         "fighterID": 14
     },
     {
         "move": "Fatality 1",
         "button": "B,F,B,F,4(Mid)(Noob only)",
-        "link": "https://youtu.be/uS0HLTDlA6Q",
+        "link": "https://youtube.com/embed/uS0HLTDlA6Q",
         "fighterID": 15
     },
     {
         "move": "Fatality 2",
         "button": "U,D,D,F,2(Mid)(Smoke only)",
-        "link": "https://youtu.be/zHEcA_nfkzg",
+        "link": "https://youtube.com/embed/zHEcA_nfkzg",
         "fighterID": 15
     },
     {
         "move": "Hara Kiri",
-        "button": "D,U,U,D,4",
-        "link": "https://youtu.be/zvK1pf60WK0",
+        "button": "D,U,U,D,4(Also works with Smoke)",
+        "link": "https://youtube.com/embed/zvK1pf60WK0",
         "fighterID": 15
     },
     {
         "move": "Fatality 1",
         "button": "F,D,D,D,1(Close)",
-        "link": "https://youtu.be/ZuhXKG5_yUI",
+        "link": "https://youtube.com/embed/ZuhXKG5_yUI",
         "fighterID": 16
     },
     {
         "move": "Fatality 2",
         "button": "U,B,F,U,2(Close)",
-        "link": "https://youtu.be/nkMX7Ea99FQ",
+        "link": "https://youtube.com/embed/nkMX7Ea99FQ",
         "fighterID": 16
     },
     {
         "move": "Hara Kiri",
         "button": "D,D,F,U,3",
-        "link": "https://youtu.be/3RNXxRwOAsQ",
+        "link": "https://youtube.com/embed/3RNXxRwOAsQ",
         "fighterID": 16
     },
     {
         "move": "Fatality 1",
         "button": "U,D,D,F,3",
-        "link": "",
+        "link": "https://youtube.com/embed/pQsUxFZpO3k",
         "fighterID": 17
     },
     {
         "move": "Fatality 2",
         "button": "B,U,F,F,1",
-        "link": "",
+        "link": "https://youtube.com/embed/QJ0aDQJLyWs",
         "fighterID": 17
     },
     {
         "move": "Hara Kiri",
         "button": "D,B,D,B,3",
-        "link": "https://youtu.be/ILxhe7BZbfc",
+        "link": "https://youtube.com/embed/ILxhe7BZbfc",
         "fighterID": 17
     },
     {
         "move": "Fatality 1",
         "button": "F,U,B,D,1(Mid)",
-        "link": "https://youtu.be/pQsUxFZpO3k",
+        "link": "https://youtube.com/embed/8lshNq2qFFM",
         "fighterID": 18
     },
     {
         "move": "Fatality 2",
         "button": "D,F,B,F,2(Close)",
-        "link": "https://youtu.be/QJ0aDQJLyWs",
+        "link": "https://youtube.com/embed/MtXZn5kp_E8",
         "fighterID": 18
     },
     {
         "move": "Hara Kiri",
         "button": "U,B,B,B,2",
-        "link": "https://youtu.be/xPkJrVsVOIk",
+        "link": "https://youtube.com/embed/xPkJrVsVOIk",
         "fighterID": 18
     },
     {
         "move": "Fatality 1",
         "button": "D,D,U,U,2(Close)",
-        "link": "https://youtu.be/zTJxB8FNAZ0",
+        "link": "https://youtube.com/embed/zTJxB8FNAZ0",
         "fighterID": 19
     },
     {
         "move": "Fatality 2",
         "button": "F,D,F,D,2(Mid)",
-        "link": "https://youtu.be/hJ5BIZ-fwSs",
+        "link": "https://youtube.com/embed/hJ5BIZ-fwSs",
         "fighterID": 19
     },
     {
         "move": "Hara Kiri",
         "button": "U,D,U,U,2",
-        "link": "https://youtu.be/WANlBTazi6M",
+        "link": "https://youtube.com/embed/WANlBTazi6M",
         "fighterID": 19
     },
     {
         "move": "Fatality 1",
         "button": "D,U,B,B,1(Mid)",
-        "link": "https://youtu.be/og0cfqRCNd4",
+        "link": "https://youtube.com/embed/og0cfqRCNd4",
         "fighterID": 20
     },
     {
         "move": "Fatality 2",
         "button": "D,D,B,3(Close)",
-        "link": "https://youtu.be/DOiyWThYYzg",
+        "link": "https://youtube.com/embed/DOiyWThYYzg",
         "fighterID": 20
     },
     {
         "move": "Hara Kiri",
         "button": "B,B,B,D,1",
-        "link": "https://youtu.be/TqN9zylJc5k",
+        "link": "https://youtube.com/embed/TqN9zylJc5k",
         "fighterID": 20
     },
     {
         "move": "Fatality 1",
         "button": "D,B,F,D,4(Close)",
-        "link": "https://youtu.be/J15Xt3IfoDE",
+        "link": "https://youtube.com/embed/J15Xt3IfoDE",
         "fighterID": 21
     },
     {
         "move": "Fatality 2",
         "button": "F,B,F,F,2(Close)",
-        "link": "https://youtu.be/nZLF4ZZCad4",
+        "link": "https://youtube.com/embed/nZLF4ZZCad4",
         "fighterID": 21
     },
     {
         "move": "Hara Kiri",
         "button": "U,U,B,B,2",
-        "link": "https://youtu.be/TMaeh1W_ymg",
+        "link": "https://youtube.com/embed/TMaeh1W_ymg",
         "fighterID": 21
     },
     {
         "move": "Fatality 1",
         "button": "U,D,B,F,3(Mid)",
-        "link": "https://youtu.be/Z5lsXmmLgKs",
+        "link": "https://youtube.com/embed/Z5lsXmmLgKs",
         "fighterID": 22
     },
     {
         "move": "Fatality 2",
         "button": "D,F,F,U,1(Close)",
-        "link": "https://youtu.be/4HDRu094Cl0",
+        "link": "https://youtube.com/embed/4HDRu094Cl0",
         "fighterID": 22
     },
     {
         "move": "Hara Kiri",
         "button": "B,F,F,2",
-        "link": "https://youtu.be/_OpMi9nUJrI",
+        "link": "https://youtube.com/embed/_OpMi9nUJrI",
         "fighterID": 22
     },
     {
         "move": "Fatality 1",
         "button": "B,F,,F,B,4(Far)",
-        "link": "https://youtu.be/Y_gNfKaqFOo",
+        "link": "https://youtube.com/embed/Y_gNfKaqFOo",
         "fighterID": 23
     },
     {
         "move": "Fatality 2",
         "button": "U,F,D,B,3(Mid)",
-        "link": "https://youtu.be/e286lYamIKg",
+        "link": "https://youtube.com/embed/e286lYamIKg",
         "fighterID": 23
     },
     {
         "move": "Hara Kiri",
         "button": "F,B,U,B,3",
-        "link": "https://youtu.be/SjEO6NbapJM",
+        "link": "https://youtube.com/embed/SjEO6NbapJM",
         "fighterID": 23
     },
     {
         "move": "Fatality 1",
         "button": "B,B,F,F,2(Mid)",
-        "link": "https://youtu.be/dKJsm17wyvw",
+        "link": "https://youtube.com/embed/dKJsm17wyvw",
         "fighterID": 24
     },
     {
         "move": "Fatality 2",
         "button": "F,F,U,U,3(Mid)",
-        "link": "https://youtu.be/8VJo2mOX0w0",
+        "link": "https://youtube.com/embed/8VJo2mOX0w0",
         "fighterID": 24
     },
     {
         "move": "Hara Kiri",
         "button": "D,D,D,U,3",
-        "link": "https://youtu.be/S6AhAtkmmeo",
+        "link": "https://youtube.com/embed/S6AhAtkmmeo",
         "fighterID": 24
     },
     {
         "move": "Fatality 1",
         "button": "D,U,U,F,2(Mid)",
-        "link": "https://youtu.be/A0xW_Ssq6HQ",
+        "link": "https://youtube.com/embed/A0xW_Ssq6HQ",
         "fighterID": 25
     },
     {
         "move": "Fatality 2",
         "button": "B,F,D,F,2(Close)",
-        "link": "https://youtu.be/_nj7CwepM6o",
+        "link": "https://youtube.com/embed/_nj7CwepM6o",
         "fighterID": 25
     },
     {
         "move": "Hara Kiri",
         "button": "D,U,U,D,1",
-        "link": "https://youtu.be/Amd4I-AYoRw",
+        "link": "https://youtube.com/embed/Amd4I-AYoRw",
         "fighterID": 25
     },
     {
         "move": "Fatality 1",
         "button": "B,B,F,F,3(Mid)",
-        "link": "https://youtu.be/65IoVRmrtjI",
+        "link": "https://youtube.com/embed/65IoVRmrtjI",
         "fighterID": 26
     },
     {
         "move": "Fatality 2",
         "button": "F,B,F,B,1(Close)",
-        "link": "https://youtu.be/ao-c44wcuAU",
+        "link": "https://youtube.com/embed/ao-c44wcuAU",
         "fighterID": 26
     },
     {
         "move": "Hara Kiri",
         "button": "U,F,F,B,4",
-        "link": "https://youtu.be/9YFnOWNRgcY",
+        "link": "https://youtube.com/embed/9YFnOWNRgcY",
         "fighterID": 26
     },
     {
         "move": "Fatality 1",
         "button": "D,U,F,F,2(Mid)",
-        "link": "https://youtu.be/dO1fnhqOcCo",
+        "link": "https://youtube.com/embed/dO1fnhqOcCo",
         "fighterID": 27
     },
 
     {
         "move": "Fatality 1",
         "button": "D,F,F,D,2(Mid)",
-        "link": "https://youtu.be/a1ic0p8F0_o",
+        "link": "https://youtube.com/embed/a1ic0p8F0_o",
         "fighterID": 28
     },
     {
         "move": "Fatality 1",
         "button": "F,B,U,D,1(Mid)",
-        "link": "https://youtu.be/YWgw6YrzlUU",
+        "link": "https://youtube.com/embed/YWgw6YrzlUU",
         "fighterID": 29
     },
 
     {
         "move": "Dragon's fire",
         "button": "F,B,1",
-        "link": "https://youtu.be/Tko4hxsVGjw",
+        "link": "https://youtube.com/embed/Tko4hxsVGjw",
         "fighterID": 44
     },
     {
         "move": "Flame breath",
         "button": "F,D,1",
-        "link": "https://youtu.be/Oy6yubHWtYA",
+        "link": "https://youtube.com/embed/Oy6yubHWtYA",
         "fighterID": 44
     },
     {
         "move": "Jumping stomp",
         "button": "F,F,1",
-        "link": "https://youtu.be/ZQxYMzRSkn8",
+        "link": "https://youtube.com/embed/ZQxYMzRSkn8",
         "fighterID": 44
     },
     {
         "move": "Forceful doom",
         "button": "F,F,2(or grab)",
-        "link": "https://youtu.be/ZcLACWV-7KE",
+        "link": "https://youtube.com/embed/ZcLACWV-7KE",
         "fighterID": 44
     },
     {
         "move": "Dirty face",
         "button": "F,F,3",
-        "link": "https://youtu.be/itlW16It-KM",
+        "link": "https://youtube.com/embed/itlW16It-KM",
         "fighterID": 44
     }
 ]

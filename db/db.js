@@ -12,7 +12,7 @@ import specials from "./specials.json" with {type:"json"};
 import extra from "./extra.json" with {type:"json"};
 
 
-const db = new Sequelize("postgres://localhost:5432/umkd", { logging: false });
+const db = new Sequelize(process.env.DATABASE_URL || "postgres://localhost:5432/umkd", { logging: false });
 
 // Initialize models
 const comment = commentModel(db);
