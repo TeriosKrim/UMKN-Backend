@@ -36,8 +36,9 @@ const connectToDB = async () => {
         await db.authenticate();
         console.log("Connection has been established successfully.");
 
+
         // Ensure models and associations are reflected in the database
-        await db.sync({alter: true}); // Use alter or force options carefully
+        await db.sync({force: true}); // Use alter or force options carefully
 
         const existingFighters = await fighter.findAll();
 
@@ -72,13 +73,15 @@ const connectToDB = async () => {
             for (const move of combos) {
                 await moves.create(move);
             }
-        } console.log("Move Database synchronized.");
+        } 
+        console.log("Move Database synchronized.");
 
         if(existingMisc.length < 5){
             for (const m of extra) {
                 await misc.create(m);
             }
-        } console.log("Misc Database synchronized.");
+        } 
+        console.log("Misc Database synchronized.");
         
 
 

@@ -411,6 +411,25 @@
         "fighterID": 10
     },
     {
+        "move": "Raging Flash",
+        "button": "B,F4",
+        "link": "",
+        "fighterID": 11
+    },
+    {
+        "move": "Plasma Blast",
+        "button": "D,F1",
+        "link": "",
+        "fighterID": 11
+    },
+    {
+        "move": "Nomad Touch",
+        "button": "D,B2",
+        "link": "",
+        "fighterID": 11
+    },
+
+    {
         "move": "Fatality 1",
         "button": "F,U,U,U,3(Close)",
         "link": "https://youtube.com/embed/EMYdSoYZy0c",
@@ -427,6 +446,42 @@
         "button": "F,U,U,D,2",
         "link": "https://youtube.com/embed/HkTZ6ZAQgbI",
         "fighterID": 11
+    },
+    {
+        "move": "Mystic Float",
+        "button": "D,U3",
+        "link": "",
+        "fighterID": 12
+    },
+    {
+        "move": "Mystic Bomb(Only During Mystic Float)",
+        "button": "D3",
+        "link": "",
+        "fighterID": 12
+    },
+    {
+        "move": "Dive Kick(Only During Mystic Float)",
+        "button": "F3",
+        "link": "",
+        "fighterID": 12
+    },
+    {
+        "move": "Telekinetic Throw",
+        "button": "F,B2",
+        "link": "",
+        "fighterID": 12
+    },
+    {
+        "move": "Telekinetic Slam",
+        "button": "B,D,B4",
+        "link": "",
+        "fighterID": 12
+    },
+    {
+        "move": "Hado-Energy",
+        "button": "D,B1",
+        "link": "",
+        "fighterID": 12
     },
     {
         "move": "Fatality 1",
@@ -447,6 +502,33 @@
         "fighterID": 12
     },
     {
+        "move": "Spirit Arrow",
+        "button": "D,B1",
+        "link": "",
+        "fighterID": 13
+    },
+    {
+        "move": "Rhino Charge",
+        "button": "F,F4",
+        "link": "",
+        "fighterID": 13
+    },
+
+    {
+        "move": "Lighting From Above",
+        "button": "D,U1",
+        "link": "",
+        "fighterID": 13
+    },
+
+    {
+        "move": "Reflector",
+        "button": "B,F2",
+        "link": "",
+        "fighterID": 13
+    },
+
+    {
         "move": "Fatality 1",
         "button": "B,F,B,F,1(Far)",
         "link": "https://youtube.com/embed/5c3y_4PiDgI",
@@ -463,6 +545,30 @@
         "button": "U,U,U,U,3",
         "link": "https://youtube.com/embed/pdfVVjDjsPE",
         "fighterID": 13
+    },
+    {
+        "move": "Puke",
+        "button": "B,F2",
+        "link": "",
+        "fighterID": 14
+    },
+    {
+        "move": "Monkey Flips",
+        "button": "D,B1",
+        "link": "",
+        "fighterID": 14
+    },
+    {
+        "move": "Belly Bash",
+        "button": "F,F4",
+        "link": "",
+        "fighterID": 14
+    },
+    {
+        "move": "Earthquake",
+        "button": "F,B3",
+        "link": "",
+        "fighterID": 14
     },
     {
         "move": "Fatality 1",
@@ -483,6 +589,48 @@
         "fighterID": 14
     },
     {
+        "move": "Death From Above",
+        "button": "F,F3",
+        "link": "",
+        "fighterID": 15
+    },
+    {
+        "move": "Dark Shadows",
+        "button": "D,B3",
+        "link": "",
+        "fighterID": 15
+    },
+    {
+        "move": "Smokeycut(Smoke)",
+        "button": "F,F4",
+        "link": "",
+        "fighterID": 15
+    },
+    {
+        "move": "Stinky Cloud(Smoke)",
+        "button": "U,D1",
+        "link": "",
+        "fighterID": 15
+    },
+    {
+        "move": "Dark Assassin(Smoke)",
+        "button": "D,B2",
+        "link": "",
+        "fighterID": 15
+    },
+    {
+        "move": "We Live(Noob)",
+        "button": "D,B2",
+        "link": "",
+        "fighterID": 15
+    },
+    {
+        "move": "Darkness(Noob)",
+        "button": "U,D1",
+        "link": "",
+        "fighterID": 15
+    },
+    {
         "move": "Fatality 1",
         "button": "B,F,B,F,4(Mid)(Noob only)",
         "link": "https://youtube.com/embed/uS0HLTDlA6Q",
@@ -499,6 +647,36 @@
         "button": "D,U,U,D,4(Also works with Smoke)",
         "link": "https://youtube.com/embed/zvK1pf60WK0",
         "fighterID": 15
+    },
+    {
+        "move": "Human Cannon Drill",
+        "button": "F,F3",
+        "link": "",
+        "fighterID": 16
+    },
+    {
+        "move": "Air Fire Blast",
+        "button": "D,F2",
+        "link": "",
+        "fighterID": 16
+    },
+    {
+        "move": "Surging Blast",
+        "button": "D,B2",
+        "link": "",
+        "fighterID": 16
+    },
+    {
+        "move": "Split Flip Kick",
+        "button": "D,B4",
+        "link": "",
+        "fighterID": 16
+    },
+    {
+        "move": "Find Me",
+        "button": "U,D1",
+        "link": "",
+        "fighterID": 16
     },
     {
         "move": "Fatality 1",
@@ -519,6 +697,54 @@
         "fighterID": 16
     },
     {
+        "move": "Ice Blast",
+        "button": "D,F1",
+        "link": "",
+        "fighterID": 17
+    },
+    {
+        "move": "Flip Kick",
+        "button": "D,B3",
+        "link": "",
+        "fighterID": 17
+    },
+    {
+        "move": "Bicycle Kick",
+        "button": "F,F4",
+        "link": "",
+        "fighterID": 17
+    },
+    {
+        "move": "Tele Slam",
+        "button": "B,D,B4",
+        "link": "",
+        "fighterID": 17
+    },
+    {
+        "move": "Foot Grab",
+        "button": "F,B2",
+        "link": "",
+        "fighterID": 17
+    },
+    {
+        "move": "Power Fist",
+        "button": "D,F2",
+        "link": "",
+        "fighterID": 17
+    },
+    {
+        "move": "Torpedo",
+        "button": "F,F2",
+        "link": "",
+        "fighterID": 17
+    },
+    {
+        "move": "Spear",
+        "button": "B,F1",
+        "link": "",
+        "fighterID": 17
+    },
+    {
         "move": "Fatality 1",
         "button": "U,D,D,F,3",
         "link": "https://youtube.com/embed/pQsUxFZpO3k",
@@ -537,6 +763,18 @@
         "fighterID": 17
     },
     {
+        "move": "Grasshopper",
+        "button": "F,F4",
+        "link": "",
+        "fighterID": 18
+    },
+    {
+        "move": "Lava Burst",
+        "button": "D,B1",
+        "link": "",
+        "fighterID": 18
+    },
+    {
         "move": "Fatality 1",
         "button": "F,U,B,D,1(Mid)",
         "link": "https://youtube.com/embed/8lshNq2qFFM",
@@ -553,6 +791,31 @@
         "button": "U,B,B,B,2",
         "link": "https://youtube.com/embed/xPkJrVsVOIk",
         "fighterID": 18
+    },
+
+    {
+        "move": "Heavenly Light",
+        "button": "D,B1",
+        "link": "",
+        "fighterID": 19
+    },
+    {
+        "move": "Lighting Blast",
+        "button": "D,F1",
+        "link": "",
+        "fighterID": 19
+    },
+    {
+        "move": "Spin Cycle",
+        "button": "D,U3",
+        "link": "",
+        "fighterID": 19
+    },
+    {
+        "move": "Nature's Torpedo",
+        "button": "F,F4",
+        "link": "",
+        "fighterID": 19
     },
     {
         "move": "Fatality 1",
@@ -573,6 +836,24 @@
         "fighterID": 19
     },
     {
+        "move": "Tombstone Drop",
+        "button": "F,B,D1",
+        "link": "",
+        "fighterID": 20
+    },
+    {
+        "move": "Stealthy Shadows",
+        "button": "D,U3",
+        "link": "",
+        "fighterID": 20
+    },
+    {
+        "move": "Iron Leg",
+        "button": "D,B2",
+        "link": "",
+        "fighterID": 20
+    },
+    {
         "move": "Fatality 1",
         "button": "D,U,B,B,1(Mid)",
         "link": "https://youtube.com/embed/og0cfqRCNd4",
@@ -591,6 +872,37 @@
         "fighterID": 20
     },
     {
+        "move": "Windmill Kick",
+        "button": "D,B4",
+        "link": "",
+        "fighterID": 21
+    },
+    {
+        "move": "Burning Fist",
+        "button": "D,F2",
+        "link": "",
+        "fighterID": 21
+    },
+    {
+        "move": "Tele-Punch",
+        "button": "D,B2",
+        "link": "",
+        "fighterID": 21
+    },
+    {
+        "move": "Chi-Blast",
+        "button": "D,F1",
+        "link": "",
+        "fighterID": 21
+    },
+    {
+        "move": "Crouching Chi-Blast",
+        "button": "D,B1",
+        "link": "",
+        "fighterID": 21
+    },
+
+    {
         "move": "Fatality 1",
         "button": "D,B,F,D,4(Close)",
         "link": "https://youtube.com/embed/J15Xt3IfoDE",
@@ -607,6 +919,30 @@
         "button": "U,U,B,B,2",
         "link": "https://youtube.com/embed/TMaeh1W_ymg",
         "fighterID": 21
+    },
+    {
+        "move": "Tricky Blast",
+        "button": "B,F2",
+        "link": "",
+        "fighterID": 22
+    },
+    {
+        "move": "Twisty Kick",
+        "button": "B,F4",
+        "link": "",
+        "fighterID": 22
+    },
+    {
+        "move": "Chest Cruncher",
+        "button": "B,F1",
+        "link": "",
+        "fighterID": 22
+    },
+    {
+        "move": "Target Practice",
+        "button": "D,F3",
+        "link": "",
+        "fighterID": 22
     },
     {
         "move": "Fatality 1",
@@ -627,6 +963,24 @@
         "fighterID": 22
     },
     {
+        "move": "Black Dragon Ball",
+        "button": "B,F4",
+        "link": "",
+        "fighterID": 23
+    },
+    {
+        "move": "Kiss Of Death",
+        "button": "F,D,B1",
+        "link": "",
+        "fighterID": 23
+    },
+    {
+        "move": "Night Shade",
+        "button": "D,F1",
+        "link": "",
+        "fighterID": 23
+    },
+    {
         "move": "Fatality 1",
         "button": "B,F,,F,B,4(Far)",
         "link": "https://youtube.com/embed/Y_gNfKaqFOo",
@@ -643,6 +997,30 @@
         "button": "F,B,U,B,3",
         "link": "https://youtube.com/embed/SjEO6NbapJM",
         "fighterID": 23
+    },
+    {
+        "move": "High Dragon Fire",
+        "button": "F,F2",
+        "link": "",
+        "fighterID": 24
+    },
+    {
+        "move": "Low Dragon Fire",
+        "button": "F,F1",
+        "link": "",
+        "fighterID": 24
+    },
+    {
+        "move": "Flying Kick",
+        "button": "F,F4",
+        "link": "",
+        "fighterID": 24
+    },
+    {
+        "move": "Flying Bicycle Kick",
+        "button": "D,F3",
+        "link": "",
+        "fighterID": 24
     },
     {
         "move": "Fatality 1",
@@ -663,6 +1041,36 @@
         "fighterID": 24
     },
     {
+        "move": "Uplifting Knee",
+        "button": "B,F3",
+        "link": "",
+        "fighterID": 25
+    },
+    {
+        "move": "Emperor's Shield",
+        "button": "D,B1",
+        "link": "",
+        "fighterID": 25
+    },
+    {
+        "move": "Explosive Blast",
+        "button": "D,F1",
+        "link": "",
+        "fighterID": 25
+    },
+    {
+        "move": "Charging Spikes",
+        "button": "F,F2",
+        "link": "",
+        "fighterID": 25
+    },
+    {
+        "move": "Ridicule",
+        "button": "D,U1",
+        "link": "",
+        "fighterID": 25
+    },
+    {
         "move": "Fatality 1",
         "button": "D,U,U,F,2(Mid)",
         "link": "https://youtube.com/embed/A0xW_Ssq6HQ",
@@ -679,6 +1087,30 @@
         "button": "D,U,U,D,1",
         "link": "https://youtube.com/embed/Amd4I-AYoRw",
         "fighterID": 25
+    },
+    {
+        "move": "Spinning Slaps",
+        "button": "D,B2",
+        "link": "",
+        "fighterID": 26
+    },
+    {
+        "move": "Leaping Stomp",
+        "button": "D,U3",
+        "link": "",
+        "fighterID": 26
+    },
+    {
+        "move": "Ultimate Force",
+        "button": "D,F1",
+        "link": "",
+        "fighterID": 26
+    },
+    {
+        "move": "Tremor Pound",
+        "button": "U,D3",
+        "link": "",
+        "fighterID": 26
     },
     {
         "move": "Fatality 1",
@@ -699,10 +1131,52 @@
         "fighterID": 26
     },
     {
+        "move": "Fan Throw",
+        "button": "D,F1",
+        "link": "",
+        "fighterID": 27
+    },
+    {
+        "move": "Fan Lift",
+        "button": "B,F1",
+        "link": "",
+        "fighterID": 27
+    },
+    {
+        "move": "Edenian Teleport",
+        "button": "B,F4",
+        "link": "",
+        "fighterID": 27
+    },
+    {
+        "move": "Pretty Kick",
+        "button": "U3",
+        "link": "",
+        "fighterID": 27
+    },
+    {
         "move": "Fatality 1",
         "button": "D,U,F,F,2(Mid)",
         "link": "https://youtube.com/embed/dO1fnhqOcCo",
         "fighterID": 27
+    },
+    {
+        "move": "Ground Pound",
+        "button": "F,F,D3",
+        "link": "",
+        "fighterID": 28
+    },
+    {
+        "move": "Machine Gun",
+        "button": "B,F4",
+        "link": "",
+        "fighterID": 28
+    },
+    {
+        "move": "Piston Punch",
+        "button": "D,F1",
+        "link": "",
+        "fighterID": 28
     },
 
     {
@@ -712,10 +1186,311 @@
         "fighterID": 28
     },
     {
+        "move": "Ground Freeze",
+        "button": "D,B3",
+        "link": "",
+        "fighterID": 29
+    },
+    {
+        "move": "Slide",
+        "button": "D,F4",
+        "link": "",
+        "fighterID": 29
+    },
+    {
         "move": "Fatality 1",
         "button": "F,B,U,D,1(Mid)",
         "link": "https://youtube.com/embed/YWgw6YrzlUU",
         "fighterID": 29
+    },
+    {
+        "move": "Flame Ball",
+        "button": "B,F1",
+        "link": "",
+        "fighterID": 30
+    },
+    {
+        "move": "Flame Uppercut",
+        "button": "B,D,B2",
+        "link": "",
+        "fighterID": 30
+    },
+    {
+        "move": "Flame Charge",
+        "button": "D,F3",
+        "link": "",
+        "fighterID": 30
+    },
+    {
+        "move": "Kiss Of Death",
+        "button": "D,B1",
+        "link": "",
+        "fighterID": 31
+    },
+    {
+        "move": "Armed Forces",
+        "button": "D,F2",
+        "link": "",
+        "fighterID": 31
+    },
+    {
+        "move": "Flying Boots",
+        "button": "F,F3",
+        "link": "",
+        "fighterID": 31
+    },
+    {
+        "move": "Ball-O-Flies",
+        "button": "b,F1",
+        "link": "",
+        "fighterID": 32
+    },
+    {
+        "move": "Propeller Clock",
+        "button": "F,F2",
+        "link": "",
+        "fighterID": 32
+    },
+    {
+        "move": "Rising Uppercut",
+        "button": "D,B1",
+        "link": "",
+        "fighterID": 32
+    },
+    {
+        "move": "Ground Smash",
+        "button": "B,D4",
+        "link": "",
+        "fighterID": 32
+    },
+    {
+        "move": "Skull Toss",
+        "button": "D,F1",
+        "link": "",
+        "fighterID": 33
+    },
+    {
+        "move": "Skull Bash",
+        "button": "F,F1",
+        "link": "",
+        "fighterID": 33
+    },
+    {
+        "move": "Cartwheel",
+        "button": "B,D4",
+        "link": "",
+        "fighterID": 33
+    },
+    {
+        "move": "Skull Toss",
+        "button": "D,B1",
+        "link": "",
+        "fighterID": 34
+    },
+    {
+        "move": "Body Stomp",
+        "button": "D,B3",
+        "link": "",
+        "fighterID": 34
+    },
+    {
+        "move": "Heel Slide",
+        "button": "B,D4",
+        "link": "",
+        "fighterID": 34
+    },
+    {
+        "move": "Forward Fireball",
+        "button": "D,F1",
+        "link": "",
+        "fighterID": 35
+    },
+    {
+        "move": "Fireball(Close)",
+        "button": "B,F2",
+        "link": "",
+        "fighterID": 35
+    },
+    {
+        "move": "Fireball(Far)",
+        "button": "B,F2",
+        "link": "",
+        "fighterID": 35
+    },
+    {
+        "move": "Soul Steal",
+        "button": "D,B3",
+        "link": "",
+        "fighterID": 35
+    },
+    {
+        "move": "Hat Throw",
+        "button": "B,F1",
+        "link": "",
+        "fighterID": 36
+    },
+    {
+        "move": "Whirlwind Kicks",
+        "button": "D,B4",
+        "link": "",
+        "fighterID": 36
+    },
+    {
+        "move": "Whirlwind Spin",
+        "button": "D,F3",
+        "link": "",
+        "fighterID": 36
+    },
+    {
+        "move": "Forceball",
+        "button": "D,B1",
+        "link": "",
+        "fighterID": 37
+    },
+    {
+        "move": "Shadow Kick",
+        "button": "B,F4",
+        "link": "",
+        "fighterID": 37
+    },
+    {
+        "move": "Johnny Uppercut",
+        "button": "B,F3",
+        "link": "",
+        "fighterID": 37
+    },
+    {
+        "move": "Missle",
+        "button": "D,F1",
+        "link": "",
+        "fighterID": 38
+    },
+    {
+        "move": "Teleport Punch",
+        "button": "F,F4",
+        "link": "",
+        "fighterID": 38
+    },
+    {
+        "move": "Flamethrower",
+        "button": "F,F3",
+        "link": "",
+        "fighterID": 38
+    },
+    {
+        "move": "Blood Spit",
+        "button": "F,B2",
+        "link": "",
+        "fighterID": 39
+    },
+    {
+        "move": "Unicorn Kick",
+        "button": "B,D4",
+        "link": "",
+        "fighterID": 39
+    },
+    {
+        "move": "Rising Heel",
+        "button": "D,F4",
+        "link": "",
+        "fighterID": 39
+    },
+    {
+        "move": "Wing Flap",
+        "button": "F,B3",
+        "link": "",
+        "fighterID": 39
+    },
+
+    {
+        "move": "Lighting Strike",
+        "button": "D,B2",
+        "link": "",
+        "fighterID": 40
+    },
+    {
+        "move": "Storm Kick",
+        "button": "D,F3",
+        "link": "",
+        "fighterID": 40
+    },
+    {
+        "move": "Water Burst",
+        "button": "D,B1",
+        "link": "",
+        "fighterID": 40
+    },
+    {
+        "move": "Water Ball",
+        "button": "D,F1",
+        "link": "",
+        "fighterID": 40
+    },
+    {
+        "move": "Detonator(Close)",
+        "button": "F,B1",
+        "link": "",
+        "fighterID": 41
+    },
+    {
+        "move": "Detonator(Far)",
+        "button": "B,F1",
+        "link": "",
+        "fighterID": 41
+    },
+    {
+        "move": "Spinkicks",
+        "button": "D,B3",
+        "link": "",
+        "fighterID": 41
+    },
+    {
+        "move": "Slice & Dice",
+        "button": "B,F4",
+        "link": "",
+        "fighterID": 41
+    },
+    {
+        "move": "Shurikens",
+        "button": "D,F1",
+        "link": "",
+        "fighterID": 42
+    },
+    {
+        "move": "Teleport Slam",
+        "button": "D,U1",
+        "link": "",
+        "fighterID": 42
+    },
+    {
+        "move": "Circular Teleport",
+        "button": "B,F3",
+        "link": "",
+        "fighterID": 42
+    },
+    {
+        "move": "Flip Kick",
+        "button": "B,D4",
+        "link": "",
+        "fighterID": 42
+    },
+    {
+        "move": "Earthquake",
+        "button": "F,D2",
+        "link": "",
+        "fighterID": 43
+    },
+    {
+        "move": "Rolling Rock",
+        "button": "D,F4",
+        "link": "",
+        "fighterID": 43
+    },
+    {
+        "move": "Shoulder Bash",
+        "button": "B,F3",
+        "link": "",
+        "fighterID": 43
     },
 
     {

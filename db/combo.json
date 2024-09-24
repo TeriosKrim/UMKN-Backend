@@ -4422,248 +4422,1965 @@
     },
 
     {
-        "move": "",
-        "button": "",
+        "move": "Black Tiger",
+        "button": "1,1",
         "link": "",
         "stanceID": 90
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Cutting Edge",
+        "button": "1,3",
+        "link": "",
+        "stanceID": 90
+    },
+    {
+        "move": "Bad Girl",
+        "button": "1,3,3",
+        "link": "",
+        "stanceID": 90
+    },
+    {
+        "move": "Tiger Strikes",
+        "button": "1,1,U1",
+        "link": "",
+        "stanceID": 90
+    },
+    {
+        "move": "Big Guns",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 90
+    },
+    {
+        "move": "Blonde Beauty",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 90
+    },
+    {
+        "move": "Double Kick",
+        "button": "3,3",
+        "link": "",
+        "stanceID": 90
+    },
+    {
+        "move": "Warfare",
+        "button": "1,1,CS,4,CS",
+        "link": "",
+        "stanceID": 90
+    },
+    {
+        "move": "Clearness Of Mind",
+        "button": "4,4,",
         "link": "",
         "stanceID": 91
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Take Out",
+        "button": "B3,3",
+        "link": "",
+        "stanceID": 91
+    },
+    {
+        "move": "Peaceful World",
+        "button": "1,1,B2",
+        "link": "",
+        "stanceID": 91
+    },
+    {
+        "move": "Special Forces",
+        "button": "4,B3,3",
+        "link": "",
+        "stanceID": 91
+    },
+    {
+        "move": "Blizkrieg",
+        "button": "B4,CS",
+        "link": "",
+        "stanceID": 91
+    },
+    {
+        "move": "Blurry Sticks",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 92
+    },
+    {
+        "move": "Twister Sticks",
+        "button": "2,4",
+        "link": "",
+        "stanceID": 92
+    },
+    {
+        "move": "Take Out",
+        "button": "2,4,3",
+        "link": "",
+        "stanceID": 92
+    },
+    {
+        "move": "Channeling Power",
+        "button": "2,4,B3",
+        "link": "",
+        "stanceID": 92
+    },
+    {
+        "move": "Windy Pain",
+        "button": "1,4,B3",
+        "link": "",
+        "stanceID": 92
+    },
+    {
+        "move": "Hard Hitting",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 92
+    },
+    {
+        "move": "Bruising Pain",
+        "button": "1,1,2,4",
+        "link": "",
+        "stanceID": 92
+    },
+    {
+        "move": "Black And Blue",
+        "button": "1,1,2,4,B3",
         "link": "",
         "stanceID": 92
     },
 
     {
-        "move": "",
-        "button": "",
+        "move": "Clearing Space",
+        "button": "1,2",
         "link": "",
         "stanceID": 93
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Hot Palms",
+        "button": "1,B1",
+        "link": "",
+        "stanceID": 93
+    },
+    {
+        "move": "Breaking Your Bones",
+        "button": "1,B2",
+        "link": "",
+        "stanceID": 93
+    },
+    {
+        "move": "Lift Up",
+        "button": "1,2,CS",
+        "link": "",
+        "stanceID": 93
+    },
+    {
+        "move": "Twister Punches",
+        "button": "2,2",
         "link": "",
         "stanceID": 94
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Knocked Out",
+        "button": "2,2,2",
+        "link": "",
+        "stanceID": 94
+    },
+    {
+        "move": "Bloody Monday",
+        "button": "2,2,4",
+        "link": "",
+        "stanceID": 94
+    },
+    {
+        "move": "Rotting Flesh",
+        "button": "2,2,CS",
+        "link": "",
+        "stanceID": 94
+    },
+    {
+        "move": "Clubbing It",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 95
+    },
+    {
+        "move": "Iron Pain",
+        "button": "1,3",
+        "link": "",
+        "stanceID": 95
+    },
+    {
+        "move": "Iron Fist",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 95
+    },
+    {
+        "move": "Klubbing Time",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 95
+    },
+    {
+        "move": "Stench Of Decay",
+        "button": "1,1,F2",
+        "link": "",
+        "stanceID": 95
+    },
+    {
+        "move": "Krusty Skin",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 95
+    },
+    {
+        "move": "Clockturn",
+        "button": "1,1,CS",
         "link": "",
         "stanceID": 95
     },
 
     {
-        "move": "",
-        "button": "",
+        "move": "Gut Hits",
+        "button": "2,2",
         "link": "",
         "stanceID": 96
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Reaching Blow",
+        "button": "2,2,2",
+        "link": "",
+        "stanceID": 96
+    },
+    {
+        "move": "Setting Sun",
+        "button": "4,4,4",
+        "link": "",
+        "stanceID": 96
+    },
+    {
+        "move": "Opening Blow",
+        "button": "4,4,B2",
+        "link": "",
+        "stanceID": 96
+    },
+    {
+        "move": "Daylight",
+        "button": "4,4,CS,4,3",
+        "link": "",
+        "stanceID": 96
+    },
+    {
+        "move": "Heatwave",
+        "button": "4,4,CS,4,1,2",
+        "link": "",
+        "stanceID": 96
+    },
+    {
+        "move": "Flare Strike",
+        "button": "4,4,CS,4,U3",
+        "link": "",
+        "stanceID": 96
+    },
+    {
+        "move": "Sunrise",
+        "button": "4,4,CS,4,F1",
+        "link": "",
+        "stanceID": 96
+    },
+    {
+        "move": "Mandarin Duck Fists",
+        "button": "1,2",
         "link": "",
         "stanceID": 97
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Deadly Decoy",
+        "button": "4,4,3",
+        "link": "",
+        "stanceID": 97
+    },
+    {
+        "move": "Burning Hot",
+        "button": "4,4,1,2",
+        "link": "",
+        "stanceID": 97
+    },
+    {
+        "move": "Mandarin Duck Legs",
+        "button": "4,4,U3",
+        "link": "",
+        "stanceID": 97
+    },
+    {
+        "move": "Waterfall",
+        "button": "4,4,F1",
+        "link": "",
+        "stanceID": 97
+    },
+    {
+        "move": "Deceptive Step",
+        "button": "1,1,U3",
+        "link": "",
+        "stanceID": 97
+    },
+    {
+        "move": "Furious Strike",
+        "button": "1,1,CS",
+        "link": "",
+        "stanceID": 97
+    },
+    {
+        "move": "Basic Slashes",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 98
+    },
+    {
+        "move": "Wind Kontrol",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 98
+    },
+    {
+        "move": "Angry Demon",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 98
+    },
+    {
+        "move": "Unmatched",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 98
+    },
+    {
+        "move": "Blood Thirsty Blade",
+        "button": "2,B3",
         "link": "",
         "stanceID": 98
     },
 
     {
-        "move": "",
-        "button": "",
+        "move": "Face Breaker",
+        "button": "2,2",
         "link": "",
         "stanceID": 99
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Path Maker",
+        "button": "3,3",
+        "link": "",
+        "stanceID": 99
+    },
+    {
+        "move": "Nightfall",
+        "button": "B1,4",
+        "link": "",
+        "stanceID": 99
+    },
+    {
+        "move": "Rushing Palm",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 99
+    },
+    {
+        "move": "Running Stream",
+        "button": "2,3,4",
+        "link": "",
+        "stanceID": 99
+    },
+    {
+        "move": "Walking Dead",
+        "button": "B1,3,3",
+        "link": "",
+        "stanceID": 99
+    },
+    {
+        "move": "Strong Wind",
+        "button": "1,1,2,2",
+        "link": "",
+        "stanceID": 99
+    },
+    {
+        "move": "Power Trip",
+        "button": "1,1,2,F2",
+        "link": "",
+        "stanceID": 99
+    },
+    {
+        "move": "Internal Power",
+        "button": "1,1,3,3",
+        "link": "",
+        "stanceID": 99
+    },
+    {
+        "move": "Green Mountain",
+        "button": "1,1,2,3,4",
+        "link": "",
+        "stanceID": 99
+    },
+    {
+        "move": "Pain Relief",
+        "button": "1,1,2,CS,4,CS",
+        "link": "",
+        "stanceID": 99
+    },
+    {
+        "move": "Pain Killer",
+        "button": "1,1,2,3,CS,4,CS",
+        "link": "",
+        "stanceID": 99
+    },
+    {
+        "move": "Double Trouble",
+        "button": "1,1",
         "link": "",
         "stanceID": 100
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Trap Those Hands",
+        "button": "2,3",
+        "link": "",
+        "stanceID": 100
+    },
+    {
+        "move": "Hand Lock",
+        "button": "2,3,4",
+        "link": "",
+        "stanceID": 100
+    },
+    {
+        "move": "Secret Knees",
+        "button": "3,4,4",
+        "link": "",
+        "stanceID": 100
+    },
+    {
+        "move": "Chaos Strikes",
+        "button": "3,4,4",
+        "link": "",
+        "stanceID": 100
+    },
+    {
+        "move": "Deadly Fu",
+        "button": "4,4",
+        "link": "",
+        "stanceID": 100
+    },
+    {
+        "move": "Hit And Run",
+        "button": "3,1,1",
+        "link": "",
+        "stanceID": 100
+    },
+    {
+        "move": "Rushing Knee",
+        "button": "3,1",
+        "link": "",
+        "stanceID": 100
+    },
+    {
+        "move": "Slitting Hand",
+        "button": "2,3,1,U2",
+        "link": "",
+        "stanceID": 100
+    },
+    {
+        "move": "Hidden Evil",
+        "button": "3,1,U2",
+        "link": "",
+        "stanceID": 100
+    },
+    {
+        "move": "Sharp Spin Action",
+        "button": "2,3,CS",
+        "link": "",
+        "stanceID": 100
+    },
+    {
+        "move": "Ice Pick",
+        "button": "2,3,4",
+        "link": "",
+        "stanceID": 100
+    },
+    {
+        "move": "Wicked Sting",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 101
+    },
+    {
+        "move": "Ancient Death",
+        "button": "D1,3",
+        "link": "",
+        "stanceID": 101
+    },
+    {
+        "move": "Tricky Fury",
+        "button": "2,3",
+        "link": "",
+        "stanceID": 101
+    },
+    {
+        "move": "Torso Attacks",
+        "button": "2,4",
+        "link": "",
+        "stanceID": 101
+    },
+    {
+        "move": "Doom's Edge",
+        "button": "3,4",
+        "link": "",
+        "stanceID": 101
+    },
+    {
+        "move": "Super Sonice",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 101
+    },
+    {
+        "move": "Sidewinder Tactics",
+        "button": "2,1,B3",
+        "link": "",
+        "stanceID": 101
+    },
+    {
+        "move": "Evil Stench",
+        "button": "1,1,F4",
         "link": "",
         "stanceID": 101
     },
 
     {
-        "move": "",
-        "button": "",
+        "move": "Twisting Python",
+        "button": "2,2",
         "link": "",
         "stanceID": 102
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Spiritual Snake Tail",
+        "button": "2,3",
+        "link": "",
+        "stanceID": 102
+    },
+    {
+        "move": "Blinding Strike",
+        "button": "2,B1",
+        "link": "",
+        "stanceID": 102
+    },
+    {
+        "move": "Soul Catcher",
+        "button": "2,B4",
+        "link": "",
+        "stanceID": 102
+    },
+    {
+        "move": "Serpent Touch",
+        "button": "4,B2",
+        "link": "",
+        "stanceID": 102
+    },
+    {
+        "move": "Thrusting Fang",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 102
+    },
+    {
+        "move": "Rattlesnake",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 102
+    },
+    {
+        "move": "Hissing Strike",
+        "button": "1,1,2,3",
+        "link": "",
+        "stanceID": 102
+    },
+    {
+        "move": "Poisonous Snake",
+        "button": "1,1,2,2",
+        "link": "",
+        "stanceID": 102
+    },
+    {
+        "move": "Poisonous Palm",
+        "button": "1,1,2,2,B2",
+        "link": "",
+        "stanceID": 102
+    },
+    {
+        "move": "Lethal Venom",
+        "button": "1,1,2,B4",
+        "link": "",
+        "stanceID": 102
+    },
+    {
+        "move": "Snake Eyes",
+        "button": "1,1,2,B1",
+        "link": "",
+        "stanceID": 102
+    },
+    {
+        "move": "Cobra Revenge",
+        "button": "1,1,4,B2",
+        "link": "",
+        "stanceID": 102
+    },
+    {
+        "move": "Hissing Fang",
+        "button": "2,2,B2",
+        "link": "",
+        "stanceID": 102
+    },
+    {
+        "move": "Snake Tang",
+        "button": "1,1,2,CS",
+        "link": "",
+        "stanceID": 102
+    },
+
+    {
+        "move": "Flying Beak",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 103
+    },
+
+    {
+        "move": "Dirty Bird",
+        "button": "B1,B3",
+        "link": "",
+        "stanceID": 103
+    },
+
+    {
+        "move": "Flapping Wing",
+        "button": "4,4",
+        "link": "",
+        "stanceID": 103
+    },
+
+    {
+        "move": "Triple Chin Punch",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 103
+    },
+
+    {
+        "move": "Poke Surprise",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 103
+    },
+
+    {
+        "move": "Raging Beak",
+        "button": "1,1,1,U4",
+        "link": "",
+        "stanceID": 103
+    },
+
+    {
+        "move": "Cyclone Beak",
+        "button": "1,1,4,4",
+        "link": "",
+        "stanceID": 103
+    },
+
+    {
+        "move": "Crazy Wings",
+        "button": "3,3,2",
+        "link": "",
+        "stanceID": 103
+    },
+
+    {
+        "move": "3-Hit Wings",
+        "button": "3,3,3",
+        "link": "",
+        "stanceID": 103
+    },
+
+    {
+        "move": "Sidewinder",
+        "button": "3,3,4",
+        "link": "",
+        "stanceID": 103
+    },
+
+    {
+        "move": "Strong Kicks",
+        "button": "3,3,4,4",
+        "link": "",
+        "stanceID": 103
+    },
+
+    {
+        "move": "Crunchy Kick",
+        "button": "3,3,3,B3",
+        "link": "",
+        "stanceID": 103
+    },
+
+    {
+        "move": "Color Changer",
+        "button": "3,3,3,1,1,1",
+        "link": "",
+        "stanceID": 103
+    },
+
+    {
+        "move": "Hunt Down",
+        "button": "3,3,3,1,1,1,U4",
+        "link": "",
+        "stanceID": 103
+    },
+
+    {
+        "move": "Death Bed",
+        "button": "1,1,1,CS",
+        "link": "",
+        "stanceID": 103
+    },
+
+    {
+        "move": "Final Withdrawal",
+        "button": "3,3,3,1,1,1,CS",
         "link": "",
         "stanceID": 103
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Deadly Blade",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 104
+    },
+    {
+        "move": "Ancient Strike",
+        "button": "4,2",
+        "link": "",
+        "stanceID": 104
+    },
+    {
+        "move": "Soul Sucker",
+        "button": "F2,1",
+        "link": "",
+        "stanceID": 104
+    },
+    {
+        "move": "Pain",
+        "button": "3,B3",
+        "link": "",
+        "stanceID": 104
+    },
+    {
+        "move": "Master's Edge",
+        "button": "4,2,3,B3",
         "link": "",
         "stanceID": 104
     },
 
     {
-        "move": "",
-        "button": "",
+        "move": "Deadly Bent Wrists",
+        "button": "1,1",
         "link": "",
         "stanceID": 105
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Looking For Prey",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 105
+    },
+    {
+        "move": "Time To Hunt",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 105
+    },
+    {
+        "move": "Stunning Prey",
+        "button": "1,1,U3",
+        "link": "",
+        "stanceID": 105
+    },
+    {
+        "move": "Metal Mantis",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 105
+    },
+    {
+        "move": "Scratch It Up",
+        "button": "1,1,2,4",
+        "link": "",
+        "stanceID": 105
+    },
+    {
+        "move": "Raptorial Claw",
+        "button": "1,1,2,B2",
+        "link": "",
+        "stanceID": 105
+    },
+    {
+        "move": "Stone Mountains",
+        "button": "F4,1",
+        "link": "",
+        "stanceID": 105
+    },
+    {
+        "move": "Time And Space",
+        "button": "F4,1,3",
+        "link": "",
+        "stanceID": 105
+    },
+    {
+        "move": "Secret Hands",
+        "button": "F4,1,U3",
+        "link": "",
+        "stanceID": 105
+    },
+    {
+        "move": "Take Kontrol",
+        "button": "F4,1,2,B2",
+        "link": "",
+        "stanceID": 105
+    },
+    {
+        "move": "Perfection",
+        "button": "1,1,2,CS",
+        "link": "",
+        "stanceID": 105
+    },
+    {
+        "move": "Big Slice",
+        "button": "F4,1,1,CS,4,4,CS",
+        "link": "",
+        "stanceID": 105
+    },
+    {
+        "move": "Zero",
+        "button": "F4,1,1,CS,2,4,CS",
+        "link": "",
+        "stanceID": 105
+    },
+    {
+        "move": "Mighty Monk",
+        "button": "1,1,1,CS,2,4,CS",
+        "link": "",
+        "stanceID": 105
+    },
+    {
+        "move": "Sifu Strike",
+        "button": "1,1,1,CS,4,4,F2",
+        "link": "",
+        "stanceID": 105
+    },
+    {
+        "move": "World Ruler",
+        "button": "F4,1,1,CS,2,4,3",
+        "link": "",
+        "stanceID": 105
+    },
+    {
+        "move": "Hardcore",
+        "button": "F4,1,1,CS,4,4,F2",
+        "link": "",
+        "stanceID": 105
+    },
+
+    {
+        "move": "Fist Of Pain",
+        "button": "2,1",
         "link": "",
         "stanceID": 106
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Monk Legion",
+        "button": "1,2,4",
+        "link": "",
+        "stanceID": 106
+    },
+    {
+        "move": "Strength And Honor",
+        "button": "2,4",
+        "link": "",
+        "stanceID": 106
+    },
+    {
+        "move": "White Tiger",
+        "button": "2,4,3",
+        "link": "",
+        "stanceID": 106
+    },
+    {
+        "move": "Graceful Speed",
+        "button": "1,2,4,3",
+        "link": "",
+        "stanceID": 106
+    },
+    {
+        "move": "Stealth Monk",
+        "button": "1,4",
+        "link": "",
+        "stanceID": 106
+    },
+    {
+        "move": "Bludgon Fist",
+        "button": "1,4,4,F2",
+        "link": "",
+        "stanceID": 106
+    },
+    {
+        "move": "Precise Killing",
+        "button": "1,4,4,3",
+        "link": "",
+        "stanceID": 106
+    },
+    {
+        "move": "Sneaky Legs",
+        "button": "4,3",
+        "link": "",
+        "stanceID": 106
+    },
+    {
+        "move": "Poor Soul",
+        "button": "1,2,4,CS",
+        "link": "",
+        "stanceID": 106
+    },
+    {
+        "move": "Plane Searcher",
+        "button": "1,4,4,CS",
+        "link": "",
+        "stanceID": 106
+    },
+    {
+        "move": "Tiger Slashes",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 107
+    },
+    {
+        "move": "Beast Power",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 107
+    },
+    {
+        "move": "Blood Letter",
+        "button": "1,1,F3",
         "link": "",
         "stanceID": 107
     },
 
     {
-        "move": "",
-        "button": "",
+        "move": "Double Flip Kick",
+        "button": "U4,U4",
         "link": "",
         "stanceID": 108
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Star Strikes",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 108
+    },
+    {
+        "move": "Bone Breaker",
+        "button": "1,2",
+        "link": "",
+        "stanceID": 108
+    },
+    {
+        "move": "Peace Out",
+        "button": "1,2,U4",
+        "link": "",
+        "stanceID": 108
+    },
+    {
+        "move": "Strong Uppercut",
+        "button": "2,CS",
+        "link": "",
+        "stanceID": 108
+    },
+    {
+        "move": "Cutting Hands",
+        "button": "2,1",
+        "link": "",
+        "stanceID": 108
+    },
+    {
+        "move": "Big Star",
+        "button": "2,4",
+        "link": "",
+        "stanceID": 108
+    },
+    {
+        "move": "Renegade",
+        "button": "2,1,2",
+        "link": "",
+        "stanceID": 108
+    },
+    {
+        "move": "The Foot Sword",
+        "button": "3,3",
+        "link": "",
+        "stanceID": 108
+    },
+    {
+        "move": "Closing Credits",
+        "button": "2,3",
+        "link": "",
+        "stanceID": 108
+    },
+    {
+        "move": "Phantom Feet",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 108
+    },
+    {
+        "move": "Phantom Legs",
+        "button": "1,1,3,3",
+        "link": "",
+        "stanceID": 108
+    },
+    {
+        "move": "I'm The Best",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 108
+    },
+    {
+        "move": "Action",
+        "button": "2,3,3",
+        "link": "",
+        "stanceID": 108
+    },
+    {
+        "move": "Tricky Trip",
+        "button": "1,1,3,CS",
+        "link": "",
+        "stanceID": 108
+    },
+    {
+        "move": "Leading Role",
+        "button": "1,1,3,CS,2,4",
+        "link": "",
+        "stanceID": 108
+    },
+    {
+        "move": "Photoshoot",
+        "button": "1,1,3,CS,2,3,3,4",
+        "link": "",
+        "stanceID": 108
+    },
+    {
+        "move": "Director's Cut",
+        "button": "1,1,3,CS,2,3,3,B4",
+        "link": "",
+        "stanceID": 108
+    },
+    {
+        "move": "Blockbuster",
+        "button": "1,1,3,CS,2,3,3,CS",
+        "link": "",
+        "stanceID": 108
+    },
+
+    {
+        "move": "Straight Blast",
+        "button": "1,1",
         "link": "",
         "stanceID": 109
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Big Blast",
+        "button": "1,1,F4",
+        "link": "",
+        "stanceID": 109
+    },
+    {
+        "move": "Low Blast",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 109
+    },
+    {
+        "move": "Runner Up",
+        "button": "1,1,3,4",
+        "link": "",
+        "stanceID": 109
+    },
+    {
+        "move": "Spotlight",
+        "button": "2,2,4",
+        "link": "",
+        "stanceID": 109
+    },
+    {
+        "move": "Sticky Legs",
+        "button": "2,2,3",
+        "link": "",
+        "stanceID": 109
+    },
+    {
+        "move": "Outer Gate",
+        "button": "2,2,3,3",
+        "link": "",
+        "stanceID": 109
+    },
+    {
+        "move": "New Take",
+        "button": "2,2,3,3,4",
+        "link": "",
+        "stanceID": 109
+    },
+    {
+        "move": "Cameo",
+        "button": "2,2,3,3,B4",
+        "link": "",
+        "stanceID": 109
+    },
+    {
+        "move": "Smash Tv",
+        "button": "2,2,3,3,CS",
+        "link": "",
+        "stanceID": 109
+    },
+    {
+        "move": "Spinster",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 110
+    },
+    {
+        "move": "Cyclone Twister",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 110
+    },
+    {
+        "move": "Nitro Blister",
+        "button": "1,1,1,1",
+        "link": "",
+        "stanceID": 110
+    },
+    {
+        "move": "Blurry Hits",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 110
+    },
+    {
+        "move": "Chako Frenzy",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 110
+    },
+    {
+        "move": "Frenzy And Kick",
+        "button": "1,1,3,4",
+        "link": "",
+        "stanceID": 110
+    },
+    {
+        "move": "4Hit Blaster",
+        "button": "1,1,2,B2",
         "link": "",
         "stanceID": 110
     },
 
     {
-        "move": "",
-        "button": "",
+        "move": "Ninja Strikes",
+        "button": "1,1",
         "link": "",
         "stanceID": 111
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Cyber Kombo",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 111
+    },
+    {
+        "move": "Cyborg Strike",
+        "button": "1,1,B1",
+        "link": "",
+        "stanceID": 111
+    },
+    {
+        "move": "Stealth Blast",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 111
+    },
+    {
+        "move": "Robot Crunch",
+        "button": "1,1,U2",
+        "link": "",
+        "stanceID": 111
+    },
+    {
+        "move": "Cyber Push",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 111
+    },
+    {
+        "move": "Cyber Light",
+        "button": "1,1,CS,1,2,2",
+        "link": "",
+        "stanceID": 111
+    },
+    {
+        "move": "Missle Strike",
+        "button": "1,1,CS,1,4,4",
+        "link": "",
+        "stanceID": 111
+    },
+    {
+        "move": "Rocket-Cut",
+        "button": "1,1,CS,1,2,CS",
+        "link": "",
+        "stanceID": 111
+    },
+    {
+        "move": "Torpedo",
+        "button": "1,1,CS,1,4,4,CS",
+        "link": "",
+        "stanceID": 111
+    },
+    {
+        "move": "Bottle Opener",
+        "button": "2,2",
         "link": "",
         "stanceID": 112
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Missing Part",
+        "button": "4,4",
+        "link": "",
+        "stanceID": 112
+    },
+    {
+        "move": "Bone Crusher",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 112
+    },
+    {
+        "move": "Wire Error",
+        "button": "1,1,B1",
+        "link": "",
+        "stanceID": 112
+    },
+    {
+        "move": "Cybergrid",
+        "button": "1,1,2,2",
+        "link": "",
+        "stanceID": 112
+    },
+    {
+        "move": "Update",
+        "button": "1,1,4,4",
+        "link": "",
+        "stanceID": 112
+    },
+    {
+        "move": "Knee Stopper",
+        "button": "4,4,CS",
+        "link": "",
+        "stanceID": 112
+    },
+    {
+        "move": "Hack Into",
+        "button": "1,1,2,CS",
+        "link": "",
+        "stanceID": 112
+    },
+    {
+        "move": "Kneelectronics",
+        "button": "1,1,4,4,CS",
+        "link": "",
+        "stanceID": 112
+    },
+    {
+        "move": "Double Trouble",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 113
+    },
+    {
+        "move": "Ketchup's Revenge",
+        "button": "3,1",
+        "link": "",
+        "stanceID": 113
+    },
+    {
+        "move": "Saber Impact",
+        "button": "3,B2",
+        "link": "",
+        "stanceID": 113
+    },
+    {
+        "move": "Cyber Skillz",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 113
+    },
+    {
+        "move": "Pulse Swings",
+        "button": "3,1,1",
+        "link": "",
+        "stanceID": 113
+    },
+    {
+        "move": "The Monster",
+        "button": "1,1,4",
         "link": "",
         "stanceID": 113
     },
 
     {
-        "move": "",
-        "button": "",
+        "move": "Blurry Punches",
+        "button": "1,1",
         "link": "",
         "stanceID": 114
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Knuckle Pain",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 114
+    },
+    {
+        "move": "Sneaky Leopard",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 114
+    },
+    {
+        "move": "Face Splat",
+        "button": "1,1,1,2",
+        "link": "",
+        "stanceID": 114
+    },
+    {
+        "move": "Stalking Eyes",
+        "button": "1,1,U1",
+        "link": "",
+        "stanceID": 114
+    },
+    {
+        "move": "Pouncing Paws",
+        "button": "1,1,B1",
+        "link": "",
+        "stanceID": 114
+    },
+    {
+        "move": "Outstanding Results",
+        "button": "1,1,2,4",
+        "link": "",
+        "stanceID": 114
+    },
+    {
+        "move": "Dry Blood",
+        "button": "1,1,1,CS,1,1,CS",
+        "link": "",
+        "stanceID": 114
+    },
+    {
+        "move": "Bloodlust",
+        "button": "1,1,1,CS,1,1,2",
+        "link": "",
+        "stanceID": 114
+    },
+    {
+        "move": "Blood Thirsty",
+        "button": "1,1,1,CS,1,1,3,3",
+        "link": "",
+        "stanceID": 114
+    },
+    {
+        "move": "Bloodshed",
+        "button": "3,3",
         "link": "",
         "stanceID": 115
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Vampire Bash",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 115
+    },
+    {
+        "move": "Wandering Claws",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 115
+    },
+    {
+        "move": "Black Tiger",
+        "button": "1,1,1,3,3",
+        "link": "",
+        "stanceID": 115
+    },
+    {
+        "move": "Bloodshot",
+        "button": "1,1,1,CS",
+        "link": "",
+        "stanceID": 115
+    },
+    {
+        "move": "Blood Lusting",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 116
+    },
+    {
+        "move": "Blood Butcher",
+        "button": "2,2",
+        "link": "",
+        "stanceID": 116
+    },
+    {
+        "move": "Uplifting Horror",
+        "button": "3,4",
+        "link": "",
+        "stanceID": 116
+    },
+    {
+        "move": "Flesh Ripper",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 116
+    },
+    {
+        "move": "Death Seeker",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 116
+    },
+    {
+        "move": "Blood Frenzy",
+        "button": "1,1,F4",
         "link": "",
         "stanceID": 116
     },
 
     {
-        "move": "",
-        "button": "",
+        "move": "Knuckle Punches",
+        "button": "1,1",
         "link": "",
         "stanceID": 117
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Knuckle Master",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 117
+    },
+    {
+        "move": "Pelvis Ripper",
+        "button": "3,3",
+        "link": "",
+        "stanceID": 117
+    },
+    {
+        "move": "Finishing Touch",
+        "button": "2,B1",
+        "link": "",
+        "stanceID": 117
+    },
+    {
+        "move": "Let's Dance",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 117
+    },
+    {
+        "move": "Power Heels",
+        "button": "4,4",
+        "link": "",
+        "stanceID": 117
+    },
+    {
+        "move": "All Skill",
+        "button": "3,2,B1",
+        "link": "",
+        "stanceID": 117
+    },
+    {
+        "move": "Blackout",
+        "button": "2,CS,1,2,3",
+        "link": "",
+        "stanceID": 117
+    },
+    {
+        "move": "Rainstorm",
+        "button": "2,CS,1,2,CS",
+        "link": "",
+        "stanceID": 117
+    },
+    {
+        "move": "Thunder Clap",
+        "button": "2,3",
         "link": "",
         "stanceID": 118
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Trickster",
+        "button": "1,1,B2",
+        "link": "",
+        "stanceID": 118
+    },
+    {
+        "move": "Electric Strike",
+        "button": "2,B1",
+        "link": "",
+        "stanceID": 118
+    },
+    {
+        "move": "The Middle Way",
+        "button": "2,B2",
+        "link": "",
+        "stanceID": 118
+    },
+    {
+        "move": "Knowledge And Skill",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 118
+    },
+    {
+        "move": "Finishing Touch",
+        "button": "1,1,2,3",
+        "link": "",
+        "stanceID": 118
+    },
+    {
+        "move": "Natural Way",
+        "button": "1,1,2,B2",
+        "link": "",
+        "stanceID": 118
+    },
+    {
+        "move": "Wake The Dead",
+        "button": "1,1,2,B1",
+        "link": "",
+        "stanceID": 118
+    },
+    {
+        "move": "Power Outage",
+        "button": "1,1,2,CS",
+        "link": "",
+        "stanceID": 118
+    },
+    {
+        "move": "Rainfall",
+        "button": "2,2",
+        "link": "",
+        "stanceID": 119
+    },
+    {
+        "move": "Rainy Sword",
+        "button": "2,2,1",
+        "link": "",
+        "stanceID": 119
+    },
+    {
+        "move": "Dazzle",
+        "button": "4,4,4",
         "link": "",
         "stanceID": 119
     },
 
     {
-        "move": "",
-        "button": "",
+        "move": "Ninja Strikes",
+        "button": "1,1",
         "link": "",
         "stanceID": 120
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Cyber Kombo",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 120
+    },
+    {
+        "move": "Cyborg Strike",
+        "button": "1,1,B1",
+        "link": "",
+        "stanceID": 120
+    },
+    {
+        "move": "Stealth Blast",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 120
+    },
+    {
+        "move": "Robot Crunch",
+        "button": "1,1,U2",
+        "link": "",
+        "stanceID": 120
+    },
+    {
+        "move": "Cyber Push",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 120
+    },
+    {
+        "move": "Pain Killer",
+        "button": "1,1,B1,CS",
+        "link": "",
+        "stanceID": 120
+    },
+    {
+        "move": "3 Step Rush",
+        "button": "1,1,1",
         "link": "",
         "stanceID": 121
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Quicksand",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 121
+    },
+    {
+        "move": "Mustard",
+        "button": "1,1,B1",
+        "link": "",
+        "stanceID": 121
+    },
+    {
+        "move": "Oil Leak",
+        "button": "B2,2,2",
+        "link": "",
+        "stanceID": 121
+    },
+    {
+        "move": "Self Destruct",
+        "button": "1,1,B2,2,2",
+        "link": "",
+        "stanceID": 121
+    },
+    {
+        "move": "LK9T9",
+        "button": "B2,2,CS",
+        "link": "",
+        "stanceID": 121
+    },
+    {
+        "move": "LK4D4",
+        "button": "1,1,B2,2,CS",
+        "link": "",
+        "stanceID": 121
+    },
+    {
+        "move": "Deadly Blade",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 122
+    },
+    {
+        "move": "Spin Cycle",
+        "button": "4,2",
+        "link": "",
+        "stanceID": 122
+    },
+    {
+        "move": "Blindspot",
+        "button": "F2,1",
+        "link": "",
+        "stanceID": 122
+    },
+    {
+        "move": "Pain",
+        "button": "3,B3",
+        "link": "",
+        "stanceID": 122
+    },
+    {
+        "move": "Pulse Check",
+        "button": "4,3",
+        "link": "",
+        "stanceID": 122
+    },
+    {
+        "move": "Height Adjustment",
+        "button": "1,1,2",
         "link": "",
         "stanceID": 122
     },
 
     {
-        "move": "",
-        "button": "",
+        "move": "Cold Fists",
+        "button": "2,2",
         "link": "",
         "stanceID": 123
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Cold Fist Gets Icy",
+        "button": "2,2,U1",
+        "link": "",
+        "stanceID": 123
+    },
+    {
+        "move": "Cotton Rage",
+        "button": "B2,2,2",
+        "link": "",
+        "stanceID": 123
+    },
+    {
+        "move": "Krazy Legs",
+        "button": "4,3",
+        "link": "",
+        "stanceID": 123
+    },
+    {
+        "move": "Keeping Kontrol",
+        "button": "4,1",
+        "link": "",
+        "stanceID": 123
+    },
+    {
+        "move": "Extra Kareful",
+        "button": "4,3,CS,1,4",
+        "link": "",
+        "stanceID": 123
+    },
+    {
+        "move": "First Strike",
+        "button": "4,3,CS,1,2",
+        "link": "",
+        "stanceID": 123
+    },
+    {
+        "move": "Warlord Push",
+        "button": "4,3,CS,1,1",
+        "link": "",
+        "stanceID": 123
+    },
+    {
+        "move": "General Route",
+        "button": "4,3,CS,1,3,CS",
+        "link": "",
+        "stanceID": 123
+    },
+
+    {
+        "move": "Steel Punches",
+        "button": "1,1",
         "link": "",
         "stanceID": 124
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Triple Takeout",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 124
+    },
+    {
+        "move": "Head Spinner",
+        "button": "B1,2",
+        "link": "",
+        "stanceID": 124
+    },
+    {
+        "move": "Speedy Elbow",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 124
+    },
+    {
+        "move": "Silat's Salute",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 124
+    },
+    {
+        "move": "Rocky Road",
+        "button": "B1,3",
+        "link": "",
+        "stanceID": 124
+    },
+    {
+        "move": "Chest Damager",
+        "button": "1,1,3",
+        "link": "",
+        "stanceID": 124
+    },
+    {
+        "move": "Final Bash",
+        "button": "1,1,3,CS",
+        "link": "",
+        "stanceID": 124
+    },
+    {
+        "move": "Rushdown",
+        "button": "1,3",
+        "link": "",
+        "stanceID": 125
+    },
+    {
+        "move": "Magic Rush",
+        "button": "1,3,4",
+        "link": "",
+        "stanceID": 125
+    },
+    {
+        "move": "Beat Down",
+        "button": "1,3,4,4",
+        "link": "",
+        "stanceID": 125
+    },
+    {
+        "move": "Into The Shadows",
+        "button": "1,3,4,4,4",
         "link": "",
         "stanceID": 125
     },
 
     {
-        "move": "",
-        "button": "",
+        "move": "Twister Punches",
+        "button": "2,2",
         "link": "",
         "stanceID": 126
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Knocked Out",
+        "button": "2,2,2",
+        "link": "",
+        "stanceID": 126
+    },
+    {
+        "move": "Rocky Monday",
+        "button": "2,2,4",
+        "link": "",
+        "stanceID": 126
+    },
+    {
+        "move": "Excavation",
+        "button": "2,2,CS",
+        "link": "",
+        "stanceID": 126
+    },
+    {
+        "move": "Pillar Foundation",
+        "button": "2,2,CS,1,U3",
+        "link": "",
+        "stanceID": 126
+    },
+    {
+        "move": "Avalanche",
+        "button": "2,2,CS,1,2,CS",
+        "link": "",
+        "stanceID": 126
+    },
+    {
+        "move": "Hidden Hands",
+        "button": "1,1",
         "link": "",
         "stanceID": 127
     },
     {
-        "move": "",
-        "button": "",
+        "move": "Road To Victory",
+        "button": "1,1,1",
+        "link": "",
+        "stanceID": 127
+    },
+    {
+        "move": "Hidden Fists",
+        "button": "1,B1",
+        "link": "",
+        "stanceID": 127
+    },
+    {
+        "move": "Linked Thrust Kick",
+        "button": "1,1,4",
+        "link": "",
+        "stanceID": 127
+    },
+    {
+        "move": "Gathered Strength",
+        "button": "1,B3",
+        "link": "",
+        "stanceID": 127
+    },
+    {
+        "move": "Overhead Pain",
+        "button": "3,3,3",
+        "link": "",
+        "stanceID": 127
+    },
+    {
+        "move": "The Art Of War",
+        "button": "1,3",
+        "link": "",
+        "stanceID": 127
+    },
+    {
+        "move": "Masked Psycho",
+        "button": "1,1,2",
+        "link": "",
+        "stanceID": 127
+    },
+    {
+        "move": "The Beast",
+        "button": "1,1,U3",
+        "link": "",
+        "stanceID": 127
+    },
+    {
+        "move": "Crushing Moves",
+        "button": "1,1,2,CS",
+        "link": "",
+        "stanceID": 127
+    },
+    {
+        "move": "Fracture",
+        "button": "1,1",
+        "link": "",
+        "stanceID": 128
+    },
+    {
+        "move": "Rocks Away",
+        "button": "2,2",
+        "link": "",
+        "stanceID": 128
+    },
+    {
+        "move": "Beatdown",
+        "button": "1,1,F4",
+        "link": "",
+        "stanceID": 128
+    },
+    {
+        "move": "Quake",
+        "button": "1,1,B1",
+        "link": "",
+        "stanceID": 128
+    },
+    {
+        "move": "Destruction",
+        "button": "2,2,2",
+        "link": "",
+        "stanceID": 128
+    },
+    {
+        "move": "Boulder Fall",
+        "button": "1,1,2,2,2",
         "link": "",
         "stanceID": 128
     },
