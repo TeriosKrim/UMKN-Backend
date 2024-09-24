@@ -94,25 +94,25 @@
     {
         "move": "Bloody spear",
         "button": "B,F,1",
-        "link": "",
+        "link": "https://youtu.be/9u3jZEsXf5g",
         "fighterID": 3
     },
     {
         "move": "Hellfire",
         "button": "D,B,2",
-        "link": "",
+        "link": "https://youtu.be/j4vBDMvRtiA",
         "fighterID": 3
     },
     {
         "move": "Backflip kick",
         "button": "F,B,3",
-        "link": "",
+        "link": "https://youtu.be/HbtVND0X6K0",
         "fighterID": 3
     },
     {
         "move": "Teleport attack",
         "button": "D,B,3",
-        "link": "",
+        "link": "https://youtu.be/FJytiYkODXY",
         "fighterID": 3
     },
 
@@ -1241,7 +1241,7 @@
     },
     {
         "move": "Ball-O-Flies",
-        "button": "b,F1",
+        "button": "B,F1",
         "link": "",
         "fighterID": 32
     },
