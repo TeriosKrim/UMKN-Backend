@@ -982,7 +982,7 @@
     },
     {
         "move": "Fatality 1",
-        "button": "B,F,,F,B,4(Far)",
+        "button": "B,F,F,B,4(Far)",
         "link": "https://youtube.com/embed/Y_gNfKaqFOo",
         "fighterID": 23
     },

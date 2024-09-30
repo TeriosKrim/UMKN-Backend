@@ -14,7 +14,7 @@ server.use(cors());
 server.use(express.json());
 const clerkClient = createClerkClient({
     // secretKey: process.env.CLERK_SECRET_KEY,
-    secretKey: "sk_test_n61uD5dtM2vM9Qa0GwUhU7AyVAevx0qnoQ6NVEtR1V",
+    secretKey: "sk_live_TkngNiIBCWTqKuiKcLedKbRmxp30GEiCdllOVOnfdC",
 });
 // In your route / etc:
 // clerkClient.users

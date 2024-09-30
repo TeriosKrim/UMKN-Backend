@@ -38,7 +38,7 @@ const connectToDB = async () => {
 
 
         // Ensure models and associations are reflected in the database
-        await db.sync({force: true}); // Use alter or force options carefully
+        await db.sync({}); // Use alter or force options carefully
 
         const existingFighters = await fighter.findAll();
 
