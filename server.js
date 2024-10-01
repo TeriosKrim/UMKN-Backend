@@ -102,9 +102,22 @@ server.post("/comment", validateUserTokenMiddleware, async (req, res) => {
         createdByClerkUserId: req.auth.clerkUserId,
     });
     console.log(req.body);
+
+    const comments = await comment.findAll({
+        where: { fighterID: req.body.fighterID },
+    });
+
+    const userMetaDataPromises = comments.map((comment) => {
+        return clerkClient.users.getUser(comment.createdByClerkUserId);
+    });
+    const userMetaData = await Promise.all(userMetaDataPromises);
+
     res.send({
-        comments: await comment.findAll({
-            where: { fighterID: req.body.fighterID },
+        comments: comments.map((comment, index) => {
+            return {
+                ...comment.dataValues,
+                userMetaData: userMetaData[index],
+            };
         }),
     });
 });
